@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>pdway</title>
+        <link>https://liangxiaowei.github.io/</link>
+        <description>这是 pdway 的生活与技术博客</description>
+        <generator>Hugo 0.78.2 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>375761307@qq.com (pdway)</managingEditor>
+        
+        
+            <webMaster>375761307@qq.com (pdway)</webMaster>
+        
+        
+            <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+        
+        <lastBuildDate>Fri, 20 Nov 2020 10:48:20 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://liangxiaowei.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>hugo创建博客</title>
+                <link>https://liangxiaowei.github.io/tech/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+                <guid isPermaLink="true">https://liangxiaowei.github.io/tech/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+                <pubDate>Thu, 19 Nov 2020 16:52:03 &#43;0800</pubDate>
+                
+                    <author>375761307@qq.com (pdway)</author>
+                
+                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+                
+                    <description></description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://liangxiaowei.github.io/tech/">tech</category>
+                            
+                        
+                    
+                
+                
+                
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
