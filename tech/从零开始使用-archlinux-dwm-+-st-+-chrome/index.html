@@ -12,7 +12,7 @@
     
     <meta http-equiv="Cache-Control" content="no-siteapp" />
 
-    <title>从零开始使用 archlinux — dwm &#43; st &#43; chrome | pdway</title>
+    <title>从零开始使用 archlinux — dwm &#43; st 打开 chrome 愉快上网 | pdway</title>
 
     <link rel="stylesheet" href="/css/meme.min.css" />
 
@@ -54,14 +54,14 @@
         "@context": "https://schema.org",
         "@type": "BlogPosting",
         "datePublished": "2021-01-14T00:00:00+00:00",
-        "dateModified": "2021-01-14T17:36:16+08:00",
+        "dateModified": "2021-01-15T10:13:10+08:00",
         "url": "https://liangxiaowei.github.io/tech/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8-archlinux-dwm-+-st-+-chrome/",
-        "headline": "从零开始使用 archlinux — dwm + st + chrome",
+        "headline": "从零开始使用 archlinux — dwm + st 打开 chrome 愉快上网",
         "description": "我的硬件配置 操作系统越来越庞大、复杂，前不久，我买了台二手的 intel nuc8，内存 16G，……",
         "inLanguage" : "zh-CN",
         "articleSection": "tech",
-        "wordCount":  1040 ,
-        "image": "https://liangxiaowei.github.io/icons/apple-touch-icon.png",
+        "wordCount":  1288 ,
+        "image": ["https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/434d75a05387478f8be386733cfabeee~tplv-k3u1fbpfcp-watermark.image"],
         "author": {
             "@type": "Person",
             "description": "Viva La Vida",
@@ -89,21 +89,22 @@
 
     
 
-<meta name="twitter:card" content="summary" />
+<meta name="twitter:card" content="summary_large_image" />
+
 
 
     
 
 
 
-<meta property="og:title" content="从零开始使用 archlinux — dwm &#43; st &#43; chrome" />
+<meta property="og:title" content="从零开始使用 archlinux — dwm &#43; st 打开 chrome 愉快上网" />
 <meta property="og:description" content="我的硬件配置 操作系统越来越庞大、复杂，前不久，我买了台二手的 intel nuc8，内存 16G，……" />
 <meta property="og:url" content="https://liangxiaowei.github.io/tech/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8-archlinux-dwm-&#43;-st-&#43;-chrome/" />
 <meta property="og:site_name" content="pdway" />
-<meta property="og:locale" content="zh" /><meta property="og:image" content="https://liangxiaowei.github.io/icons/apple-touch-icon.png" />
-    <meta property="og:type" content="article" />
+<meta property="og:locale" content="zh" /><meta property="og:image" content="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/434d75a05387478f8be386733cfabeee~tplv-k3u1fbpfcp-watermark.image" />
+<meta property="og:type" content="article" />
     <meta property="article:published_time" content="2021-01-14T00:00:00&#43;00:00" />
-    <meta property="article:modified_time" content="2021-01-14T17:36:16&#43;08:00" />
+    <meta property="article:modified_time" content="2021-01-15T10:13:10&#43;08:00" />
     
     <meta property="article:section" content="tech" />
 
@@ -191,7 +192,7 @@
 
         <article class="content post h-entry" data-align="justify" data-type="tech" data-toc-num="true">
 
-            <h1 class="post-title p-name">从零开始使用 archlinux — dwm + st + chrome</h1>
+            <h1 class="post-title p-name">从零开始使用 archlinux — dwm + st 打开 chrome 愉快上网</h1>
 
             
 
@@ -210,7 +211,10 @@
 </code></pre><p>然后再执行这个指令来同步硬件时间：</p>
 <pre><code>hwclock --systohc 
 </code></pre><p>上面文章其实有提到单系统可以这么操作，双系统我不知道直接这么操作有什么影响，所以谨慎模仿。</p>
-<h4 id="配置下载源"><a href="#配置下载源" class="anchor-link">#</a>配置下载源</h4>
+<h4 id="文本编辑器"><a href="#文本编辑器" class="anchor-link">#</a>文本编辑器</h4>
+<p>我用的是 nano，操作比较简单。没下载的可以下载一下，下面修改文件需要用到文本编辑器。</p>
+<pre><code>sudo pacman -S nano
+</code></pre><h4 id="配置下载源"><a href="#配置下载源" class="anchor-link">#</a>配置下载源</h4>
 <p>在安装过程中，已经在 /etc/pacman.d/mirrorlist 这个文件下，把国内的镜像源地址放到最前面。不知道为啥，和网上的教程都不一样，我这个文件一开始是没有将镜像源地址按照国家划分，也没有国内的镜像源地址，国内的镜像源地址我是自己手打上去的。我还改了 /etc/pacman.conf 这个文件，在里面添加 Arch Linux 中文社区仓库的地址，原因和修改内容上面那篇文章有提到。加完后，需要安装密匙</p>
 <pre><code>sudo pacman -S archlinuxcn-keyring
 </code></pre><h4 id="wifi-连接"><a href="#wifi-连接" class="anchor-link">#</a>wifi 连接</h4>
@@ -250,9 +254,15 @@ sudo pacman -S xorg-xinit
 <li>下载 st 源代码
 <pre><code>git clone https://git.suckless.org/st --depth=1
 </code></pre></li>
-<li>根据上面说的 <a href="https://www.bilibili.com/video/BV1t4411K74H?t=343" target="_blank" rel="noopener">st 视频</a>修改 config.mk 文件</li>
+<li>根据上面说的 <a href="https://www.bilibili.com/video/BV1t4411K74H?t=343" target="_blank" rel="noopener">st 视频</a>修改 config.mk 文件
+<pre><code>#X11INC = /usr/X11R6/include
+#X11LIB = /usr/X11R6/lib
+# 以上两行改成下面两行
+X11INC = /usr/include/X11
+X11LIB = /usr/include/X11
+</code></pre></li>
 <li>编译并且安装 st
-<pre><code>make clean install
+<pre><code>sudo make clean install
 </code></pre></li>
 </ol>
 <p>安装完 st，再进入 dwm，然后 alt + shift + enter 打开终端 st。这时候你就可以在 dwm 里面玩耍了。</p>
@@ -261,7 +271,13 @@ sudo pacman -S xorg-xinit
 <pre><code>sudo pacman -S google-chrome
 </code></pre><p>安装完，终端输入以下命令来启动浏览器</p>
 <pre><code>google-chrome-stable
-</code></pre>
+</code></pre><h4 id="修改-st-的字体和字体大小"><a href="#修改-st-的字体和字体大小" class="anchor-link">#</a>修改 st 的字体和字体大小</h4>
+<p>一开始 st 的字体会有点小，在我的电脑上还出现字母之间遮挡的问题，可以通过修改 st 目录下面的 config.h 文件来修改字体。文件打开如下图所示，找到划线的那一行代码
+<img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/434d75a05387478f8be386733cfabeee~tplv-k3u1fbpfcp-watermark.image" alt="">
+我将上面划线的部分改成了</p>
+<pre><code>Source Code Pro:pixelsize=24
+</code></pre><p>Source Code Pro 是一种字体，pixelsize=24 改变字体的大小。改完这个文件保存退出，重新执行 <code>sudo make clean install</code> 编译并且安装 st，然后退出 dwm，重新启动 dwm 就行了。</p>
+
             </div>
 
             
