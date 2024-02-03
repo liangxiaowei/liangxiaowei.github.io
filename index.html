@@ -3,9 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta name="referrer" content="no-referrer" />
+    <title>我的书架</title>
+    <script src="app.js" type="module"></script>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <p>hello world!</p>
+    <main>        
+    </main>
+
+    <template id="bookshelf-page-template">
+        <div class="booklist">
+            
+        </div>
+    </template>
+    <template id="book-page-template">
+        <ul class="quotelist">
+        </ul>
+    </template>
+    <template id="book-item-template">
+        <div class="book-item">
+            <img class="book-item-cover">
+            <!-- <div class="book-item-name"></div> -->
+            <div class="book-item-printdate"></div>
+        </div>
+    </template>
 </body>
 </html>

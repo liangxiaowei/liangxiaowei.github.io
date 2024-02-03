@@ -1,0 +1,29 @@
+.booklist {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.book-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 24px;
+    margin-bottom: 24px;
+}
+
+.book-item-cover {
+    width: 100px;
+}
+
+.book-item-name {
+    font-size: 16px;
+    color: #999;
+    max-width: 80px;
+}
+
+.book-item-printdate {
+    font-size: 14px;
+    color: #999;
+    margin-top: 10px;
+}
