@@ -1,22 +1,27 @@
 import API from './API.js'
 
 export async function loadData() {
-    const data = await API.fetchBookList();
-    app.store.bookList = data;
+    if (app.store.bookList==null) {
+        await API.fetchBookList();
+    }
 }
 
 export async function getBookList() {
-    if (app.store.bookList==null) {
-        await loadData();
-    }
-    
+    await loadData();
     return app.store.bookList;
 }
 
 export async function getBookById(id) {
-    if (app.store.bookList==null) {
-        await loadData();
-    }
-   
+    await loadData();
     return app.store.bookList.filter(e => e.name === id)[0];
+}
+
+export async function getBookListByTag(tag) {
+    await loadData();
+    return app.store.bookList.filter(e => new Set([tag]).intersection(new Set(e.tags)).size > 0);
+}
+
+export async function getBookTagList() {
+    await loadData();
+    return app.store.bookTagSet;
 }
