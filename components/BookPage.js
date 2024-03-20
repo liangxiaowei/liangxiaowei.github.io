@@ -23,8 +23,7 @@ export default class BookPage extends HTMLElement {
     async renderData() {
         if (this.dataset.bookId) {
             this.book = await BookService.getBookById(this.dataset.bookId);
-            const result = await BookService.getBookListByTag('读过');
-            console.log(result);
+            
 
             const ul = this.root.querySelector(".quotelist");
             this.book.quoteList.forEach(quote => {

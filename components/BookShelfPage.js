@@ -20,11 +20,15 @@ export default class BookShelfPage extends HTMLElement {
         this.root.appendChild(content);
 
         
-        this.render();
+        this.render('全部');
     }
 
-    async render() {
-        const bookList = await BookService.getBookList();
+    async render(targetTag) {
+        this.root.querySelector(".booklist").innerHTML = ""
+        this.root.querySelector(".taglist").innerHTML = ""
+
+        let service = targetTag && targetTag !== '全部' ? BookService.getBookListByTag : BookService.getBookList;
+        const bookList = await service(targetTag);
         bookList.
             map((book) => {
                 book.year = parseInt(book.printDate.split('-')[0])
@@ -42,6 +46,21 @@ export default class BookShelfPage extends HTMLElement {
             const item = document.createElement("book-item");
             item.dataset.book = JSON.stringify(book);
             this.root.querySelector(".booklist").appendChild(item);
+        });
+
+        const tagList = await BookService.getBookTagList();
+        tagList.add('全部');
+        tagList.forEach(tag => {
+            const tagElement = document.createElement("div");
+            tagElement.textContent = `${tag}`;
+            if (targetTag === tag) {
+                tagElement.style = 'color:red;';
+                tagElement.textContent = `${tag}(${bookList.length})`;
+            }
+            tagElement.addEventListener("click", ()=> {
+                this.render(tag)
+            });
+            this.root.querySelector(".taglist").appendChild(tagElement)
         });
     }
 }

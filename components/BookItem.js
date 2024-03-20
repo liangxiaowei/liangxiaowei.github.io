@@ -14,6 +14,7 @@
     // book.doubalLink = window.location.href
     // book.desc = ''
     // book.version = 1
+    // book.tags = ''
     // JSON.stringify(book)
 export default class BookItem extends HTMLElement {
     constructor() {

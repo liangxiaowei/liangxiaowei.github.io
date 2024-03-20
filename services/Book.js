@@ -16,9 +16,11 @@ export async function getBookById(id) {
     return app.store.bookList.filter(e => e.name === id)[0];
 }
 
-export async function getBookListByTag(tag) {
+export async function getBookListByTag(targetTag) {
     await loadData();
-    return app.store.bookList.filter(e => new Set([tag]).intersection(new Set(e.tags)).size > 0);
+    return app.store.bookList.filter(e => {
+        return e.tags.filter(tag => tag === targetTag).length > 0
+    });
 }
 
 export async function getBookTagList() {
