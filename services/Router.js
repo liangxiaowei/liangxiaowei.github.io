@@ -22,6 +22,9 @@ const Router = {
 
         let pageElement = null;
         switch (route) {
+            case "/bookshelf.html":
+                pageElement = document.createElement("bookshelf-page");
+                break;
             case "/":
                 pageElement = document.createElement("bookshelf-page");
                 break;
