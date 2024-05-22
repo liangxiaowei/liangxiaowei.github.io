@@ -29,7 +29,7 @@ const tabs = [
   },
   {
     name: "书架",
-    route: "/bookshelf.html",
+    route: "/pages/bookshelf/index.html",
   },
 ];
 
