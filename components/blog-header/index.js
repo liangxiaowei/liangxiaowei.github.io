@@ -25,7 +25,7 @@ const tabs = [
   },
   {
     name: "文章",
-    route: "/",
+    route: "/pages/postList/index.html",
   },
   {
     name: "书架",
