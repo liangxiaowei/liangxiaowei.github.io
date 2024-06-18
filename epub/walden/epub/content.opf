@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henry-david-thoreau/walden</dc:identifier>
+		<dc:date>2014-05-25T00:00:00Z</dc:date>
+		<meta property="dcterms:modified">2024-05-10T19:42:01Z</meta>
+		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
+		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">readingOrder</meta>
+		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityFeature">unlocked</meta>
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
+		<dc:title id="title">Walden</dc:title>
+		<meta property="file-as" refines="#title">Walden</meta>
+		<dc:subject id="subject-1">Authors, American -- 19th century -- Biography</dc:subject>
+		<dc:subject id="subject-2">Thoreau, Henry David, 1817-1862 -- Homes and haunts -- Massachusetts -- Walden Woods</dc:subject>
+		<dc:subject id="subject-3">Wilderness areas -- Massachusetts -- Walden Woods</dc:subject>
+		<dc:subject id="subject-4">Natural history -- Massachusetts -- Walden Woods</dc:subject>
+		<dc:subject id="subject-5">Solitude</dc:subject>
+		<dc:subject id="subject-6">Walden Woods (Mass.) -- Social life and customs</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2007100461</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008113510</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008108322</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85124673</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008113509</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">Thoreau’s report on his social experiment of solitude, simplicity, and self-reliance.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;Walden&lt;/i&gt; is one of the more famous transcendentalist tracts in modern American literature. First published in 1854, &lt;i&gt;Walden&lt;/i&gt; is an account of &lt;a href="https://standardebooks.org/ebooks/henry-david-thoreau"&gt;Thoreau’s&lt;/a&gt; famous experiment in solitude: spending over two years alone in a cabin near the wilderness.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Walden&lt;/i&gt; is broken into sections that meditate on single themes: economy, reading, sounds, solitude, visitors, and so on. The style is complex, weaving back and forth between simple, home-spun prose and complex allegory, metaphor, and allusion. This makes &lt;i&gt;Walden&lt;/i&gt; an interesting read because while it may seem accessible on the surface, it’s a book that requires deep and repeated reading to fully appreciate its many complexities.&lt;/p&gt;
+		</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/205</dc:source>
+		<dc:source>https://archive.org/details/waldenorlifeinwo1854thor</dc:source>
+		<meta property="se:word-count">107005</meta>
+		<meta property="se:reading-ease.flesch">59.77</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Walden</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-david-thoreau_walden</meta>
+		<dc:creator id="author">Henry David Thoreau</dc:creator>
+		<meta property="file-as" refines="#author">Thoreau, Henry David</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Henry_David_Thoreau</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095600</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="artist">Ivan Ivanovich Shishkin</dc:contributor>
+		<meta property="file-as" refines="#artist">Shishkin, Ivan Ivanovich</meta>
+		<meta property="alternate-script" refines="#artist" xml:lang="ru">Ива́н Ива́нович Ши́шкин</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ivan_Shishkin</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82119235</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
+		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="se:built-with">2.6.3</meta>
+		<meta name="cover" content="cover.jpg"/>
+		<meta property="se:transform">compatibility</meta>
+	</metadata>
+	<manifest>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="css/se.css" id="se.css" media-type="text/css"/>
+		<item href="images/cover.jpg" id="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+		<item href="images/logo.png" id="logo.png" media-type="image/png"/>
+		<item href="images/titlepage.png" id="titlepage.png" media-type="image/png"/>
+		<item href="text/baker-farm.xhtml" id="baker-farm.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/brute-neighbors.xhtml" id="brute-neighbors.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/conclusion.xhtml" id="conclusion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/economy.xhtml" id="economy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/former-inhabitants-and-winter-visitors.xhtml" id="former-inhabitants-and-winter-visitors.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/higher-laws.xhtml" id="higher-laws.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/house-warming.xhtml" id="house-warming.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/reading.xhtml" id="reading.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/solitude.xhtml" id="solitude.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sounds.xhtml" id="sounds.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spring.xhtml" id="spring.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-bean-field.xhtml" id="the-bean-field.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-pond-in-winter.xhtml" id="the-pond-in-winter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-ponds.xhtml" id="the-ponds.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-village.xhtml" id="the-village.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/visitors.xhtml" id="visitors.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/where-i-lived-and-what-i-lived-for.xhtml" id="where-i-lived-and-what-i-lived-for.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/winter-animals.xhtml" id="winter-animals.xhtml" media-type="application/xhtml+xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
+		<itemref idref="economy.xhtml"/>
+		<itemref idref="where-i-lived-and-what-i-lived-for.xhtml"/>
+		<itemref idref="reading.xhtml"/>
+		<itemref idref="sounds.xhtml"/>
+		<itemref idref="solitude.xhtml"/>
+		<itemref idref="visitors.xhtml"/>
+		<itemref idref="the-bean-field.xhtml"/>
+		<itemref idref="the-village.xhtml"/>
+		<itemref idref="the-ponds.xhtml"/>
+		<itemref idref="baker-farm.xhtml"/>
+		<itemref idref="higher-laws.xhtml"/>
+		<itemref idref="brute-neighbors.xhtml"/>
+		<itemref idref="house-warming.xhtml"/>
+		<itemref idref="former-inhabitants-and-winter-visitors.xhtml"/>
+		<itemref idref="winter-animals.xhtml"/>
+		<itemref idref="the-pond-in-winter.xhtml"/>
+		<itemref idref="spring.xhtml"/>
+		<itemref idref="conclusion.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="uncopyright.xhtml"/>
+	</spine>
+</package>

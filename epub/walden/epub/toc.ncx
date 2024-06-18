@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta content="url:https://standardebooks.org/ebooks/henry-david-thoreau/walden" name="dtb:uid"/>
+	</head>
+	<docTitle>
+		<text>Table of Contents</text>
+	</docTitle>
+	<navMap id="navmap">
+		<navPoint id="navpoint-1" playOrder="1">
+			<navLabel>
+				<text>Titlepage</text>
+			</navLabel>
+			<content src="text/titlepage.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-2" playOrder="2">
+			<navLabel>
+				<text>Imprint</text>
+			</navLabel>
+			<content src="text/imprint.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-3" playOrder="3">
+			<navLabel>
+				<text>Economy</text>
+			</navLabel>
+			<content src="text/economy.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-4" playOrder="4">
+			<navLabel>
+				<text>Where I Lived, and What I Lived For</text>
+			</navLabel>
+			<content src="text/where-i-lived-and-what-i-lived-for.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-5" playOrder="5">
+			<navLabel>
+				<text>Reading</text>
+			</navLabel>
+			<content src="text/reading.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-6" playOrder="6">
+			<navLabel>
+				<text>Sounds</text>
+			</navLabel>
+			<content src="text/sounds.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-7" playOrder="7">
+			<navLabel>
+				<text>Solitude</text>
+			</navLabel>
+			<content src="text/solitude.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-8" playOrder="8">
+			<navLabel>
+				<text>Visitors</text>
+			</navLabel>
+			<content src="text/visitors.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-9" playOrder="9">
+			<navLabel>
+				<text>The Bean-Field</text>
+			</navLabel>
+			<content src="text/the-bean-field.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-10" playOrder="10">
+			<navLabel>
+				<text>The Village</text>
+			</navLabel>
+			<content src="text/the-village.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-11" playOrder="11">
+			<navLabel>
+				<text>The Ponds</text>
+			</navLabel>
+			<content src="text/the-ponds.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-12" playOrder="12">
+			<navLabel>
+				<text>Baker Farm</text>
+			</navLabel>
+			<content src="text/baker-farm.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-13" playOrder="13">
+			<navLabel>
+				<text>Higher Laws</text>
+			</navLabel>
+			<content src="text/higher-laws.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-14" playOrder="14">
+			<navLabel>
+				<text>Brute Neighbors</text>
+			</navLabel>
+			<content src="text/brute-neighbors.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-15" playOrder="15">
+			<navLabel>
+				<text>House-Warming</text>
+			</navLabel>
+			<content src="text/house-warming.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-16" playOrder="16">
+			<navLabel>
+				<text>Former Inhabitants and Winter Visitors</text>
+			</navLabel>
+			<content src="text/former-inhabitants-and-winter-visitors.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-17" playOrder="17">
+			<navLabel>
+				<text>Winter Animals</text>
+			</navLabel>
+			<content src="text/winter-animals.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-18" playOrder="18">
+			<navLabel>
+				<text>The Pond in Winter</text>
+			</navLabel>
+			<content src="text/the-pond-in-winter.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-19" playOrder="19">
+			<navLabel>
+				<text>Spring</text>
+			</navLabel>
+			<content src="text/spring.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-20" playOrder="20">
+			<navLabel>
+				<text>Conclusion</text>
+			</navLabel>
+			<content src="text/conclusion.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-21" playOrder="21">
+			<navLabel>
+				<text>Colophon</text>
+			</navLabel>
+			<content src="text/colophon.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-22" playOrder="22">
+			<navLabel>
+				<text>Uncopyright</text>
+			</navLabel>
+			<content src="text/uncopyright.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>
