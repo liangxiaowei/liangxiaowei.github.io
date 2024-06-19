@@ -109,5 +109,5 @@ export async function getBookListByTag(targetTag) {
 
 export async function getBookTagList() {
   await fetchBookList();
-  return app.store.bookTagSet;
+  return Array.from(app.store.bookTagSet);
 }

@@ -1,9 +1,3 @@
-window.app = {};
-// 让 Store 变成一个全局单例对象
-app.store = {
-
-};
-
 import *  as postService from '/services/Post.js'
 
 function postToRenderItem(post) {  

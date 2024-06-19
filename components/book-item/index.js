@@ -35,10 +35,10 @@ export default class BookItem extends HTMLElement {
         : book.printDate;
     // this.querySelector(".book-item-name").textContent = book.name;
     this.querySelector(".book-item-cover").src = book.cover;
-    this.querySelector(".book-item-cover").title = book.name;
+    this.querySelector(".book-item-cover").alt = book.name;
     this.querySelector(".book-item-printdate").textContent = book.printDate;
     this.addEventListener("click", () => {
-      window.location.href = `/pages/bookNote/index.html?id=${book.name}`;
+      window.location.href = `/pages/post/index.html?name=${book.name}`;
     });
   }
 }
