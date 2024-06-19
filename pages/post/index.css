@@ -11,3 +11,7 @@
         max-width: 90%;
     }
 }
+
+li {
+    list-style: disc;
+}
