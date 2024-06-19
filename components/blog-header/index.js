@@ -24,6 +24,10 @@ const tabs = [
     route: "/",
   },
   {
+    name: "tweet",
+    route: "/pages/post/index.html?name=tweet",
+  },
+  {
     name: "文章",
     route: "/pages/postList/index.html",
   },

@@ -61,7 +61,7 @@ export default class BookShelfPage extends HTMLElement {
   async renderTagList(tagList, targetTag, targetBookListLength) {
     let tagListHtml = tagList.map((tag) => {
       const isTarget = targetTag === tag
-      return isTarget ? `<div data-tag=${tag} style="color:red;">${tag}(${targetBookListLength})</div>`  : `<div data-tag=${tag}>${tag}</div>`
+      return isTarget ? `<div class="tag" data-tag=${tag} style="color:red;">${tag}(${targetBookListLength})</div>`  : `<div class="tag" data-tag=${tag}>${tag}</div>`
     }).join("")
 
     this.root.querySelector(".taglist").innerHTML = tagListHtml;
