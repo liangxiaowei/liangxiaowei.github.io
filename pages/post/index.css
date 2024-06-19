@@ -3,3 +3,11 @@
     margin-top: 60px;
     max-width: 60%;
 }
+
+@media (max-width: 480px) {
+    .markdown-body {
+        margin: 0 auto;
+        margin-top: 20px;
+        max-width: 90%;
+    }
+}
