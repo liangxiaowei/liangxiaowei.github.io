@@ -15,7 +15,8 @@
 * true
 * beheld
 * sang
-* mile|公里
+* dollar#[ˋdɑlɚ][ˋdɔlə]|美元
+* mile#[maɪl][mail]|公里
 * is#[ɪz]|是
 * the#[ðə][ðə]|那个
 * be#[bi][bi]|被
@@ -32,7 +33,7 @@
 * for#[fə(r)][fɔr,fə]|因为|作为
 * you
 * he
-* with#[wɪð][wɪθ]|与
+* with#[wɪð][wɪθ]|与|用
 * on#[ɒn][ɑ:n]|在..上
 * do#[du][du]|用于加强语气
 * say#[seɪ][se]|说
@@ -48,20 +49,20 @@
 * n''t
 * by#[baɪ][baɪ]|被
 * she
-* or
-* as#[əz][æz,əz]|作为
+* or#[ɔ:(r)][ɔr]|或者
+* as#[əz][æz,əz]|作为|由于
 * what#[wɒt][wɑ:t]|什么
 * go
 * their#[ðeə(r)][ðer]|ta们的
 * can#[kæn][kæn]|可以
 * who
-* get
+* get#[ɡet][ɡɛt]|得到
 * if#[ɪf][ɪf]|如果
 * would
-* her
-* all
+* her#[hə(r)][hɚ, ɚ,hɚr]|她的
+* all#[ɔ:l][ɔl]|全部
 * my#[maɪ][maɪ]|我的
-* make
+* make#[meɪk][mek]|制作|使成为
 * about
 * know#[nəʊ][noʊ]|知道
 * will
@@ -82,13 +83,13 @@
 * take#[teɪk][tek]|拿
 * out#[aʊt][aʊt]|（从…里）出来
 * into#[ˈɪntə][ˈɪntu]|（表示状态）进入…状态
-* just
+* just#[dʒʌst][dʒʌst]|刚刚
 * see#[si:][si]|看见
 * him#[hɪm][hɪm]|他
 * your
 * come#[kʌm][kʌm]|来
 * could
-* now
+* now#[naʊ][naʊ]|现在
 * than
 * like
 * other
@@ -99,7 +100,7 @@
 * two
 * more
 * these
-* want
+* want#[wɒnt][wɑ:nt]|想要
 * way
 * look
 * first
@@ -111,15 +112,15 @@
 * use
 * no
 * man#[mæn][mæn]|人|男人
-* find
+* find#[faɪnd][faɪnd]|发现
 * here
 * thing#[θɪŋ][θɪŋ]|事物|事情
-* give
+* give#[gɪv][ɡɪv]|给
 * many#[ˈmeni][ˈmɛni]|许多
 * well#[wel][wɛl]|好
 * only
 * those
-* tell
+* tell#[tel][tɛl]|分辨
 * one
 * very
 * her
@@ -139,10 +140,10 @@
 * after
 * should#[ʃʊd][ʃʊd]|应该
 * call
-* world
+* world#[wɜ:ld][wɜ:rld]|世界
 * over
 * school
-* still
+* still#[stɪl][stɪl]|仍然
 * try
 * in
 * as
@@ -154,7 +155,7 @@
 * three
 * when
 * state
-* never
+* never#[ˈnevə(r)][ˈnɛvɚ]|从不
 * become
 * between
 * high#[haɪ][haɪ]|高
@@ -172,7 +173,7 @@
 * while
 * mean
 * on
-* keep
+* keep#[ki:p][kip]|留着
 * student
 * why
 * let#[let][lɛt]|让
@@ -180,7 +181,7 @@
 * same
 * big
 * group
-* begin
+* begin#[bɪˈgɪn][ˈbeɡɪn]|开始
 * seem
 * country#[ˈkʌntri][ˈkʌntri]|乡村
 * help
@@ -197,9 +198,9 @@
 * part
 * about
 * against
-* place#[pleɪs][ples]|放置
+* place#[pleɪs][ples]|放置|地方
 * over#[ˈəʊvə(r)][ˈoʊvə(r)]|（表示方向）越过
-* such
+* such#[sʌtʃ][sʌtʃ]|这样的
 * again
 * few
 * case
@@ -209,7 +210,7 @@
 * where
 * system
 * each#[i:tʃ][itʃ]|每个
-* right
+* right#[raɪt][raɪt]|权利
 * program
 * hear
 * so
@@ -235,10 +236,10 @@
 * bring
 * happen
 * next
-* without
+* without#[wɪˈðaʊt][wɪðˈaʊt, wɪθ-]|没有
 * before#[bɪˈfɔ:(r)][bɪˈfɔr,-ˈfor]|在..前面
 * large
-* all#[ɔ:l][ɔl]|全部
+* all
 * million
 * must
 * home
@@ -277,7 +278,7 @@
 * house#[haʊs][haʊs]|房子
 * yes
 * after
-* since
+* since#[sɪns][sɪns]|从..以后|
 * long
 * provide
 * service
@@ -301,7 +302,7 @@
 * stand#[stænd][stænd]|站立
 * bad
 * lose
-* however
+* however#[haʊˈevə(r)][haʊˈevɚ]|然而
 * member
 * pay
 * law
@@ -323,11 +324,11 @@
 * president
 * learn
 * real#[ˈri:əl][ˈriəl, ril]|真正的
-* change
+* change#[tʃeɪndʒ][tʃendʒ]|改变
 * team
 * minute
 * best#[best][bɛst]|最好的
-* several
+* several#[ˈsevrəl][ˈsɛvərəl,ˈsɛvrəl]|几个
 * idea
 * kid
 * body
@@ -341,7 +342,7 @@
 * whether
 * back
 * watch
-* together
+* together#[təˈgeðə(r)][təˈɡɛðɚ]|一起
 * follow
 * around
 * parent
@@ -352,7 +353,7 @@
 * create
 * public
 * already
-* speak
+* speak#[spi:k][spik]|讲
 * others
 * read
 * level
@@ -390,7 +391,7 @@
 * air
 * teacher
 * force
-* offer
+* offer#[ˈɒfə(r)][ˈɔ:fə(r)]|提供
 * enough#[ɪˈnʌf][ɪˈnʌf]|足够的
 * both
 * education
@@ -460,7 +461,7 @@
 * else
 * pass
 * former
-* sell
+* sell#[sel][sɛl]|售卖
 * major
 * sometimes
 * require
@@ -483,10 +484,10 @@
 * leader
 * light
 * voice
-* wife
+* wife#[waɪf][waɪf]|老婆
 * whole
 * police
-* mind#[maɪnd][maɪnd]|头脑
+* mind#[maɪnd][maɪnd]|头脑|想法
 * finally
 * pull
 * return
@@ -504,7 +505,7 @@
 * develop
 * view
 * relationship
-* carry#[ˈkæri][ˈkæri]|继续
+* carry#[ˈkæri][ˈkæri]|继续|携带|输送
 * town
 * road
 * drive
@@ -658,7 +659,7 @@
 * Congress
 * floor
 * campaign
-* material
+* material#[məˈtɪəriəl][məˈtɪriəl]|材料
 * population
 * well
 * call
@@ -723,7 +724,7 @@
 * note
 * fine#[faɪn][faɪn]|好的
 * before
-* near
+* near#[nɪə(r)][nɪr]|近处
 * movement
 * page
 * enter
@@ -836,7 +837,7 @@
 * sex
 * forward
 * lawyer
-* present
+* present#[ˈpreznt][ˈprɛznt]|礼物
 * section
 * environmental
 * glass
@@ -857,7 +858,7 @@
 * sort#[sɔ:t][sɔ:rt]|分类、类别|挑选
 * one
 * act
-* ten
+* ten#[ten][tɛn]|十
 * knowledge
 * gun
 * station
@@ -869,7 +870,7 @@
 * discuss
 * indeed
 * force
-* truth
+* truth#[tru:θ][truθ]|真相
 * song
 * example
 * democratic
@@ -879,7 +880,7 @@
 * dark
 * public
 * various
-* rather
+* rather#[ˈrɑ:ðə(r)][ˈræðər]|相反地|相当|而不是
 * laugh
 * guess
 * executive
@@ -1040,7 +1041,7 @@
 * whom
 * skin
 * agent
-* owner
+* owner#[ˈəʊnə(r)][ˈoʊnə(r)]|物主
 * machine
 * gas
 * down
@@ -1062,7 +1063,7 @@
 * tend
 * investment
 * discussion
-* finger
+* finger#[ˈfɪŋgə(r)][ˈfɪŋɡɚ]|手指
 * garden
 * notice
 * collection
@@ -1075,7 +1076,7 @@
 * consumer
 * shot
 * budget
-* wish
+* wish#[wɪʃ][wɪʃ]|希望
 * painting
 * scientist
 * safe
@@ -1106,7 +1107,7 @@
 * prevent
 * citizen
 * majority
-* none
+* none#[nʌn][nʌn]|无法
 * front
 * born
 * admit
@@ -1140,7 +1141,7 @@
 * cost
 * relation
 * like
-* release
+* release#[rɪˈli:s][rɪ'li:s]|解除、解约
 * own
 * bird
 * opinion
@@ -1341,7 +1342,7 @@
 * protection
 * settle
 * feed
-* collect
+* collect#[kəˈlekt][kəˈlɛkt]|收集
 * additional
 * while
 * highly
@@ -1445,7 +1446,7 @@
 * cook
 * connection
 * charge
-* burn
+* burn#[bɜ:n][bɜ:rn]|燃烧
 * shoe
 * view
 * grade
@@ -1547,7 +1548,7 @@
 * application
 * neck
 * lean
-* damage
+* damage#[ˈdæmɪdʒ][ˈdæmɪdʒ]|损害
 * plastic
 * tall
 * plate
@@ -1579,7 +1580,7 @@
 * desire
 * assessment
 * injury
-* respect
+* respect#[rɪˈspekt][rɪˈspɛkt]|尊重
 * northern
 * nod
 * paint
@@ -1768,7 +1769,7 @@
 * declare
 * outside
 * appreciate
-* actual
+* actual#[ˈæktʃuəl][ˈæktʃuəl]|实际的
 * bottle
 * hardly
 * setting
@@ -1949,7 +1950,7 @@
 * winner
 * volume
 * travel
-* seed
+* seed#[si:d][sid]|种子
 * surprised
 * rest
 * fashion
@@ -2370,7 +2371,7 @@
 * enhance
 * mystery
 * impose
-* poverty
+* poverty#[ˈpɒvəti][ˈpɑ:vərti]|贫穷
 * other
 * entry
 * fat
@@ -2691,7 +2692,7 @@
 * ahead
 * clothing
 * super
-* yield
+* yield#[ji:ld][jild]|生产
 * fence
 * portrait
 * paint
@@ -2742,7 +2743,7 @@
 * literary
 * virus
 * stupid
-* dispute
+* dispute#[dɪˈspju:t][dɪˈspjut]|争论
 * fortune
 * strategic
 * assistant
@@ -2764,7 +2765,7 @@
 * adviser
 * pay
 * spokesman
-* retain
+* retain#[rɪˈteɪn][rɪˈten]|留在心中
 * latter
 * incentive
 * slave
@@ -3644,7 +3645,7 @@
 * arena
 * laugh
 * diagnosis
-* possession
+* possession#[pəˈzeʃn][pəˈzɛʃən]|拥有|所有权
 * forgive
 * warm
 * consistently
@@ -3938,7 +3939,7 @@
 * fist
 * endorse
 * exploration
-* generous
+* generous#[ˈdʒenərəs][ˈdʒɛnərəs]|慷慨的
 * bath
 * rescue
 * thereby
@@ -4083,7 +4084,7 @@
 * sink
 * ruling
 * shortage
-* annually
+* annually#[ˈænjuəli][ˈænjʊəlɪ]|每年
 * lately
 * trap
 * scan
@@ -6033,7 +6034,7 @@
 * head
 * upgrade
 * manifest
-* refusal
+* refusal#[rɪˈfju:zl][rɪˈfjuzəl]|优先取舍权
 * erosion
 * recreational
 * flush
@@ -6983,7 +6984,7 @@
 * finished
 * landfill
 * fund-raiser
-* surpass
+* surpass#[səˈpɑ:s][sərˈpæs]|超过
 * day-to-day
 * infinite
 * commute
@@ -8833,7 +8834,7 @@
 * woo
 * nostril
 * helm
-* monarch
+* monarch#[ˈmɒnək][ˈmɑ:nərk]|君主
 * seep
 * eyelid
 * cradle
@@ -11717,7 +11718,7 @@
 * customize
 * consent
 * caveat
-* arithmetic
+* arithmetic#[əˈrɪθmətɪk][əˈrɪθmɪtɪk]|算术
 * spore
 * patterned
 * targeted
@@ -17489,7 +17490,7 @@
 * gratuitous
 * gusto
 * humanistic
-* wheelbarrow
+* wheelbarrow#[ˈwi:lbærəʊ][ˈwi:lbæroʊ]|手推车
 * elapse
 * pique
 * one-room
@@ -20219,4 +20220,5 @@
 * woodlot#[ˈwu̇d-ˌlät]|林场
 * husbandry#[ˈhəzb(ə)ndrē]|农业
 * sedes|座位
-* perchance#[pəˈtʃɑːns][pərˈtʃæns]|也许
+* perchance#[pəˈtʃɑːns][pərˈtʃæns]|也许\
+* cent#[sɛnt][sent]|分
