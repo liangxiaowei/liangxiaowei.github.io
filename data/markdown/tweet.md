@@ -1,3 +1,5 @@
+> 《Walden》(瓦尔登湖): Where I lived and what I lived for，第 5 个段落共有 111 个词，新收集 26 个，生词 2 个。词本达 361 个。| 2024.06.25
+
 > 《Walden》(瓦尔登湖): Where I lived and what I lived for，第 3、4 个段落共有 399 个词，新收集 98 个，生词 31 个。词本达 335 个。| 2024.06.25
 
 > 《Walden》(瓦尔登湖): Where I lived and what I lived for，第 2 个段落共有 300 个词，新收集 57 个，生词 11 个。词本达 237 个。| 2024.06.20
