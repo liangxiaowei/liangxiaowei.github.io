@@ -34,6 +34,7 @@ cocaList = cocaList
   });
 // .slice(0, topN);
 console.log(cocaList);
+console.log("词本已查：", cocaList.filter((e) => e.meaning).length);
 
 cocaList
   .filter((e) => e.meaning)
