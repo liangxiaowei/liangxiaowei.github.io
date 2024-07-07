@@ -34,7 +34,8 @@ cocaList = cocaList
   });
 // .slice(0, topN);
 console.log(cocaList);
-console.log("词本已查：", cocaList.filter((e) => e.meaning).length);
+const searchedWordCnt = cocaList.filter((e) => e.meaning).length;
+console.log("词本已查：", searchedWordCnt);
 
 cocaList
   .filter((e) => e.meaning)
@@ -157,3 +158,5 @@ const body = document.querySelector("body");
 console.log("highlightKeyword--");
 highlightKeyword(body);
 console.log(`总词汇：${allWord}，超纲词汇： ${newWord}`);
+console.log(body.firstElementChild);
+body.firstElementChild.textContent = `单词本：${searchedWordCnt}，总词汇：${allWord}，超纲词汇： ${newWord}`;
