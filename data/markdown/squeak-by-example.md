@@ -1,0 +1,79 @@
+- squeak 运行的文件由三部分组成：VM 虚拟机，虚拟机用来运行 image;system image 系统镜像，包含系统的所有对象快照；.change 文件，对系统所做的改变，便于分析与回退；`.source file?`
+- image
+  - 另存为，保存另外一份 image：world left menu -> save as -> 输入 image 名字
+  - 重新运行 image，会从上一次退出保存的地方开始；
+  - 对象存储模块
+- 鼠标操作，三个按钮对应不同的操作。文中按颜色来命名三个按钮。对我的鼠标来说，鼠标左键对应红色按钮，鼠标右键对应黄色按钮，中间的滚轮按键对应蓝色按钮。鼠标左键可以选择物体；鼠标右键可以根据不同的 context 弹出菜单；鼠标中间按键，可以弹出 morphic halo；
+- popup menu：弹出的菜单栏；context-dependent pop-up menu：基于不同 context 的弹出菜单栏；
+  - most are not `modal?`
+  - 按住顶部可以移动菜单栏；
+  - 选择其中一项，或者点击外面区域，会自动消失；点击右上角图钉按钮，可以固定菜单栏，让他不会消失；
+- world:世界，世界可以包含多个窗口；
+  - 空白处点击左键，弹出 world left 菜单；一些常用工具、操作的快捷入口
+  - 空白处点击右键，弹出不同于上面的 world 菜单`？`
+  - menu bar：顶部的菜单栏；global menu：世界上方的菜单栏；
+- window：窗口，类似于 windows 系统的窗口；
+  - 鼠标放在四个角，长按，可以缩放窗口大小；
+  - 鼠标放在顶部栏，长按，可以缩放移动窗口；
+  - 只有一个窗口是处于活跃的；in front；顶部栏高亮显示；
+- workspace
+  - 打开一个新的 workspace window：world left menu 点击 workspace 或者 open -> workspace；top menu bar -> Tools -> workspace；
+  - 在里面可以输入一些语句
+  - 点击不同的地方，可以自动选中不同的单词、整行语句、整个字符串
+  - 选择语句。可以执行一些操作；可通过鼠标右键弹出菜单选择操作；也可以用快捷键；`在一行语句的任意地方，有句号和没句号`
+  - do it(d)：执行语句，注意只是执行，不会显示结果
+  - print it(p)：执行语句，发送 printString 消息给语句的结果，在语句的后面显示 resulting string
+  - inspect it(i)：打开 inspector
+  - explore it(I)：打开 explorer
+- inspector
+  - 和某个对象交互
+  - 标题栏可以看到对象所属的类
+  - 左边栏可以看到 instance variables of an object
+  - 右边栏可以看到，左边栏选中的 item 的 value
+  - 底部栏可以写 expressions(语句) 来给对象发消息，and then print it。需要显示写明对象，可以用 self。
+- explorer
+  - it offers a tree view of a complex object.
+  - see directly all the information stored in this class, and we can easily navigate to all its parts
+  - 可以看到父类、子类
+- transcript
+  - 给 Transcript 发送 show and 换行消息：Transcript showln: 'hello world'.
+  - 用来打印(输出)系统消息
+  - 注意：性能很慢、非线程安全
+- morphic
+  - 弹出一堆自由碰撞粒子：world left menu -> new morph -> from alphabetical list -> A-C -> BouncingAtomsMorph
+- morphic halo
+  - 选中窗口，按鼠标中键弹出
+  - 可以对窗口的外形做一些操作，例如选择、缩放等
+  - 左下角蓝色按钮：旋转；
+  - 右下角黄色按钮：缩放；
+- system browser
+  - 打开一个新的 system browser：world left menu -> browser 或者 -> open -> class browser；top menu bar -> Tools -> browser;
+  - 给某个 class 发送 browse 消息，打开 browser，自动选中这个 class: Boolean browse
+  - 选中一个 class，CMD-b，打开 browser，自动选中这个 class
+  - 选中一个 class，点击 ? ，可以看出文档
+  - 在 左边第一个区块，CMD-f 可以输入类的名字来查找类
+  - 标题栏可以看到正在查看的 类
+  - 左边第一个区块可以看到所有对 class 的分类：This first pane lists all known system categories, which are groups of related classes.
+  - 左边第二个区块是选中的分类的所有 class：second pane to show a list of all of the classes in the selected category
+  - 左边第三个区块是所有对 method 的分类：The third pane displays the protocols of the currently selected class (referred to as method categories by the browser). These are convenient groupings of related methods.
+  - 左边第四个区块是选中分类的所由 method，如果没有选中分类，则显示所有 method：If no protocol is selected you should see all methods in the fourth pane.
+  - 底部栏显示选中 method 的源代码，如果没有选中 method，显示选中 class 的 class definition
+- the hierarchy browser
+  - 在 system browser 选中某个 class,点击 hierarchy
+  - 查看类的继承树
+- method finder(Selector browser)
+  - top menu bar -> Tools -> Method finder
+  - 输入关键字查找 method
+  - 输入`输入例子和期望的输出`查找 method，例如 `'aa'.'AA'`，右边的区域会列出结果，带 `*` 号的为要找的 method，其他只是同名的 method
+- 全局搜索
+  - top menu bar -> 搜索框
+  - 在任意地方，CMD-0 可以激活搜索框
+  - 输入 class name 或者 method name 搜索
+- 创建 class
+  ```
+  Object subclass: #Boolean
+  instanceVariableNames: ''
+  classVariableNames: ''
+  poolDictionaries: ''
+  category: 'Kernel-Objects'
+  ```
