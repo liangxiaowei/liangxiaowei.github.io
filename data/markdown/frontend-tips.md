@@ -1,0 +1,11 @@
+- html 如何注释代码？让代码不起效
+- 如果网站作为一种应用程序，是不是不需要考虑标签的语义性？
+- html 内容应该如何换行？直接输入换行是不起作用的
+- 了解 table、tbody、tr、td 的使用
+- 了解表单 form 组件
+- 了解 select 组件，实现下拉选择功能
+- 了解 input 组件不同的输入功能，例如日期、颜色、文件选择等
+- marquee 标签，可能只在个别浏览器有效
+- 语义父元素标签：header、footer、main、section
+- img 对比 css background，img 代表是文章内容的一部分，background 代表背景装饰
+- 了解 a 标签

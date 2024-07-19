@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>一、html 元素从排版的角度，可以分为行内元素和块元素，我们需要了解这些元素的宽高规则，还有 html 的默认排版规则。</h1>
+    <p style="background:#ff000055;">段落 1 </p>
+    <div style="width: 300px;background:#ff000055;">div 标签1，宽度 200 px</div>
+    <div style="background:#ff000055;"></div>
+    <div style="background:#ff000055;">div 标签2</div>
+    <p style="background:#ff000055;">段落 2 段落内容 段落内容 段落内容 段落内容 段落内容 段落内容 段落内容 段落内容 段落内容 </p>
+    <p>p 和 div 标签是块元素，宽度默认填充满父元素，高度为内容宽度，块元素也可以设置宽度，默认把块元素从上到下排列</p>
+    <div style="width: 300px;border: 1px dotted #000000;">
+      <p style="background:#ff000055;">段落 4 </p>
+      <p style="background:#ff000055;">段落 5 段落内容 段落内容 段落内容 段落内容 段落内容 段落内容 段落内容 段落内容 段落内容 </p>
+    </div>
+    <p>p 标签宽度默认填充满父元素，如果内容超过父亲元素宽度，会自动换行</p>
+    <p>p 标签里面可以嵌套行内元素，<a style="background:#ff000055;width: 400px;">a 标签</a>，行内元素从左到右排列，行内元素宽高由内容决定，不能设置宽高(无效)</p>
+    <p>p 标签里面可以嵌套行内元素，<a style="background:#ff000055;width: 400px;display: inline-block;">a 标签</a>，行内元素从左到右排列，如果想要给行内元素设置标签，可以将它变成行内块元素</p>
+    <p>常见的块元素有：h1(h2..)、p、div、ol、ul、li</p>
+    <p>常见的行内元素有：a、i、em、b、q、span、strong</p>
+    <p>常见的行内块元素有：button、input、img、textarea</p>
+    <h1>二、盒子模型、margin、padding</h1>
+  </body>
+</html>
