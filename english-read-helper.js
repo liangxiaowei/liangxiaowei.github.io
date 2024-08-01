@@ -23,6 +23,7 @@ cocaList = cocaList
     if (splitByHash.length > 1) {
       const splitByLine = splitByHash[1].split("|");
       pronunciation = splitByLine[0];
+      pronunciation = splitByLine[0].split("]")[1].slice(1);
       meaning = splitByLine.slice(1).join("|");
     }
     return {
@@ -36,12 +37,16 @@ cocaList = cocaList
 console.log(cocaList);
 const searchedWordCnt = cocaList.filter((e) => e.meaning).length;
 console.log("词本已查：", searchedWordCnt);
+cocaList.forEach((e) => {
+  // console.log(e.pronunciation);
+  sheet.insertRule(`.vocab-${e.word}::after { content: "${e.pronunciation}"; }`, 0);
+});
 
-cocaList
-  .filter((e) => e.meaning)
-  .forEach((e) => {
-    sheet.insertRule(`.vocab-${e.word}::after { content: "${e.meaning}"; }`, 0);
-  });
+// cocaList
+//   .filter((e) => e.meaning)
+//   .forEach((e) => {
+//     sheet.insertRule(`.vocab-${e.word}::after { content: "${e.meaning}"; }`, 0);
+//   });
 
 let newWord = 0;
 let allWord = 0;
@@ -72,7 +77,7 @@ function createNodes(token) {
   const span = document.createElement("span");
   span.textContent = token;
   span.className = `vocab-hl`;
-  if (token.length <= 2) {
+  if (token.length <= 1) {
     return span;
   }
 

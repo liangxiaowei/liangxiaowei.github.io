@@ -1,3 +1,4 @@
+* bye#[baɪ][baɪ]|再见
 * dollar<dollars>#[ˋdɑlɚ][ˋdɔlə]|美元
 * mile<miles>#[maɪl][mail]|公里
 * is#[ɪz]|是
@@ -14,7 +15,7 @@
 * I#[aɪ][aɪ]|我
 * that#[ðæt][ðæt, ðət]|那个
 * for#[fə(r)][fɔr,fə]|因为|作为
-* you#[ju][jə]|你
+* you#[ju][ju:]|你
 * he#[hi][hi]
 * with#[wɪð][wɪθ]|与|用
 * on#[ɒn][ɑ:n]|在..上
@@ -29,13 +30,12 @@
 * from#[frəm][frʌm]|从|避免|来自
 * that#[ðæt][ðæt,ðət]
 * not#[nɒt][nɑ:t]|不是
-* n''t#undefined
 * by#[baɪ][baɪ]|被
 * she#[ʃi][ʃi]
 * or#[ɔ:(r)][ɔr]|或者
 * as#[əz][æz,əz]|作为|由于|如同
 * what#[wɒt][wɑ:t]|什么
-* go<gone>#[gəʊ]  [goʊ]|走|离开
+* go<gone>#[gəʊ][goʊ]|走|离开
 * their#[ðeə(r)][ðer]|ta们的
 * can#[kæn][kæn]|可以
 * who#[hu:][hu]|谁
@@ -498,7 +498,7 @@
 * break<breaking>#[breɪk][brek]|解散|阻断
 * better#[ˈbetə(r)][ˈbɛtɚ]
 * difference#[ˈdɪfrəns][ˈdɪfərəns, ˈdɪfrəns]|不同
-* thank#[θæŋk][θæŋk]
+* thank#[θæŋk][θæŋk]|谢谢
 * receive<received>#[rɪˈsi:v][rɪˈsiv]|收到
 * value<valuable>#[ˈvælju:][ˈvælju]|价值
 * international#[ˌɪntəˈnæʃnəl][ˌɪntərˈnæʃnəl]
@@ -1112,7 +1112,7 @@
 * fresh<freshly>#[freʃ][frɛʃ]|新的|新鲜的
 * eventually#[ɪˈventʃuəli][ɪˈvɛntʃuəli]
 * no#[nəʊ][noʊ]
-* forest#[ˈfɒrɪst]  [ˈfɔ:rɪst]|森林
+* forest#[ˈfɒrɪst][ˈfɔ:rɪst]|森林
 * video#[ˈvɪdiəʊ][ˈvɪdioʊ]
 * global#[ˈgləʊbl][ˈgloʊbl]
 * Senate#[][]
@@ -1126,7 +1126,7 @@
 * like#[laɪk][laɪk]
 * release#[rɪˈli:s][rɪ'li:s]|解除、解约
 * own#[əʊn][oʊn]
-* bird<birds>#[bɜ:d]  [bɜ:rd]|鸟
+* bird<birds>#[bɜ:d][bɜ:rd]|鸟
 * opinion#[əˈpɪnjən][əˈpɪnjən]
 * credit#[ˈkredɪt][ˈkrɛdɪt]
 * critical#[ˈkrɪtɪkl][ˈkrɪtɪkəl]
@@ -1171,7 +1171,7 @@
 * conversation#[ˌkɒnvəˈseɪʃn][ˌkɑ:nvərˈseɪʃn]
 * examine#[ɪgˈzæmɪn][ɪɡˈzæmɪn]
 * touch#[tʌtʃ][tʌtʃ]
-* please<pleasing>#[pli:z][pliz]|使高兴
+* please<pleasing>#[pli:z][pliz]|使高兴|请
 * attend#[əˈtend][əˈtɛnd]
 * completely#[kəmˈpli:tli][kəmˈpliːtli]
 * vote#[vəʊt][voʊt]
@@ -1627,7 +1627,7 @@
 * presidential#[ˌprezɪ'denʃl][ˌprɛzɪˈdɛnʃəl]
 * emotional#[ɪˈməʊʃənl][ɪˈmoʊʃənl]
 * commitment#[kəˈmɪtmənt][kəˈmɪtmənt]
-* Supreme#undefined
+* Supreme#[]
 * bear<bearing>#[beə(r)][ber]|带来
 * pocket#[ˈpɒkɪt][ˈpɑ:kɪt]
 * thin#[θɪn][θɪn]|薄的
@@ -2126,7 +2126,7 @@
 * observation#[ˌɒbzəˈveɪʃn][ˌɑ:bzərˈveɪʃn]
 * childhood#[ˈtʃaɪldhʊd][ˈtʃaɪldˌhʊd]
 * payment#[ˈpeɪmənt][ˈpemənt]
-* sir#[sɜ:(r)][sɚ]
+* sir#[sɜ:(r)][sɚ]|先生
 * permit#[pəˈmɪt][pərˈmɪt]
 * cigarette#[ˌsɪgəˈret][ˈsɪgəret]
 * definition#[ˌdefɪˈnɪʃn][ˌdɛfəˈnɪʃən]
@@ -2966,7 +2966,6 @@
 * vessel#[ˈvesl][ˈvɛsəl]
 * storage#[ˈstɔ:rɪdʒ][ˈstɔrɪdʒ,ˈstor-]
 * flee#[fli:][fli]
-* mm-hmm#undefined
 * leather#[ˈleðə(r)][ˈlɛðɚ]
 * distribute#[dɪˈstrɪbju:t][dɪˈstrɪbjut]
 * evolution#[ˌi:vəˈlu:ʃn][ˌɛvəˈluʃən,ˌivə-]
@@ -4103,7 +4102,6 @@
 * quantity#[ˈkwɒntəti][ˈkwɑ:ntəti]
 * trailer#[ˈtreɪlə(r)][ˈtrelɚ]
 * mate#[meɪt][met]
-* o''clock#undefined
 * Greek#[gri:k][ɡrik]
 * genius#[ˈdʒi:niəs][ˈdʒinjəs]
 * monument#[ˈmɒnjumənt][ˈmɑ:njumənt]
@@ -4857,7 +4855,6 @@
 * premium#[ˈpri:miəm][ˈprimiəm]
 * accountability#[əˌkaʊntə'bɪlətɪ][əˌkaʊntə'bɪlətɪ]
 * overwhelm#[ˌəʊvəˈwelm][ˌoʊvərˈwelm]
-* one-third#undefined
 * contemplate#[ˈkɒntəmpleɪt][ˈkɑ:ntəmpleɪt]
 * update#[ˌʌpˈdeɪt][ʌpˈdet]
 * spark#[spɑ:k][spɑ:rk]
@@ -6470,7 +6467,6 @@
 * nationwide#[ˌneɪʃnˈwaɪd][ˌneʃənˈwaɪd]
 * protected#[prə'tektɪd][prə'tektɪd]
 * squint#[skwɪnt][skwɪnt]
-* five-year#undefined
 * urgency#['ɜ:dʒənsɪ][ˈə:dʒənsi]
 * span#[spæn][spæn]
 * download#[ˌdaʊnˈləʊd][ˌdaʊnˈloʊd]
@@ -6556,7 +6552,7 @@
 * scale#[skeɪl][skel]
 * backpack#[ˈbækpæk][ˈbækˌpæk]
 * trench#[trentʃ][trɛntʃ]
-* low-income#undefined
+* low-income#[]
 * deviation#[ˌdi:viˈeɪʃn][ˌdiviˈeʃən]
 * spirituality#[ˌspɪrɪtʃuˈæləti][ˌspɪrɪtʃuˈælɪti]
 * icy#[ˈaɪsi][ˈaɪsi]
@@ -6586,7 +6582,7 @@
 * marked#[mɑ:kt][mɑ:rkt]
 * boil#[bɔɪl][bɔɪl]
 * muddy#[ˈmʌdi][ˈmʌdi]
-* two-year#undefined
+* two-year#[]
 * singing#[ˈsɪŋɪŋ]['sɪŋɪŋ]
 * turtle#[ˈtɜ:tl][ˈtɜ:rtl]
 * occupational#[ˌɒkjuˈpeɪʃənl][ˌɑ:kjuˈpeɪʃənl]
@@ -6870,7 +6866,7 @@
 * allocate#[ˈæləkeɪt][ˈæləˌket]
 * millionaire#[ˌmɪljəˈneə(r)][ˌmɪljəˈner]
 * hillside#[ˈhɪlsaɪd][ˈhɪlˌsaɪd]
-* four-year#undefined
+* four-year#[]
 * paradox#[ˈpærədɒks][ˈpærədɑ:ks]
 * lush#[lʌʃ][lʌʃ]
 * resident#[ˈrezɪdənt][ˈrɛzɪdənt,-ˌdɛnt]
@@ -7635,7 +7631,7 @@
 * year-round#[ˈjə:ˈraund][ˈjɪrˈraʊnd]
 * desperation#[ˌdespəˈreɪʃn][ˌdɛspəˈreʃən]
 * hands-on#[ˈhændzˈɔn,-ˈɔ:n][ˈhændzˈɑn,-ˈɔn]
-* three-year#undefined
+* three-year#[]
 * feminism#[ˈfemənɪzəm][ˈfɛməˌnɪzəm]
 * morale#[məˈrɑ:l][məˈræl]
 * anonymity#[ˌænəˈnɪməti][ˌænəˈnɪmɪti]
@@ -7765,7 +7761,7 @@
 * eclipse#[ɪˈklɪps][ɪˈklɪps]
 * mirror#[ˈmɪrə(r)][ˈmɪrɚ]
 * peak#[pi:k][pik]
-* nineteenth-century#undefined
+* nineteenth-century#[]
 * Mediterranean#[ˌmedɪtəˈreɪniən][ˌmɛdɪtəˈreniən,-ˈrenjən]
 * enjoyment#[ɪnˈdʒɔɪmənt][ɛnˈdʒɔɪmənt]
 * reign#[reɪn][ren]
@@ -8925,7 +8921,7 @@
 * symphony#[ˈsɪmfəni][ˈsɪmfəni]
 * putt#[pʌt][pʌt]
 * Catholicism#[kə'θɒləsɪzəm][kəˈθɑlɪˌsɪzəm]
-* thirty-five#undefined
+* thirty-five#[]
 * growl#[graʊl][ɡraʊl]
 * juicy#[ˈdʒu:si][ˈdʒusi]
 * purity#[ˈpjʊərəti][ˈpjʊrəti]
@@ -8955,7 +8951,7 @@
 * covert#[ˈkʌvət][ˈkoʊvɜ:rt]
 * wrongdoing#[ˈrɒŋdu:ɪŋ][ˈrɔ:ŋdu:ɪŋ]
 * aerobic#[eəˈrəʊbɪk][eˈroʊbɪk]
-* same-sex#undefined
+* same-sex#[]
 * goodwill#[ˌgʊdˈwɪl][ˈɡʊdˈwɪl]
 * candidacy#[ˈkændɪdəsi][]
 * perpetual#[pəˈpetʃuəl][pərˈpetʃuəl]
@@ -9343,7 +9339,7 @@
 * lurch#[lɜ:tʃ][lɜ:rtʃ]
 * insulin#[ˈɪnsjəlɪn][ˈɪnsəlɪn]
 * midday#[ˌmɪdˈdeɪ][ˈmɪdˌde]
-* one-year#undefined
+* one-year#[]
 * comb#[kəʊm][koʊm]
 * barber#[ˈbɑ:bə(r)][ˈbɑ:rbə(r)]
 * unsafe#[ʌnˈseɪf][ʌnˈsef]
@@ -9681,7 +9677,7 @@
 * noteworthy#[ˈnəʊtwɜ:ði][ˈnoʊtwɜ:rði]
 * flurry#[ˈflʌri][ˈflɜ:ri]
 * dismal#[ˈdɪzməl][ˈdɪzməl]
-* medium-high#undefined
+* medium-high#[]
 * commence#[kəˈmens][kəˈmɛns]
 * apprehension#[ˌæprɪˈhenʃn][ˌæprɪˈhɛnʃən]
 * clog#[klɒg][klɑ:g]
@@ -10312,7 +10308,7 @@
 * proactive#[ˌprəʊˈæktɪv][ˌproʊˈæktɪv]
 * pardon#[ˈpɑ:dn][ˈpɑ:rdn]
 * ulcer#[ˈʌlsə(r)][ˈʌlsɚ]
-* two-hour#undefined
+* two-hour#[]
 * stimulating#[ˈstɪmjuleɪtɪŋ][ˈstɪmjəˌletɪŋ]
 * hoof#[hu:f][hʊf,huf]
 * invaluable#[ɪnˈvæljuəbl][ɪnˈvæljuəbəl]
@@ -10430,7 +10426,7 @@
 * euro#[ˈjʊərəʊ][ˈjʊroʊ]
 * favorably#['feɪvərəblɪ]['feɪvərəblɪ]
 * gleam#[gli:m][ɡlim]
-* three-day#undefined
+* three-day#[]
 * gait#[geɪt][ɡet]
 * symmetry#[ˈsɪmətri][ˈsɪmɪtri]
 * Colombian#[kə'lɒmbɪən][kə'loʊmbɪrn]
@@ -10477,7 +10473,7 @@
 * accreditation#[əˌkredɪˈteɪʃn][əˌkrɛdɪˈteʃən]
 * analogous#[əˈnæləgəs][əˈnæləɡəs]
 * brittle#[ˈbrɪtl][ˈbrɪtl]
-* first-round#undefined
+* first-round#[]
 * cloudy#[ˈklaʊdi][ˈklaʊdi]
 * scold#[skəʊld][skoʊld]
 * tone#[təʊn][toʊn]
@@ -10530,7 +10526,7 @@
 * disproportionate#[ˌdɪsprəˈpɔ:ʃənət][ˌdɪsprəˈpɔ:rʃənət]
 * bailout#[ˈbeɪlaʊt][ˈbelˌaʊt]
 * audition#[ɔ:ˈdɪʃn][ɔˈdɪʃən]
-* All-American#undefined
+* All-American#[]
 * Portuguese#[ˌpɔ:tʃuˈgi:z][ˌpɔ:rtʃuˈgi:z]
 * anti-war#['æntɪ'wɔ:]['æntɪ'wɔ:]
 * operative#[ˈɒpərətɪv][ˈɑ:pərətɪv]
@@ -10619,7 +10615,7 @@
 * fuse#[fju:z][fjuz]
 * disapproval#[ˌdɪsəˈpru:vl][ˌdɪsəˈpruvəl]
 * fabricate#[ˈfæbrɪkeɪt][ˈfæbrɪˌket]
-* year-old#undefined
+* year-old#[]
 * sow#[səʊ][soʊ]
 * disguise#[dɪsˈgaɪz][dɪsˈɡaɪz]
 * modernize#[ˈmɒdənaɪz][ˈmɑ:dərnaɪz]
@@ -10663,7 +10659,7 @@
 * stitch#[stɪtʃ][stɪtʃ]
 * chatter#[ˈtʃætə(r)][ˈtʃætɚ]
 * disintegrate#[dɪsˈɪntɪgreɪt][dɪsˈɪntɪˌɡret]
-* Headnote#undefined
+* Headnote#[]
 * conceivable#[kənˈsi:vəbl][kənˈsiːvəbl]
 * obliterate#[əˈblɪtəreɪt][əˈblɪtəˌret,oˈblɪt-]
 * hanging#[ˈhæŋɪŋ][ˈhæŋɪŋ]
@@ -11100,7 +11096,7 @@
 * funded#[][]
 * centennial#[senˈteniəl][sɛnˈtɛniəl]
 * accelerated#[æk'seləreɪtɪd][æk'seləˌreɪtɪd]
-* twentieth-century#undefined
+* twentieth-century#[]
 * at-risk#[ætrisk][ætrɪsk]
 * original#[əˈrɪdʒənl][əˈrɪdʒənəl]
 * deport#[dɪˈpɔ:t][dɪˈpɔ:rt]
@@ -11496,7 +11492,7 @@
 * gulp#[gʌlp][ɡʌlp]
 * subdued#[səbˈdju:d][səbˈdu:d]
 * lag#[læg][læɡ]
-* community-based#undefined
+* community-based#[]
 * ethos#[ˈi:θɒs][ˈi:θɑ:s]
 * shame#[ʃeɪm][ʃem]
 * homecoming#[ˈhəʊmkʌmɪŋ][ˈhoʊmkʌmɪŋ]
@@ -11611,7 +11607,7 @@
 * entourage#[ˈɒnturɑ:ʒ][ˈɑ:nturɑ:ʒ]
 * borrowing#[ˈbɒrəʊɪŋ][ˈbɑ:roʊɪŋ]
 * cross-cultural#[ˈkrɔsˈkʌltʃərəl][ˈkrɔsˈkʌltʃərəl,ˈkrɑs-]
-* two-day#undefined
+* two-day#[]
 * re-examine#[ˌri:ɪgˈzæmɪn][ˌriɪɡˈzæmɪn]
 * accompaniment#[əˈkʌmpənimənt][əˈkʌmpənimənt,əˈkʌmpni-]
 * ax#[æks][æks]
@@ -11625,7 +11621,7 @@
 * symposium#[sɪmˈpəʊziəm][sɪmˈpoʊziəm]
 * neutrino#[nju:ˈtri:nəʊ][nu:ˈtri:noʊ]
 * birdie#[ˈbɜ:di][ˈbɜ:rdi]
-* six-month#undefined
+* six-month#[]
 * clarification#[ˌklærəfɪ'keɪʃn][ˌklærəfəˈkeʃən]
 * deference#[ˈdefərəns][ˈdɛfərəns,ˈdɛfrəns]
 * felon#[ˈfelən][ˈfɛlən]
@@ -11785,7 +11781,7 @@
 * acclaimed#[][]
 * balancing#['bælənsɪŋ]['bælənsɪŋ]
 * manifest#[ˈmænɪfest][ˈmænəˌfɛst]
-* first-year#undefined
+* first-year#[]
 * destroyer#[dɪˈstrɔɪə(r)][dɪˈstrɔɪɚ]
 * unborn#[ˌʌnˈbɔ:n][ˌʌnˈbɔ:rn]
 * glittering#[ˈglɪtərɪŋ][ˈɡlɪtərɪŋ]
@@ -11816,7 +11812,7 @@
 * Georgian#[ˈdʒɔ:dʒən][ˈdʒɔ:rdʒən]
 * counterproductive#[ˌkaʊntəprəˈdʌktɪv][ˌkaʊntərprəˈdʌktɪv]
 * bulge#[bʌldʒ][bʌldʒ]
-* two-week#undefined
+* two-week#[]
 * antidote#[ˈæntidəʊt][ˈæntidoʊt]
 * purge#[pɜ:dʒ][pɜ:rdʒ]
 * legitimize#[lɪˈdʒɪtəmaɪz][ləˈdʒɪtəˌmaɪz]
@@ -12050,13 +12046,13 @@
 * hobble#[ˈhɒbl][ˈhɑ:bl]
 * impatiently#[ɪm'peɪʃntlɪ][ɪmˈpeʃəntlɪ]
 * shrink#[ʃrɪŋk][ʃrɪŋk]
-* IPod#undefined
+* IPod#[]
 * contingent#[kənˈtɪndʒənt][kənˈtɪndʒənt]
 * interracial#[ˌɪntəˈreɪʃl][ˌɪntɚˈreʃəl]
 * tort#[tɔ:t][tɔ:rt]
 * bruised#[bru:zd][bru:zd]
 * torrent#[ˈtɒrənt][ˈtɔ:rənt]
-* fastest-growing#undefined
+* fastest-growing#[]
 * dribble#[ˈdrɪbl][ˈdrɪbəl]
 * interstellar#[ˌɪntəˈstelə(r)][ˌɪntərˈstelə(r)]
 * unconsciously#[ʌnˈkɒnʃəsli][ʌnˈkɑ:nʃəsli]
@@ -12253,7 +12249,6 @@
 * subset#[ˈsʌbset][ˈsʌbˌsɛt]
 * circumvent#[ˌsɜ:kəmˈvent][ˌsɜ:rkəmˈvent]
 * sludge#[slʌdʒ][slʌdʒ]
-* y''all#undefined
 * uphill#[ˌʌpˈhɪl][ˈʌpˌhɪl]
 * hourly#[ˈaʊəli][ˈaʊərli]
 * scorn#[skɔ:n][skɔ:rn]
@@ -12499,8 +12494,8 @@
 * twenty-eight#[t'wenti:'eɪt][t'wenti:'eɪt]
 * crimson#[ˈkrɪmzn][ˈkrɪmzən]
 * airtight#[ˈeətaɪt][ˈertaɪt]
-* five-year-old#undefined
-* free-market#undefined
+* five-year-old#[]
+* free-market#[]
 * aforementioned#[əˌfɔ:ˈmenʃənd][əˌfɔ:rˈmenʃənd]
 * utterance#[ˈʌtərəns][ˈʌtərəns]
 * gross#[grəʊs][groʊs]
@@ -12575,7 +12570,7 @@
 * wasted#[ˈweɪstɪd][]
 * flowering#[ˈflaʊərɪŋ][]
 * paste#[peɪst][pest]
-* second-largest#undefined
+* second-largest#[]
 * weaving#['wi:vɪŋ]['wi:vɪŋ]
 * prerogative#[prɪˈrɒgətɪv][prɪˈrɑ:gətɪv]
 * cumbersome#[ˈkʌmbəsəm][ˈkʌmbərsəm]
@@ -12586,7 +12581,7 @@
 * strand#[strænd][strænd]
 * squeak#[skwi:k][skwik]
 * cede#[si:d][sid]
-* week-long#undefined
+* week-long#[]
 * toughness#[tʌfnəs][tʌfnəs]
 * regularity#[ˌregjuˈlærəti][ˌrɛɡjəˈlærətɪ]
 * particulars#[pə'tɪku:ləz][pə'tɪku:ləz]
@@ -12723,7 +12718,7 @@
 * transpire#[trænˈspaɪə(r)][trænˈspaɪr]
 * swinging#[ˈswɪŋɪŋ][ˈswɪŋɪŋ]
 * snowflake#[ˈsnəʊfleɪk][ˈsnoʊfleɪk]
-* eighteenth-century#undefined
+* eighteenth-century#[]
 * mounted#[ˈmaʊntɪd]['mauntɪd]
 * exuberant#[ɪgˈzju:bərənt][ɪgˈzu:bərənt]
 * watchful#[ˈwɒtʃfl][ˈwɑ:tʃfl]
@@ -12775,7 +12770,7 @@
 * underdog#[ˈʌndədɒg][ˈʌndərdɔ:g]
 * sunflower#[ˈsʌnflaʊə(r)][ˈsʌnˌflaʊɚ]
 * ledger#[ˈledʒə(r)][ˈlɛdʒɚ]
-* one-quarter#undefined
+* one-quarter#[]
 * mania#[ˈmeɪniə][ˈmeniə,ˈmenjə]
 * admonish#[ədˈmɒnɪʃ][ədˈmɑ:nɪʃ]
 * emerald#[ˈemərəld][ˈɛmərəld,ˈɛmrəld]
@@ -12899,7 +12894,7 @@
 * harmonious#[hɑ:ˈməʊniəs][hɑ:rˈmoʊniəs]
 * thunder#[ˈθʌndə(r)][ˈθʌndɚ]
 * thumb#[θʌm][θʌm]
-* prize-winning#undefined
+* prize-winning#[]
 * metaphorical#[ˌmetəˈfɒrɪkl][ˌmetəˈfɔ:rɪkl]
 * hallucination#[həˌlu:sɪˈneɪʃn][həˌlusəˈneʃən]
 * Philippine#['fɪlɪpi:n]['fɪlɪpi:n]
@@ -13078,7 +13073,7 @@
 * boo#[bu:][bu]
 * sobering#[ˈsəʊbərɪŋ][ˈsoʊbərɪŋ]
 * drape#[dreɪp][drep]
-* multimillion-dollar#undefined
+* multimillion-dollar#[]
 * epiphany#[null][null]
 * overcoat#[ˈəʊvəkəʊt][ˈoʊvərkoʊt]
 * cameraman#[ˈkæmrəmæn][ˈkæmərəˌmæn,ˈkæmrə-]
@@ -13122,7 +13117,7 @@
 * launcher#[ˈlɔ:ntʃə(r)][ˈlɔntʃɚ,ˈlɑn-]
 * combo#[ˈkɒmbəʊ][ˈkɑ:mboʊ]
 * acrylic#[əˈkrɪlɪk][əˈkrɪlɪk]
-* six-year-old#undefined
+* six-year-old#[]
 * composure#[kəmˈpəʊʒə(r)][kəmˈpoʊʒə(r)]
 * purposeful#[ˈpɜ:pəsfl][ˈpɜ:rpəsfl]
 * arsenic#[ˈɑ:snɪk][ˈɑ:rsnɪk]
@@ -13186,7 +13181,7 @@
 * intravenous#[ˌɪntrəˈvi:nəs][ˌɪntrəˈvinəs]
 * primacy#[ˈpraɪməsi][ˈpraɪməsi]
 * baby-sit#['beɪbɪˌsɪt]['beɪbɪˌsɪt]
-* credit-card#undefined
+* credit-card#[]
 * rustle#[ˈrʌsl][ˈrʌsəl]
 * pre-emptive#[priˈemptɪv][]
 * unwittingly#[ʌnˈwɪtɪŋli][ˌʌnˈwɪtɪŋlɪ]
@@ -13288,7 +13283,7 @@
 * childlike#[ˈtʃaɪldlaɪk][ˈtʃaɪldˌlaɪk]
 * rust#[rʌst][rʌst]
 * apricot#[ˈeɪprɪkɒt][ˈæprɪkɑ:t]
-* six-year#undefined
+* six-year#[]
 * layered#['leɪəd]['leɪəd]
 * publicized#[][]
 * parable#[ˈpærəbl][ˈpærəbəl]
@@ -13460,7 +13455,7 @@
 * mire#[ˈmaɪə(r)][maɪr]
 * burly#[ˈbɜ:li][ˈbɜ:rli]
 * first-rate#[fɜ:streɪt][ˈfə:stˈret]
-* defensively#undefined
+* defensively#[]
 * gymnasium#[dʒɪmˈneɪziəm][dʒɪmˈneziəm]
 * mmm#[][]
 * sling#[slɪŋ][slɪŋ]
@@ -13483,7 +13478,7 @@
 * drying#['draɪɪŋ]['draɪɪŋ]
 * finder#[ˈfaɪndə(r)][ˈfaɪndɚ]
 * whimsical#[ˈwɪmzɪkl][ˈhwɪmzɪkəl,ˈwɪm-]
-* medium-size#undefined
+* medium-size#[]
 * Croat#[ˈkrəuət][krot,ˈkroˌæt]
 * style#[staɪl][staɪl]
 * grinder#[ˈgraɪndə(r)][ˈɡraɪndɚ]
@@ -13538,7 +13533,7 @@
 * feeding#[ˈfi:dɪŋ][]
 * discernible#[dɪ'sɜ:nəbəl][dɪˈsə:nəbəl,-ˈzə:-]
 * khaki#[ˈkɑ:ki][ˈkæki]
-* three-year-old#undefined
+* three-year-old#[]
 * appal#[əˈpɔ:l][əˈpɔl]
 * archaic#[ɑ:ˈkeɪɪk][ɑ:rˈkeɪɪk]
 * appraise#[əˈpreɪz][əˈprez]
@@ -13599,7 +13594,7 @@
 * personalized#[ˈpəːs(ə)n(ə)lʌɪzd][ˈpɜ:rsənəlaɪzd]
 * semblance#[ˈsembləns][ˈsɛmbləns]
 * blunder#[ˈblʌndə(r)][ˈblʌndɚ]
-* thirty-two#undefined
+* thirty-two#[]
 * chime#[tʃaɪm][tʃaɪm]
 * hoax#[həʊks][hoʊks]
 * replete#[rɪˈpli:t][rɪˈplit]
@@ -13712,7 +13707,7 @@
 * triple#[ˈtrɪpl][ˈtrɪpəl]
 * evolving#[ɪ'vɒlvɪŋ][ɪ'vɒlvɪŋ]
 * bribery#[ˈbraɪbəri][ˈbraɪbəri]
-* land-use#undefined
+* land-use#[]
 * broadband#[ˈbrɔ:dbænd][ˈbrɔdˌbænd]
 * well-established#['welɪs'tæblɪʃt][ˈwɛlɪsˈtæblɪʃt]
 * levy#[ˈlevi][ˈlɛvi]
@@ -13736,7 +13731,7 @@
 * constitutionally#[ˌkɒnstɪ'tju:ʃənəlɪ][ˌkɒnstə'tu:ʃənəlɪ]
 * implied#[ɪm'plaɪd][ɪm'plaɪd]
 * intercom#[ˈɪntəkɒm][ˈɪntərkɑ:m]
-* single-family#undefined
+* single-family#[]
 * reformed#[riˈfɔ:md][rɪˈfɔrmd]
 * approximate#[əˈprɒksɪmət][əˈprɑ:ksɪmət]
 * gouge#[gaʊdʒ][ɡaʊdʒ]
@@ -13793,7 +13788,7 @@
 * vehemently#['vi:əməntlɪ][ˈviəməntlɪ]
 * fascism#['fæʃɪzəm]['fæʃɪzəm]
 * chide#[tʃaɪd][tʃaɪd]
-* pre-service#undefined
+* pre-service#[]
 * musically#[ˈmju:zɪkli][ˈmjuːzɪkli]
 * adventurer#[ədˈventʃərə(r)][ædˈvɛntʃəɚ]
 * downhill#[ˌdaʊnˈhɪl][ˈdaʊnˈhɪl]
@@ -13803,7 +13798,7 @@
 * nozzle#[ˈnɒzl][ˈnɑ:zl]
 * banned#[][]
 * cashmere#[ˈkæʃmɪə(r)][ˈkæʒmɪr]
-* million-dollar#undefined
+* million-dollar#[]
 * minimally#[][]
 * flaunt#[flɔ:nt][flɔnt]
 * apex#[ˈeɪpeks][ˈepɛks]
@@ -13866,7 +13861,7 @@
 * cheaply#[ˈtʃi:pli][ˈtʃiplɪ]
 * valet#[ˈvæleɪ]['væleɪ]
 * ordering#[ˈɔ:dərɪŋ][ˈɔ:rdərɪŋ]
-* faith-based#undefined
+* faith-based#[]
 * age-old#[ˈeɪdʒˈəʊld][ˈedʒˈold]
 * elf#[elf][ɛlf]
 * liturgical#[lɪ'tɜ:dʒɪkl][lɪ'tɜ:dʒɪkl]
@@ -13958,7 +13953,7 @@
 * unbelievably#[ˌʌnbɪˈli:vəblɪ][ˌʌnbɪˈlivəblɪ]
 * observable#[əbˈzɜ:vəbl][əbˈzɜ:rvəbl]
 * charging#[tʃɑ:dʒɪŋ]['tʃɑ:dʒɪŋ]
-* much-needed#undefined
+* much-needed#[]
 * oceanic#[ˌəʊʃiˈænɪk][ˌoʊʃiˈænɪk]
 * philanthropy#[fɪˈlænθrəpi][fɪˈlænθrəpi]
 * recount#[rɪ'kaʊnt][rɪˈkaʊnt]
@@ -13972,7 +13967,7 @@
 * TNT#[ˌti:enˈti:][ˌti:en'ti:]
 * heavy-duty#[ˌhevi:ˈdu:ti:,-ˈdju:-][ˌhɛviˈduti,-ˈdju-]
 * fluke#[flu:k][fluk]
-* regular-season#undefined
+* regular-season#[]
 * hilltop#[ˈhɪltɒp][ˈhɪltɑ:p]|小山顶
 * Albanian#[æl'beɪnɪən][æl'beɪnɪrn]
 * unbroken#[ʌnˈbrəʊkən][ʌnˈbroʊkən]
@@ -14077,7 +14072,7 @@
 * deflate#[dɪˈfleɪt][dɪˈflet]
 * newlywed#['nju:lɪˌwed][ˈnuliˌwɛd,ˈnju-]
 * fullness#[ˈfʊlnəs][ˈfʊlnəs]
-* thirty-six#undefined
+* thirty-six#[]
 * snowball#[ˈsnəʊbɔ:l][ˈsnoʊbɔ:l]
 * cooling#['ku:lɪŋ][ˈkulɪŋ]
 * polluted#[pə'lu:tɪd][pə'lu:tɪd]
@@ -14162,7 +14157,7 @@
 * giver#[ˈgɪvə(r)][ˈɡɪvɚ]
 * critter#[ˈkrɪtə(r)][ˈkrɪtɚ]
 * jar#[dʒɑ:(r)][dʒɑr]
-* one-day#undefined
+* one-day#[]
 * avant-garde#[ˌævɒ̃'ɡɑ:d][ˌɑvɑntˈɡɑrd,ˌævɑnt-]
 * symmetrical#[sɪˈmetrɪkl][sɪˈmɛtrɪkəl]
 * violinist#[ˌvaɪəˈlɪnɪst][ˌvaɪəˈlɪnɪst]
@@ -14188,7 +14183,7 @@
 * dab#[dæb][dæb]
 * vis-a-vis#[ˌvi:zɑ:ˈvi:][]
 * pluralistic#[ˌplʊərə'lɪstɪk][ˌploɑrəˈlɪstɪk]
-* self-reported#undefined
+* self-reported#[]
 * skillfully#['skɪlfʊlɪ]['skɪlfəlɪ]
 * strait#[streɪt][stret]
 * brotherhood#[ˈbrʌðəhʊd][ˈbrʌðərhʊd]
@@ -14222,7 +14217,7 @@
 * impeach#[ɪmˈpi:tʃ][ɪmˈpitʃ]
 * exuberance#[ɪɡ'zju:bərəns][ɪɡˈzubərəns]
 * recoup#[rɪˈku:p][rɪˈkup]
-* Arab-Israeli#undefined
+* Arab-Israeli#[]
 * hush#[hʌʃ][hʌʃ]
 * intractable#[ɪnˈtræktəbl][ɪnˈtræktəbəl]
 * predate#['pri:'deɪt][priˈdet]
@@ -14367,7 +14362,7 @@
 * legality#[li:ˈgæləti][liˈɡælɪti]
 * retract#[rɪˈtrækt][rɪˈtrækt]
 * frontline#['frʌntlɑɪn]['frʌntlɑɪn]
-* web-based#undefined
+* web-based#[]
 * prior#[ˈpraɪə(r)][ˈpraɪɚ]
 * digestion#[daɪˈdʒestʃən][daɪˈdʒɛstʃən,dɪ-]
 * inert#[ɪˈnɜ:t][ɪˈnɜ:rt]
@@ -14395,7 +14390,7 @@
 * responsiveness#[rɪ'spɒnsɪvnəs][rɪ'spɒnsɪvnəs]
 * triad#[ˈtraɪæd][ˈtraɪˌæd,-əd]
 * fiat#[ˈfi:æt][ˈfiət,-ˌæt,-ˌɑt,ˈfaɪˌæt,-ət]
-* one-fifth#undefined
+* one-fifth#[]
 * masking#['mɑ:skɪŋ]['mɑ:skɪŋ]
 * high-energy#['haɪ'enədʒɪ]['haɪ'enədʒɪ]
 * madman#[ˈmædmən][ˈmædˌmæn,-mən]
@@ -14476,7 +14471,7 @@
 * amble#[ˈæmbl][ˈæmbəl]
 * overtone#[ˈəʊvətəʊn][ˈoʊvərtoʊn]
 * resurface#[ˌri:ˈsɜ:fɪs][ˌri:ˈsɜ:rfɪs]
-* one-fourth#undefined
+* one-fourth#[]
 * futuristic#[ˌfju:tʃəˈrɪstɪk][ˌfjutʃəˈrɪstɪk]
 * wholesaler#['həʊlseɪlə(r)][ˈholˌselɚ]
 * biting#[ˈbaɪtɪŋ][ˈbaɪtɪŋ]
@@ -14507,7 +14502,7 @@
 * reckoning#[ˈrekənɪŋ][ˈrɛkənɪŋ]
 * negligent#[ˈneglɪdʒənt][ˈnɛɡlɪdʒənt]
 * loyalist#[ˈlɔɪəlɪst][ˈlɔɪəlɪst]
-* half-century#undefined
+* half-century#[]
 * far-flung#[ˈfɑ:ˈflʌŋ][ˈfɑrˈflʌŋ]
 * bastion#[ˈbæstiən][ˈbæstʃən,-tiən]
 * grudge#[grʌdʒ][ɡrʌdʒ]
@@ -14561,7 +14556,7 @@
 * Guatemalan#[ˌɡwɑ:tə'mɑ:lən][ˌɡwɑ:tə'mɑ:lən]
 * codify#[ˈkəʊdɪfaɪ][ˈkɑ:dɪfaɪ]
 * mascot#[ˈmæskət][ˈmæskɑ:t]
-* seven-year#undefined
+* seven-year#[]
 * collected#[kəˈlektɪd][kəˈlɛktɪd]
 * mum#[mʌm][mʌm]
 * swap#[swɒp][swɑp]
@@ -14662,12 +14657,12 @@
 * septic#[ˈseptɪk][ˈsɛptɪk]
 * diligent#[ˈdɪlɪdʒənt][ˈdɪlədʒənt]
 * converted#[kən'vɜ:tɪd][kən'vɜ:tɪd]
-* grudgingly#undefined
+* grudgingly#[]
 * sustenance#[ˈsʌstənəns][ˈsʌstənəns]
 * truck#[trʌk][trʌk]
 * labeled#['leɪbld]['leɪbld]
 * indebted#[ɪnˈdetɪd][ɪnˈdɛtɪd]
-* number-one#undefined
+* number-one#[]
 * amplitude#[ˈæmplɪtju:d][ˈæmplɪtu:d]
 * compositional#[ˌkɒmpə'zɪʃənəl][ˌkɒmpə'zɪʃənəl]
 * prodigious#[prəˈdɪdʒəs][prəˈdɪdʒəs]
@@ -14684,12 +14679,12 @@
 * regulated#[][]
 * weighted#[ˈweɪtɪd][ˈwetɪd]
 * unqualified#[ˌʌnˈkwɒlɪfaɪd][ˌʌnˈkwɑ:lɪfaɪd]
-* four-day#undefined
+* four-day#[]
 * conjunction#[kənˈdʒʌŋkʃn][kənˈdʒʌŋkʃən]
 * pail#[peɪl][pel]
 * glistening#['glɪstnɪŋ]['glɪstnɪŋ]
 * self-described#['selfdɪskr'aɪbd]['selfdɪskr'aɪbd]
-* multi-ethnic#undefined
+* multi-ethnic#[]
 * grueling#['grʊəlɪŋ][ˈɡruəlɪŋ,ˈɡrulɪŋ]
 * returning#[][]
 * supersede#[ˌsu:pəˈsi:d][ˌsu:pərˈsi:d]
@@ -14719,7 +14714,7 @@
 * prune#[pru:n][prun]
 * loin#[lɔɪn][lɔɪn]
 * frayed#[][]
-* seven-year-old#undefined
+* seven-year-old#[]
 * innocent#[ˈɪnəsnt][ˈɪnəsənt]
 * chirp#[tʃɜ:p][tʃɜ:rp]
 * repeal#[rɪˈpi:l][rɪˈpil]
@@ -14902,7 +14897,7 @@
 * sparsely#[spɑ:slɪ][ˈspɑrslɪ]
 * widening#['waɪdnɪŋ]['waɪdnɪŋ]
 * parked#[pɑ:kt][pɑ:kt]
-* three-month#undefined
+* three-month#[]
 * rectify#[ˈrektɪfaɪ][ˈrɛktəˌfaɪ]
 * contrary#[ˈkɒntrəri][ˈkɑ:ntreri]
 * wheeze#[wi:z][hwiz,wiz]
@@ -15013,7 +15008,7 @@
 * brawl#[brɔ:l][brɔl]
 * smite#[smaɪt][smaɪt]
 * chi-square#['kaɪskweə]['kaɪskwer]
-* Federalist#undefined
+* Federalist#[]
 * booking#[ˈbʊkɪŋ][ˈbʊkɪŋ]
 * hateful#[ˈheɪtfl][ˈhetfəl]
 * reigning#['reɪnɪŋ]['reɪnɪŋ]
@@ -15151,7 +15146,7 @@
 * private#[ˈpraɪvət][ˈpraɪvɪt]
 * freshness#[freʃnəs]  [freʃnəs]|鲜度
 * befall#[bɪˈfɔ:l][bɪˈfɔl]
-* sixty-five#undefined
+* sixty-five#[]
 * custodian#[kʌˈstəʊdiən][kʌˈstoʊdiən]
 * genealogy#[ˌdʒi:niˈælədʒi][ˌdʒiniˈɑlədʒi,-ˈæl-,ˌdʒɛni-]
 * likable#[ˈlaɪkəbəl][ˈlaɪkəbəl]
@@ -15196,14 +15191,14 @@
 * spherical#[ˈsferɪkl][ˈsfɪrɪkəl,ˈsfɛr-]
 * maroon#[məˈru:n][məˈrun]
 * edifice#[ˈedɪfɪs][ˈɛdəfɪs]
-* longer-term#undefined
+* longer-term#[]
 * doorman#[ˈdɔ:mən][ˈdɔ:rmən]
 * trusting#[ˈtrʌstɪŋ][]
 * laid-back#[ˌleidˈbæk][ˈledˈbæk]
 * undefeated#[ˌʌndɪˈfi:tɪd][ˌʌndɪ'fi:tɪd]
 * deformed#[dɪˈfɔ:md][dɪˈfɔ:rmd]
 * epithet#[ˈepɪθet][ˈɛpəˌθɛt]
-* five-day#undefined
+* five-day#[]
 * awry#[əˈraɪ][əˈraɪ]
 * fudge#[fʌdʒ][fʌdʒ]
 * co-author#[][]
@@ -15282,7 +15277,7 @@
 * old-timer#[ˈəʊldˈtaɪmə][ˈoldˈtaɪmɚ]
 * fluid#[ˈflu:ɪd][ˈfluɪd]
 * induct#[ɪnˈdʌkt][ɪn'dʌkt]
-* at-bat#undefined
+* at-bat#[]
 * bridal#[ˈbraɪdl][ˈbraɪdl]
 * consequent#[ˈkɒnsɪkwənt][ˈkɑnsɪˌkwɛnt]
 * riverbank#[ˈrɪvəbæŋk][ˈrɪvərɪvəbæŋk]
@@ -15310,7 +15305,7 @@
 * definitively#[dɪ'fɪnətɪvlɪ][dɪ'fɪnətɪvlɪ]
 * huff#[hʌf][hʌf]
 * concomitant#[kənˈkɒmɪtənt][kənˈkɑ:mɪtənt]
-* one-hour#undefined
+* one-hour#[]
 * molasses#[məˈlæsɪz][məˈlæsɪz]
 * wobbly#[ˈwɒbli][ˈwɑ:bli]
 * meaty#[ˈmi:ti][ˈmiti]
@@ -15352,7 +15347,7 @@
 * ballast#[ˈbæləst][ˈbæləst]
 * misinformation#[ˌmɪsɪnfə'meɪʃn][ˌmɪsɪnfə'meɪʃn]
 * sickening#[ˈsɪkənɪŋ][ˈsɪkənɪŋ]
-* worst-case#undefined
+* worst-case#[]
 * up-front#['ʌpfr'ʌnt]['ʌpfr'ʌnt]
 * impunity#[ɪmˈpju:nəti][ɪmˈpjunɪti]
 * landscape#[ˈlændskeɪp][ˈlændˌskep]
@@ -15397,7 +15392,7 @@
 * unsatisfactory#[ˌʌnˌsætɪsˈfæktəri][ʌnˌsætɪsˈfæktəri]
 * repeating#[rɪ'pi:tɪŋ][rɪ'pi:tɪŋ]
 * accelerating#[æk'sæləreɪtɪŋ][æk'sæləreɪtɪŋ]
-* multi-party#undefined
+* multi-party#[]
 * rationally#['ræʃnəlɪ]['ræʃnəlɪ]
 * Spanish#[ˈspænɪʃ][ˈspænɪʃ]
 * fleshy#[ˈfleʃi][ˈflɛʃi]
@@ -15461,7 +15456,7 @@
 * blocked#[blɒkt][blɒkt]
 * slash#[slæʃ][slæʃ]
 * daughter-in-law#['dɔ:tərɪnlɔ:][ˈdɔtərɪnˌlɔ]
-* small-business#undefined
+* small-business#[]
 * anti#[ˈænti][ˈæntaɪ,-ti]
 * industrialist#[ɪnˈdʌstriəlɪst][ɪnˈdʌstriəlɪst]
 * measuring#['meʒərɪŋ]['meʒrɪŋ]
@@ -15498,7 +15493,7 @@
 * nectar#[ˈnektə(r)][ˈnɛktɚ]
 * disappearing#[][]
 * non-western#[][]
-* thirty-four#undefined
+* thirty-four#[]
 * dialysis#[ˌdaɪˈæləsɪs][daɪˈælɪsɪs]
 * shyly#[ʃaɪlɪ][ˈʃaɪlɪ]
 * dismissive#[dɪsˈmɪsɪv][dɪsˈmɪsɪv]
@@ -15512,7 +15507,7 @@
 * blistering#[ˈblɪstərɪŋ][ˈblɪstərɪŋ]
 * toaster#[ˈtəʊstə(r)][ˈtoʊstə(r)]
 * frosted#[ˈfrɒstɪd][ˈfrɔ:stɪd]
-* school-based#undefined
+* school-based#[]
 * revolutionary#[ˌrevəˈlu:ʃənəri][ˌrevəˈlu:ʃəneri]
 * asymmetry#[ˌeɪ'sɪmətrɪ][eˈsɪmɪtri]
 * wallow#[ˈwɒləʊ][ˈwɑ:loʊ]
@@ -15620,7 +15615,7 @@
 * enumerate#[ɪˈnju:məreɪt][ɪˈnu:məreɪt]
 * ridiculously#[rɪ'dɪkjələslɪ][rɪˈdɪkjələslɪ]
 * peacetime#[ˈpi:staɪm][ˈpisˌtaɪm]
-* mid-size#undefined
+* mid-size#[]
 * Band-Aid#[][]
 * runaway#[ˈrʌnəweɪ][ˈrʌnəˌwe]
 * refurbish#[ˌri:ˈfɜ:bɪʃ][ˌri:ˈfɜ:rbɪʃ]
@@ -15629,7 +15624,7 @@
 * practiced#['præktɪst]['præktɪst]
 * lattice#[ˈlætɪs][ˈlætɪs]
 * ticking#[ˈtɪkɪŋ][ˈtɪkɪŋ]
-* civil-military#undefined
+* civil-military#[]
 * truffle#[ˈtrʌfl][ˈtrʌfəl]
 * weld#[weld][wɛld]
 * gatekeeper#[ˈgeɪtki:pə(r)][ˈɡetˌkipɚ]
@@ -15724,7 +15719,7 @@
 * disservice#[dɪsˈsɜ:vɪs][dɪsˈsɜ:rvɪs]
 * pueblo#[ˈpwebləʊ][ˈpwebloʊ]
 * peppermint#[ˈpepəmɪnt][ˈpepərmɪnt]
-* eight-year-old#undefined
+* eight-year-old#[]
 * additive#[ˈædətɪv][ˈædɪtɪv]
 * greased#[gri:zd][gri:zd]
 * anguished#['æŋɡwɪʃd]['æŋɡwɪʃd]
@@ -15904,7 +15899,7 @@
 * evaporation#[ɪˌvæpə'reɪʃn][ɪˌvæpə'reɪʃn]
 * catering#[ˈkeɪtərɪŋ][]
 * terra-cotta#[ˌterə'kɒtə]['terə'kɒtə]
-* teacher-librarian#undefined
+* teacher-librarian#[]
 * underpin#[ˌʌndəˈpɪn][ˌʌndərˈpɪn]
 * cologne#[kəˈləʊn][kəˈloʊn]
 * deformity#[dɪˈfɔ:məti][dɪˈfɔ:rməti]
@@ -15930,7 +15925,7 @@
 * righteousness#['raɪtʃəsnəs]['raɪtʃəsnəs]
 * bicycle#[ˈbaɪsɪkl][ˈbaɪsɪkl]
 * ethereal#[iˈθɪəriəl][iˈθɪriəl]
-* three-time#undefined
+* three-time#[]
 * swine#[swaɪn][swaɪn]
 * contrive#[kənˈtraɪv][kənˈtraɪv]
 * peacock#[ˈpi:kɒk][ˈpi:kɑ:k]
@@ -15941,8 +15936,8 @@
 * skyward#['skaɪwəd][ˈskaɪwəd]
 * blatantly#['bleɪtəntlɪ]['bleɪtəntlɪ]
 * laurel#[ˈlɒrəl][ˈlɔ:rəl]
-* mid-afternoon#undefined
-* English-language#undefined
+* mid-afternoon#[]
+* English-language#[]
 * abet#[əˈbet][əˈbɛt]
 * warplane#[ˈwɔ:pleɪn][ˈwɔ:rpleɪn]
 * condescending#[ˌkɒndɪˈsendɪŋ][ˌkɑ:ndɪˈsendɪŋ]
@@ -15997,7 +15992,7 @@
 * cynic#[ˈsɪnɪk][ˈsɪnɪk]
 * astonishingly#[ə'stɒnɪʃɪŋlɪ][ə'stɒnɪʃɪŋlɪ]
 * oversize#['əʊvəsaɪz][ˈovɚˌsaɪz]
-* thirty-seven#undefined
+* thirty-seven#[]
 * commemoration#[kəˌmeməˈreɪʃn][kəˌmɛməˈreʃən]
 * phobia#[ˈfəʊbiə][ˈfoʊbiə]
 * defunct#[dɪˈfʌŋkt][dɪˈfʌŋkt]
@@ -16030,7 +16025,7 @@
 * sternly#[stɜ:nlɪ][ˈstə:nlɪ]
 * broach#[brəʊtʃ][broʊtʃ]
 * nightly#[ˈnaɪtli][ˈnaɪtli]
-* thirty-one#undefined
+* thirty-one#[]
 * decomposition#[ˌdi:kɒmpə'zɪʃn][ˌdikɑmpəˈzɪʃən]
 * transplantation#[ˌtrænzplɑ:n'teɪʃn][ˌtrænsplænˈteʃən]
 * flourishing#['flɜ:ɪʃɪŋ]['flɜ:ɪʃɪŋ]
@@ -16059,7 +16054,7 @@
 * illustrated#['ɪləstreɪtɪd]['ɪləstreɪtɪd]
 * bottleneck#[ˈbɒtlnek][ˈbɑ:tlnek]
 * interagency#[ˌɪntər'eɪdʒənsɪ][ˌɪntər'eɪdʒənsɪ]
-* three-story#undefined
+* three-story#[]
 * innocently#['ɪnəsntlɪ][ˈɪnəsəntlɪ]
 * purification#[ˌpjʊərɪfɪ'keɪʃn][ˌpjʊrəfɪˈkeʃən]
 * sculpted#[][]
@@ -16075,7 +16070,7 @@
 * chloride#[ˈklɔ:raɪd][ˈklɔrˌaɪd,ˈklor-]
 * retiring#[rɪˈtaɪərɪŋ][rɪˈtaɪrɪŋ]
 * demonize#[ˈdi:mənaɪz]['di:mənaɪz]
-* four-year-old#undefined
+* four-year-old#[]
 * amplifier#[ˈæmplɪfaɪə(r)][ˈæmpləˌfaɪɚ]
 * luster#['lʌstə][ˈlʌstɚ]
 * drone#[drəʊn][droʊn]
@@ -16111,7 +16106,7 @@
 * conciliatory#[kənˈsɪliətəri][kənˈsɪliətɔ:ri]
 * breezy#[ˈbri:zi][ˈbrizi]
 * placard#[ˈplækɑ:d][ˈplækɑ:rd]
-* stainless-steel#undefined
+* stainless-steel#[]
 * array#[əˈreɪ][ə'reɪ]
 * particulate#[pɑ:ˈtɪkjələt][pɑ:rˈtɪkjələt]
 * artful#[ˈɑ:tfl][ˈɑ:rtfl]
@@ -16130,7 +16125,7 @@
 * twitch#[twɪtʃ][twɪtʃ]
 * impotent#[ˈɪmpətənt][ˈɪmpətənt]
 * inhuman#[ɪnˈhju:mən][ɪnˈhjumən]
-* pre-dawn#undefined
+* pre-dawn#[]
 * anoint#[əˈnɔɪnt][əˈnɔɪnt]
 * veil#[veɪl][vel]
 * launder#[ˈlɔ:ndə(r)][ˈlɔndɚ,ˈlɑn-]
@@ -16176,7 +16171,7 @@
 * solicitation#[səˌlɪsɪ'təɪʃn][səˌlɪsəˈteʃən]
 * ballerina#[ˌbæləˈri:nə][ˌbæləˈrinə]
 * aviator#[ˈeɪvieɪtə(r)][ˈeviˌetɚ,ˈævi-]
-* Washington-based#undefined
+* Washington-based#[]
 * roofing#[ˈru:fɪŋ][ˈrufɪŋ,ˈrʊfɪŋ]
 * glassy#[ˈglɑ:si][ˈglæsi]
 * encryption#[ɪn'krɪpʃn][ɪn'krɪpʃn]
@@ -16187,12 +16182,12 @@
 * quandary#[ˈkwɒndəri][ˈkwɑ:ndəri]
 * standardization#[ˌstændədaɪ'zeɪʃn][ˌstændədaɪ'zeɪʃn]
 * standstill#[ˈstændstɪl][ˈstændˌstɪl]
-* second-floor#undefined
+* second-floor#[]
 * mightily#[ˈmaɪtɪli][ˈmaɪtli]
 * jiggle#[ˈdʒɪgl][ˈdʒɪɡəl]
 * syntax#[ˈsɪntæks][ˈsɪnˌtæks]
 * maturation#[ˌmætʃuˈreɪʃn][ˌmætʃuˈreɪʃn]
-* thirty-eight#undefined
+* thirty-eight#[]
 * canteen#[kænˈti:n][kænˈtin]
 * montage#[ˌmɒnˈtɑ:ʒ][ˌmɑ:nˈtɑ:ʒ]
 * epidemiologist#[ˌepɪˌdi:mɪ'ɒlədʒɪst][ˌepɪˌdi:mɪ'ɒlədʒɪst]
@@ -16209,7 +16204,7 @@
 * Cajun#[ˈkeɪdʒn][ˈkedʒən]
 * dab#[dæb][dæb]
 * conspirator#[kənˈspɪrətə(r)][kənˈspɪrətɚ]
-* US-led#undefined
+* US-led#[]
 * hunker#[ˈhʌŋkə(r)][ˈhʌŋkɚ]
 * grease#[gri:s][ɡris]
 * morbid#[ˈmɔ:bɪd][ˈmɔ:rbɪd]
@@ -16233,7 +16228,7 @@
 * hypocrite#[ˈhɪpəkrɪt][ˈhɪpəˌkrɪt]
 * bazaar#[bəˈzɑ:(r)][bəˈzɑr]
 * gleefully#['ɡli:fəlɪ]['ɡli:fəlɪ]
-* mid-morning#undefined
+* mid-morning#[]
 * consulate#[ˈkɒnsjələt][ˈkɑ:nsələt]
 * self-proclaimed#[ˈselfprəˈkleimd][ˌsɛlfproˈklemd,-prə-]
 * insinuate#[ɪnˈsɪnjueɪt][ɪnˈsɪnjuˌet]
@@ -16251,7 +16246,7 @@
 * undetected#[ˌʌndɪˈtektɪd][]
 * bewildering#[bɪˈwɪldərɪŋ][]
 * waning#['weɪnɪŋ]['weɪnɪŋ]
-* fifty-five#undefined
+* fifty-five#[]
 * chairwoman#[ˈtʃeəwʊmən][ˈtʃerəwʊmən]
 * brunette#[bru:ˈnet][bruˈnɛt]
 * croon#[kru:n][krun]
@@ -16307,11 +16302,11 @@
 * hairline#[ˈheəlaɪn][ˈherlaɪn]
 * grille#[ɡrɪl][ɡrɪl]
 * reasoned#[ˈri:zənd][]
-* Enquirer#undefined
+* Enquirer#[]
 * fickle#[ˈfɪkl][ˈfɪkəl]
 * widower#[ˈwɪdəʊə(r)][ˈwɪdoʊə(r)]
 * bluff#[blʌf][blʌf]
-* computer-generated#undefined
+* computer-generated#[]
 * globular#[ˈglɒbjələ(r)][ˈglɑ:bjələ(r)]
 * foreshadow#[fɔ:ˈʃædəʊ][fɔ:rˈʃædoʊ]
 * collecting#[][]
@@ -16351,7 +16346,7 @@
 * genesis#[ˈdʒenəsɪs][ˈdʒɛnɪsɪs]
 * dogwood#[ˈdɒgwʊd][ˈdɔ:gwʊd]
 * amorphous#[əˈmɔ:fəs][əˈmɔ:rfəs]
-* five-minute#undefined
+* five-minute#[]
 * undisputed#[ˌʌndɪˈspju:tɪd][ˌʌndɪ'spju:tɪd]
 * troublemaker#[ˈtrʌblmeɪkə(r)][ˈtrʌbəlˌmekɚ]
 * quickness#[ˈkwɪknəs][ˈkwɪknəs]
@@ -16361,15 +16356,15 @@
 * horrified#['hɒrɪfaɪd][ˈhɔrəˌfaɪd]
 * die-hard#[hɑrd][hɑrd]
 * clearing#[ˈklɪərɪŋ][ˈklɪrɪŋ]
-* co-director#undefined
-* private-sector#undefined
+* co-director#[]
+* private-sector#[]
 * repulsive#[rɪˈpʌlsɪv][rɪˈpʌlsɪv]
 * default#[dɪˈfɔ:lt][dɪˈfɔlt]
 * invoice#[ˈɪnvɔɪs][ˈɪnˌvɔɪs]
 * inflationary#[ɪnˈfleɪʃənri][ɪnˈfleɪʃəneri]
 * preponderance#[prɪˈpɒndərəns][prɪˈpɑ:ndərəns]
 * pantheon#[ˈpænθiən][ˈpænθiɑ:n]
-* nine-year-old#undefined
+* nine-year-old#[]
 * saber#[ˈseɪbə][ˈsebɚ]
 * deceit#[dɪˈsi:t][dɪˈsit]
 * Balkan#['bɒlkən]['bɒlkən]
@@ -16427,7 +16422,7 @@
 * berate#[bɪˈreɪt][bɪˈret]
 * testicle#[ˈtestɪkl][ˈtɛstɪkəl]
 * hatchery#[ˈhætʃəri][ˈhætʃəri]
-* Israeli-Palestinian#undefined
+* Israeli-Palestinian#[]
 * arbitrarily#['ɑ:bɪtrəlɪ][ˌɑrbəˈtrɛrəlɪ]
 * unending#[ʌnˈendɪŋ][ʌnˈɛndɪŋ]
 * misread#[ˌmɪs'ri:d][ˌmɪs'ri:d]
@@ -16500,7 +16495,7 @@
 * jumpsuit#[ˈdʒʌmpsu:t][ˈdʒʌmpsuːt]
 * tumble#[ˈtʌmbl][ˈtʌmbəl]
 * well-dressed#['wel'drest]['wel'drest]
-* health-related#undefined
+* health-related#[]
 * secularism#[ˈsekjələrɪzəm][ˈsɛkjələˌrɪzəm]
 * realignment#[ˌri:ə'laɪnmənt][ˌri:ə'laɪnmənt]
 * ruefully#['ru:fəlɪ][ˈrufəlɪ]
@@ -16525,7 +16520,7 @@
 * cloak#[kləʊk][kloʊk]
 * biz#[bɪz][bɪz]
 * degenerate#[dɪˈdʒenəreɪt][dɪ'dʒenəreɪt]
-* co-write#undefined
+* co-write#[]
 * Somali#[sə'ma:lɪ][sə'ma:lɪ]
 * tantalize#[ˈtæntəlaɪz][ˈtæntəˌlaɪz]
 * falcon#[ˈfɔ:lkən][ˈfælkən]
@@ -16578,7 +16573,7 @@
 * hangout#['hæŋaʊt][ˈhæŋˌaʊt]
 * time-honored#['taɪm'ɔ:nəd]['taɪm'ɔ:nəd]
 * kennel#[ˈkenl][ˈkɛnəl]
-* underly#undefined
+* underly#[]
 * weeping#[ˈwi:pɪŋ][ˈwipɪŋ]
 * sizzle#[ˈsɪzl][ˈsɪzəl]
 * sketchy#[ˈsketʃi][ˈskɛtʃi]
@@ -16613,7 +16608,7 @@
 * sick#[sɪk][sɪk]
 * Ramadan#[ˈræmədæn][ˌræməˈdɑn,ˈræməˌdɑn]
 * purge#[pɜ:dʒ][pɜ:rdʒ]
-* two-year-old#undefined
+* two-year-old#[]
 * dispersion#[dɪˈspɜ:ʃn][dɪˈspɜ:rʒn]
 * consternation#[ˌkɒnstəˈneɪʃn][ˌkɑ:nstərˈneɪʃn]
 * ferocity#[fəˈrɒsəti][fəˈrɑ:səti]
@@ -16871,7 +16866,7 @@
 * lull#[lʌl][lʌl]
 * even#[ˈi:vn][ˈivən]
 * tryout#[ˈtraɪaʊt][ˈtraɪˌaʊt]
-* at-large#undefined
+* at-large#[]
 * outstrip#[ˌaʊtˈstrɪp][aʊtˈstrɪp]
 * reposition#[ˌri:pə'zɪʃən][ˌripəˈzɪʃən,ˌrɛpə-]
 * indignity#[ɪnˈdɪgnəti][ɪnˈdɪɡnɪti]
@@ -16905,7 +16900,7 @@
 * kiln#[kɪln][kɪln,kɪl]
 * dissimilar#[dɪˈsɪmɪlə(r)][dɪˈsɪməlɚ]
 * abatement#[ə'beɪtmənt][əˈbetmənt]
-* Mexican-American#undefined
+* Mexican-American#[]
 * deluge#[ˈdelju:dʒ][ˈdɛljudʒ]
 * how-to#[ˈhauˈtu:][ˈhaʊˈtu]
 * bead#[bi:d][bid]
@@ -16955,7 +16950,7 @@
 * bash#[bæʃ][bæʃ]
 * schoolyard#[ˈsku:ljɑ:d][ˈsku:ljɑ:rd]
 * interfaith#[ˈɪntəfeɪθ][ˈɪntərfeɪθ]
-* student-athlete#undefined
+* student-athlete#[]
 * earshot#[ˈɪəʃɒt][ˈɪrʃɑ:t]
 * weariness#['wɪərɪnəs][ˈwɪrɪnɪs]
 * high-resolution#[ˌhaɪˈrez][haɪˌrɛzəˈluʃən]
@@ -16966,7 +16961,7 @@
 * redden#[ˈredn][ˈrɛdn:]
 * Darwinian#[dɑ:'wɪnɪən][dɑ:'wɪnɪrn]
 * indiscriminate#[ˌɪndɪsˈkrɪmɪnət][ˌɪndɪˈskrɪmənət]
-* co-chair#undefined
+* co-chair#[]
 * rapture#[ˈræptʃə(r)][ˈræptʃɚ]
 * granulate#['grænjʊleɪt]['grænjəˌleɪt]
 * ordered#[ˈɔ:dəd][ˈɔ:rdərd]
@@ -16983,7 +16978,7 @@
 * trying#[ˈtraɪɪŋ][ˈtraɪɪŋ]
 * pine#[paɪn][paɪn]
 * crewman#[ˈkru:mən][ˈkruːmən]
-* belatedly#undefined
+* belatedly#[]
 * respirator#[ˈrespəreɪtə(r)][ˈrɛspəˌretɚ]
 * flounder#[ˈflaʊndə(r)][ˈflaʊndɚ]
 * geothermal#[ˌdʒi:əʊˈθɜ:ml][ˌdʒi:oʊˈθɜ:rml]
@@ -17032,7 +17027,7 @@
 * elucidate#[iˈlu:sɪdeɪt][ɪˈlusɪˌdet]
 * lubricant#[ˈlu:brɪkənt][ˈlubrɪkənt]
 * fuselage#[ˈfju:zəlɑ:ʒ][ˈfju:slɑ:ʒ]
-* single-parent#undefined
+* single-parent#[]
 * down-to-earth#['daʊnt'ə'ɜ:θ]['daʊnt'ə'ɜ:θ]
 * stir-fry#[ˈstɜ:ˌfraɪ][ˈstɚˌfraɪ]
 * accession#[ækˈseʃn][ækˈsɛʃən]
@@ -17112,7 +17107,7 @@
 * leveraged#[][]
 * aesthetically#[es'θetɪklɪ][es'θetɪklɪ]
 * navigator#[ˈnævɪgeɪtə(r)][ˈnævɪˌɡetɚ]
-* half-mile#undefined
+* half-mile#[]
 * barb#[bɑ:b][bɑ:rb]
 * concentric#[kənˈsentrɪk][kənˈsɛntrɪk]
 * fondle#[ˈfɒndl][ˈfɑ:ndl]
@@ -17152,7 +17147,7 @@
 * dupe#[dju:p][du:p]
 * beret#[ˈbereɪ][bəˈreɪ]
 * orally#['ɔ:rəlɪ][ˈorəlɪ]
-* well-documented#undefined
+* well-documented#[]
 * abreast#[əˈbrest][əˈbrɛst]
 * electrify#[ɪˈlektrɪfaɪ][ɪˈlɛktrəˌfaɪ]
 * storied#[ˈstɔ:rid][ˈstɔrid,ˈstor-]
@@ -17185,7 +17180,7 @@
 * avatar#[ˈævətɑ:(r)]['ævətɑ:r]
 * mammoth#[ˈmæməθ][ˈmæməθ]
 * totem#[ˈtəʊtəm][ˈtoʊtəm]
-* first-person#undefined
+* first-person#[]
 * obstetrician#[ˌɒbstəˈtrɪʃn][ˌɑ:bstəˈtrɪʃn]
 * lick#[lɪk][lɪk]
 * suffrage#[ˈsʌfrɪdʒ][ˈsʌfrɪdʒ]
@@ -17286,7 +17281,7 @@
 * woolen#['wʊlɪn][ˈwʊlɪn]
 * inverse#[ˌɪnˈvɜ:s][ˌɪnˈvɜ:rs]
 * intoxicate#[ɪn'tɒksɪkeɪt][ɪnˈtɑksɪˌket]
-* grandkid#undefined
+* grandkid#[]
 * word#[wɜ:d][wɜ:rd]
 * sand#[sænd][sænd]
 * bottomless#[ˈbɒtəmləs][ˈbɑ:təmləs]
@@ -17303,7 +17298,7 @@
 * duplication#[ˌdju:plɪ'keɪʃn][ˌduplɪˈkeʃən,ˌdju-]
 * pop-up#[ˈpɔpˌʌp][ˈpɑpˌʌp]
 * do-it-yourself#[ˈdu:itjɔ:ˈself][ˌduɪtjɚˈsɛlf]
-* all-white#undefined
+* all-white#[]
 * laughable#[ˈlɑ:fəbl][ˈlæfəbl]
 * bewilderment#[bɪˈwɪldəmənt][bɪˈwɪldərmənt]
 * fruition#[fruˈɪʃn][fruˈɪʃən]
@@ -17321,7 +17316,7 @@
 * butcher#[ˈbʊtʃə(r)][ˈbʊtʃɚ]
 * hesitantly#['hezɪtəntlɪ][ˈhɛzətəntlɪ]
 * well-intentioned#['welɪn'tenʃənd][ˈwɛlɪnˈtɛnʃənd]
-* seventeenth-century#undefined
+* seventeenth-century#[]
 * panther#[ˈpænθə(r)][ˈpænθɚ]
 * geyser#[ˈgi:zə(r)][ˈgaɪzər]
 * ruddy#[ˈrʌdi][ˈrʌdi]
@@ -17346,7 +17341,7 @@
 * slink#[slɪŋk][slɪŋk]
 * released#[rɪ'li:st][rɪ'li:st]
 * remittance#[rɪˈmɪtns][rɪˈmɪtn:s]
-* Spanish-speaking#undefined
+* Spanish-speaking#[]
 * iridescent#[ˌɪrɪˈdesnt][ˌɪrɪˈdɛsənt]
 * lilac#[ˈlaɪlək][ˈlaɪlək,-lɑk,-læk]
 * glut#[glʌt][ɡlʌt]
@@ -17358,7 +17353,7 @@
 * opulent#[ˈɒpjələnt][ˈɑ:pjələnt]
 * allowable#[əˈlaʊəbl][əˈlaʊəbl]
 * crossfire#[ˈkrɒsfaɪə(r)][ˈkrɔ:sfaɪə(r)]
-* fourth-quarter#undefined
+* fourth-quarter#[]
 * enraged#[][]
 * songbird#[ˈsɒŋbɜ:d][ˈsɔ:ŋbɜ:rd]
 * drive-in#[ˈdraivˈin][ˈdraɪvˌɪn]
@@ -17475,7 +17470,7 @@
 * wheelbarrow#[ˈwi:lbærəʊ][ˈwi:lbæroʊ]|手推车
 * elapse#[ɪˈlæps][ɪˈlæps]
 * pique#[pi:k][pi:k]
-* one-room#undefined
+* one-room#[]
 * treasured#[][]
 * crosstalk#[ˈkrɒstɔ:k][ˈkrɔ:stɔ:k]
 * impressionist#[ɪmˈpreʃənɪst][ɪmˈprɛʃənɪst]
@@ -17508,7 +17503,7 @@
 * clothesline#['kləʊðzlaɪn][ˈklozˌlaɪn,ˈkloðz-]
 * daze#[deɪz][dez]
 * delinquent#[dɪˈlɪŋkwənt][dɪˈlɪŋkwənt,-ˈlɪn-]
-* eight-year#undefined
+* eight-year#[]
 * mercifully#[ˈmɜ:sɪfəli][ˈmɜ:rsɪfəli]
 * bedspread#[ˈbedspred][ˈbɛdˌsprɛd]
 * exalted#[ɪgˈzɔ:ltɪd][ɪɡˈzɔltɪd]
@@ -17527,7 +17522,7 @@
 * headmaster#[ˌhedˈmɑ:stə(r)][ˌhedˈmæstə(r)]
 * gobbler#['gɒblə]['gɒblə]
 * ramble#[ˈræmbl][ˈræmbəl]
-* old-growth#undefined
+* old-growth#[]
 * craggy#[krægi][ˈkræɡi]
 * maim#[meɪm][mem]
 * lefty#['leftɪ][ˈlɛfti]
@@ -17597,7 +17592,7 @@
 * dirty#[ˈdɜ:ti][ˈdɜ:rti]
 * sagging#['sægɪŋ]['sægɪŋ]
 * harmonica#[hɑ:ˈmɒnɪkə][hɑ:rˈmɑ:nɪkə]
-* madam#[ˈmædəm][ˈmædəm]
+* madam#[ˈmædəm][ˈmædəm]|女士
 * next-door#[][]
 * jittery#[ˈdʒɪtəri]['dʒɪtərɪ]
 * thrilled#[θrɪld][θrɪld]
@@ -17605,7 +17600,7 @@
 * radio#[ˈreɪdiəʊ][ˈreɪdioʊ]
 * sender#[ˈsendə(r)]['sendər]
 * scented#[ˈsentɪd][sɛntɪd]
-* marginalized#undefined
+* marginalized#[]
 * enunciate#[ɪˈnʌnsieɪt][ɪˈnʌnsiˌet]
 * self-imposed#[ˌselfɪmˈpəʊzd][ˌsɛlfɪmˈpozd]
 * upper-class#['ʌpəklɑ:s]['ʌpə'klɑ:s]
@@ -17618,7 +17613,7 @@
 * cowardice#[ˈkaʊədɪs][ˈkaʊərdɪs]
 * lined#[laɪnd][laɪnd]
 * antigen#[ˈæntɪdʒən][ˈæntɪdʒən]
-* forty-three#undefined
+* forty-three#[]
 * tidy#[ˈtaɪdi][ˈtaɪdi]
 * tint#[tɪnt][tɪnt]
 * interweave#[ˌɪntəˈwi:v][ˌɪntərˈwi:v]
@@ -17678,7 +17673,7 @@
 * sneaky#[ˈsni:ki][ˈsniki]
 * deregulate#[ˌdi:ˈregjuleɪt][diˈrɛɡjəˌlet]
 * convulsion#[kənˈvʌlʃn][kənˈvʌlʃən]
-* co-host#undefined
+* co-host#[]
 * nape#[neɪp][nep,næp]
 * flirtation#[flɜ:ˈteɪʃn][flɜ:rˈteɪʃn]
 * loath#[ləʊθ,ləʊð][loθ,loð]
@@ -17687,7 +17682,7 @@
 * streamer#[ˈstri:mə(r)][ˈstrimɚ]
 * snowshoe#[ˈsnəʊʃu:][ˈsnoʊʃu:]
 * symbiotic#[ˌsɪmbaɪ'ɒtɪk][ˌsɪmbaɪ'ɒtɪk]
-* campaigning#undefined
+* campaigning#[]
 * regress#[rɪˈgres][rɪ'ɡres]
 * topsoil#[ˈtɒpsɔɪl][ˈtɑ:psɔɪl]
 * headboard#[ˈhedbɔ:d][ˈhedbɔ:rd]
@@ -17697,12 +17692,12 @@
 * rote#[rəʊt][roʊt]
 * phosphate#[ˈfɒsfeɪt][ˈfɑ:sfeɪt]
 * unsavory#['ʌn'seɪvərɪ][ʌn'seɪvərɪ]
-* ten-year-old#undefined
+* ten-year-old#[]
 * auditing#['ɔ:dɪtɪŋ]['ɔ:dɪtɪŋ]
 * hah#[][]
 * Austrian#['ɒstrɪən]['ɔ:strɪrn]
 * falsehood#[ˈfɔ:lshʊd][ˈfɔlsˌhʊd]
-* drug-related#undefined
+* drug-related#[]
 * amputate#[ˈæmpjuteɪt][ˈæmpjʊˌtet]
 * councilman#[ˈkaʊnslmən][ˈkaʊnsəlmən]
 * gunpowder#[ˈgʌnpaʊdə(r)][ˈɡʌnˌpaʊdɚ]
@@ -17714,7 +17709,7 @@
 * intricately#['ɪntrɪkətlɪ][ˈɪntrəkɪtlɪ]
 * parlance#[ˈpɑ:ləns][ˈpɑ:rləns]
 * disclaimer#[dɪsˈkleɪmə(r)][dɪsˈklemɚ]
-* khakis#undefined
+* khakis#[]
 * flake#[fleɪk][flek]
 * ice-cream#['aɪskri:m]['aɪskri:m]
 * swordfish#[ˈsɔ:dfɪʃ][ˈsɔ:rdfɪʃ]
@@ -17736,7 +17731,7 @@
 * skateboard#[ˈskeɪtbɔ:d][ˈskeɪtbɔ:rd]
 * hermit#[ˈhɜ:mɪt][ˈhɜ:rmɪt]
 * impel#[ɪmˈpel][ɪm'pel]
-* test-retest#undefined
+* test-retest#[]
 * justly#['dʒʌstlɪ][ˈdʒʌstlɪ]
 * condiment#[ˈkɒndɪmənt][ˈkɑ:ndɪmənt]
 * rapt#[ræpt][ræpt]
@@ -17840,7 +17835,7 @@
 * docking#['dɒkɪŋ]['dɒkɪŋ]
 * nominally#['nɒmɪnəlɪ][ˈnɑmənl:ɪ]
 * inquisitive#[ɪnˈkwɪzətɪv][ɪnˈkwɪzɪtɪv]
-* gendered#undefined
+* gendered#[]
 * goddamn#['gɒd'dæm][ˈɡɑdˈdæm]
 * unsustainable#[ˌʌnsəˈsteɪnəbl][]
 * uptown#[ˌʌpˈtaʊn][ˈʌpˌtaʊn]
@@ -17900,7 +17895,7 @@
 * invisibility#[ɪnˌvɪzə'bɪlətɪ][ɪnˌvɪzə'bɪlətɪ]
 * pursuer#[pəˈsju:ə(r)][pərˈsu:ə(r)]
 * ebony#[ˈebəni][ˈɛbəni]
-* hour-long#undefined
+* hour-long#[]
 * ancillary#[ænˈsɪləri][ˈænsəleri]
 * dungeon#[ˈdʌndʒən][ˈdʌndʒən]
 * computer-based#[kəmp'ju:təb'eɪst][kəmp'ju:təb'eɪst]
@@ -17929,12 +17924,12 @@
 * distal#[ˈdɪstl][ˈdɪstəl]
 * rinsed#[][]
 * abolitionist#[ˌæbəˈlɪʃənɪst][]
-* extra-virgin#undefined
-* ballgame#undefined
-* medium-low#undefined
+* extra-virgin#[]
+* ballgame#[]
+* medium-low#[]
 * overcast#[ˌəʊvəˈkɑ:st][ˌoʊvərˈkæst]|多云的
 * carmaker#['kɑ:meɪkə(r)]['kɑ:ˌmeɪkə]
-* low-wage#undefined
+* low-wage#[]
 * incurable#[ɪnˈkjʊərəbl][ɪnˈkjʊrəbl]
 * tumbler#[ˈtʌmblə(r)][ˈtʌmblɚ]
 * wristwatch#[ˈrɪstwɒtʃ][ˈrɪstwɑ:tʃ]
@@ -17943,7 +17938,7 @@
 * open-minded#['əʊpən'maɪndɪd][ˈopənˈmaɪndɪd]
 * organically#[ɔ:'ɡænɪklɪ][ɔ:'ɡænɪklɪ]
 * cognac#[ˈkɒnjæk][ˈkoʊnjæk]
-* forty-four#undefined
+* forty-four#[]
 * behest#[bɪˈhest][bɪˈhɛst]
 * unyielding#[ʌnˈji:ldɪŋ][ʌnˈjildɪŋ]
 * cabaret#[ˈkæbəreɪ][ˌkæbəˈreɪ]
@@ -17954,8 +17949,8 @@
 * adhesive#[ədˈhi:sɪv][ædˈhisɪv,-zɪv]
 * defraud#[dɪˈfrɔ:d][dɪˈfrɔd]
 * amalgam#[əˈmælgəm][əˈmælɡəm]
-* Likert-type#undefined
-* school-age#undefined
+* Likert-type#[]
+* school-age#[]
 * inwardly#[ˈɪnwədli][ˈɪnwərdli]
 * shallow#[ˈʃæləʊ][ˈʃæloʊ]
 * articulated#[ɑ:ˈtɪkjuleɪtɪd][ɑ:rˈtɪkjuleɪtɪd]
@@ -18045,7 +18040,7 @@
 * nude#[nju:d][nu:d]
 * enforced#[ɪnˈfɔ:st][ɪnˈfɔ:rst]
 * sharpness#[ʃɑ:pnəs][ʃɑ:pnəs]
-* politicization#undefined
+* politicization#[]
 * well-worn#['welw'ɔ:n][ˈwɛlˈwɔrn,-ˈworn]
 * musing#[ˈmju:zɪŋ][ˈmjuzɪŋ]
 * shaping#['ʃeɪpɪŋ]['ʃeɪpɪŋ]
@@ -18072,7 +18067,7 @@
 * misbehavior#['mɪsbɪ'heɪvjə][ˌmɪsbɪ'heɪvjə]
 * Inca#[ˈiŋkə][ˈɪŋkə]
 * genial#[ˈdʒi:niəl][ˈdʒinjəl]
-* parent-child#undefined
+* parent-child#[]
 * magnolia#[mægˈnəʊliə][mægˈnoʊliə]
 * inhalation#[ˌɪnhə'leɪʃn][ˌɪnhəˈleʃən]
 * afoot#[əˈfʊt][əˈfʊt]
@@ -18096,7 +18091,7 @@
 * ravages#[ˈrævɪdʒɪz][]
 * scorpion#[ˈskɔ:piən][ˈskɔ:rpiən]
 * brainwash#[ˈbreɪnwɒʃ][ˈbreɪnwɑ:ʃ]
-* four-hour#undefined
+* four-hour#[]
 * catchy#[ˈkætʃi][ˈkætʃi,ˈkɛtʃi]
 * mistreatment#[ˌmɪs'tri:tmənt][mɪsˈtritmənt]
 * whisky#[ˈwɪski][ˈhwɪski,ˈwɪs-]
@@ -18125,7 +18120,7 @@
 * penitentiary#[ˌpenɪˈtenʃəri][ˌpɛnɪˈtɛnʃəri]
 * tantalizing#['tæntəlaɪzɪŋ][ˈtæntl:aɪzɪŋ]
 * mating#[ˈmeɪtɪŋ][]
-* molester#undefined
+* molester#[]
 * blackmail#[ˈblækmeɪl][ˈblækˌmel]
 * dispersed#[dɪ'spɜ:st][dɪ'spɜ:st]
 * oeuvre#[ˈɜ:vrə][ˈɚvrə]
@@ -18204,7 +18199,7 @@
 * bygone#[ˈbaɪgɒn][ˈbaɪgɔ:n]
 * snoop#[snu:p][snup]
 * hello#[hə'ləʊ][həˈloʊ]
-* quarter-century#undefined
+* quarter-century#[]
 * protectionist#[prə'tekʃənɪst][prə'tekʃənɪst]
 * enthuse#[ɪnˈθju:z][ɪnˈθu:z]
 * exclusionary#[ɪkˈsklu:ʒənri][]
@@ -18226,7 +18221,7 @@
 * welder#[ˈweldə(r)][ˈwɛldɚ]
 * unaccustomed#[ˌʌnəˈkʌstəmd][ˌʌnəˈkʌstəmd]
 * boldness#['bəʊldnɪs]['boʊldnɪs]
-* eighth-grade#undefined
+* eighth-grade#[]
 * wired#[ˈwaɪəd][ˈwaɪərd]
 * minefield#[ˈmaɪnfi:ld][ˈmaɪnˌfild]
 * whirl#[wɜ:l][wɜ:rl]
@@ -18268,7 +18263,7 @@
 * mallet#[ˈmælɪt][ˈmælɪt]
 * wick#[wɪk][wɪk]
 * tinge#[tɪndʒ][tɪndʒ]
-* second-year#undefined
+* second-year#[]
 * mat#[mæt][mæt]
 * savanna#[sə'vænə][səˈvænə]
 * shifter#[ˈʃɪftə(r)]['ʃɪftər]
@@ -18364,11 +18359,11 @@
 * sandbag#[ˈsændbæg][ˈsændˌbæɡ]
 * introspective#[ˌɪntrəˈspektɪv][ˌɪntroˈspɛktɪv]
 * custom-made#[ˌkʌstəmˈmeɪd][ˌkʌstəmˈmed]
-* Sandinista#undefined
+* Sandinista#[]
 * hardcover#[ˈhɑ:dkʌvə(r)][ˈhɑ:rdkʌvə(r)]
 * wrought#[rɔ:t][rɔt]
 * reinvigorate#[ˌri:ɪnˈvɪgəreɪt][ˌri:ɪn'vɪɡəreɪt]
-* sixth-grade#undefined
+* sixth-grade#[]
 * anemic#[ə'ni:mɪk][əˈnimɪk]
 * amiss#[əˈmɪs][əˈmɪs]
 * bandanna#[bænˈdænə][bænˈdænə]
@@ -18383,7 +18378,7 @@
 * vaporize#[ˈveɪpəraɪz][ˈvepəˌraɪz]
 * dryness#[draɪnəs][draɪnəs]
 * deleterious#[ˌdeləˈtɪəriəs][ˌdeləˈtɪriəs]
-* thirty-nine#undefined
+* thirty-nine#[]
 * blooming#[ˈblu:mɪŋ][ˈblumɪŋ]
 * inorganic#[ˌɪnɔ:ˈgænɪk][ˌɪnɔ:rˈgænɪk]
 * crass#[kræs][kræs]
@@ -18413,7 +18408,7 @@
 * singularly#[ˈsɪŋgjələli][ˈsɪŋgjələrli]
 * demented#[dɪˈmentɪd][dɪˈmɛntɪd]
 * lope#[ləʊp][loʊp]
-* forty-seven#undefined
+* forty-seven#[]
 * antebellum#[ˌæntiˈbeləm][ˌæntiˈbɛləm]
 * exterminate#[ɪkˈstɜ:mɪneɪt][ɪkˈstɜ:rmɪneɪt]
 * soundbite#['saʊndbaɪt]['saʊndbaɪt]
@@ -18554,7 +18549,7 @@
 * antithetical#[ˌæntɪ'θetɪkl][ˌæntɪˈθɛtɪkəl]
 * underpants#[ˈʌndəpænts][ˈʌndərpænts]
 * phantom#[ˈfæntəm][ˈfæntəm]
-* three-week#undefined
+* three-week#[]
 * prepaid#[ˌpri:ˈpeɪd][ˌpri:'peɪd]
 * mildew#[ˈmɪldju:][ˈmɪldu:]
 * unpredictability#[ˌʌnprɪˌdɪktə'bɪlətɪ][ˌʌnprɪˌdɪktə'bɪlətɪ]
@@ -18570,7 +18565,7 @@
 * duplicate#[ˈdju:plɪkeɪt][ˈdu:plɪkeɪt]
 * meditative#[ˈmedɪtətɪv][ˈmedɪteɪtɪv]
 * titan#[ˈtaɪtn][ˈtaɪtn]
-* fifth-grade#undefined
+* fifth-grade#[]
 * tree-lined#['tri:laɪnd]['tri:laɪnd]
 * hypothermia#[ˌhaɪpəˈθɜ:miə][ˌhaɪpəˈθɜ:rmiə]
 * mafia#[ˈmɑ:fɪɑ:][ˈmɑfɪˌɑ]
@@ -18628,7 +18623,7 @@
 * cruelly#['kru:əlɪ][ˈkrʊəlɪ]
 * showy#[ˈʃəʊi][ˈʃoʊi]
 * entrance#[ˈentrəns][ˈentrəns]
-* third-largest#undefined
+* third-largest#[]
 * prohibitive#[prəˈhɪbətɪv][proˈhɪbɪtɪv]
 * infidel#[ˈɪnfɪdəl][ˈɪnfɪdəl,-ˌdɛl]
 * harem#[ˈhɑ:ri:m][ˈhærəm]
@@ -18672,13 +18667,13 @@
 * loon#[lu:n][lun]
 * cauliflower#[ˈkɒliflaʊə(r)][ˈkɔ:liflaʊə(r)]
 * mucus#[ˈmju:kəs][ˈmjukəs]
-* gray-haired#undefined
+* gray-haired#[]
 * piss#[pɪs][pɪs]
 * shutout#[ˈʃʌtaʊt][ˈʃʌtˌaʊt]
 * narcissistic#[ˌnɑ:sɪ'sɪstɪk][ˌnɑrsɪˈsɪstɪk]
 * hysterically#[hɪ'sterɪklɪ][hɪ'sterɪklɪ]
 * amphibious#[æmˈfɪbiəs][æmˈfɪbiəs]
-* uncharacteristically#undefined
+* uncharacteristically#[]
 * repaint#[ri:'peɪnt][ri:'peɪnt]
 * neurosurgeon#[ˌnjʊərəʊ'sɜ:dʒən][ˌnjʊroʊ'sɜ:dʒən]
 * salamander#[ˈsæləmændə(r)][ˈsæləˌmændɚ]
@@ -18687,7 +18682,7 @@
 * cannibal#[ˈkænɪbl][ˈkænəbəl]
 * biochemistry#[ˌbaɪəʊˈkemɪstri][ˌbaɪoʊˈkemɪstri]
 * nettle#[ˈnetl][ˈnɛtl:]
-* ten-year#undefined
+* ten-year#[]
 * tuber#[ˈtju:bə(r)][ˈtu:bə(r)]
 * coveralls#[ˈkʌvərɔ:lz][]
 * furtive#[ˈfɜ:tɪv][ˈfɜ:rtɪv]
@@ -18714,7 +18709,7 @@
 * measles#[ˈmi:zlz][ˈmizəlz]
 * cougar#[ˈku:gə(r)][ˈkuɡɚ]
 * introspection#[ˌɪntrəˈspekʃn][ˌɪntrəˈspɛkʃən]
-* stained-glass#undefined
+* stained-glass#[]
 * beater#[ˈbi:tə(r)][ˈbitɚ]
 * blissful#[ˈblɪsfl][ˈblɪsfl]
 * lumbering#[ˈlʌmbərɪŋ][ˈlʌmbərɪŋ]
@@ -18755,7 +18750,7 @@
 * tiresome#[ˈtaɪəsəm][ˈtaɪərsəm]
 * demographer#[dɪ'mɒɡrəfə(r)][dɪ'mɒɡrəfə(r)]
 * rhododendron#[ˌrəʊdəˈdendrən][ˌroʊdəˈdendrən]
-* co-found#undefined
+* co-found#[]
 * riparian#[raɪˈpeəriən][raɪˈperiən]
 * schism#[ˈskɪzəm][ˈsɪzəm,ˈskɪz-]
 * preoperative#[prɪ'ɒpərətɪv][prɪ'ɒpərətɪv]
@@ -18826,18 +18821,18 @@
 * blank#[blæŋk][blæŋk]
 * uptake#[ˈʌpteɪk][ˈʌpˌtek]
 * bridesmaid#[ˈbraɪdzmeɪd][ˈbraɪdzˌmed]
-* Spanish-language#undefined
+* Spanish-language#[]
 * labeling#['leɪblɪŋ]['leɪblɪŋ]
 * tumbling#['tʌmblɪŋ]['tʌmblɪŋ]
 * authorial#[ɔ:ˈθɔ:riəl][ɔːˈθɔːriəl]
-* Alamo#undefined
+* Alamo#[]
 * proximal#[ˈprɒksɪməl][ˈprɑ:ksɪməl]
 * psychosis#[saɪˈkəʊsɪs][saɪˈkoʊsɪs]
 * chisel#[ˈtʃɪzl][ˈtʃɪzəl]
 * scrunch#[skrʌntʃ][skrʌntʃ,skrʊntʃ]
 * unsettled#[ʌnˈsetld][ʌnˈsɛtl:d]
 * cost-benefit#[][]
-* sixteenth-century#undefined
+* sixteenth-century#[]
 * crumbled#[][]
 * chalkboard#[ˈtʃɔ:kbɔ:d][ˈtʃɔ:kbɔ:rd]
 * pillowcase#[ˈpɪləʊkeɪs][ˈpɪloʊkeɪs]
@@ -18884,7 +18879,7 @@
 * indisputable#[ˌɪndɪˈspju:təbl][ˌɪndɪˈspjutəbəl]
 * pimple#[ˈpɪmpl][ˈpɪmpəl]
 * robin#[ˈrɒbɪn][ˈrɑ:bɪn]
-* eighty-five#undefined
+* eighty-five#[]
 * stethoscope#[ˈsteθəskəʊp][ˈsteθəskoʊp]
 * craziness#['kreɪzɪnəs]['kreɪzɪnəs]
 * self-centered#[ˌself'sentəd][ˌself'sentəd]
@@ -18909,7 +18904,7 @@
 * holly#[ˈhɒli][ˈhɑ:li]
 * repugnant#[rɪˈpʌgnənt][rɪˈpʌɡnənt]
 * forester#[ˈfɒrɪstə(r)][ˈfɔ:rɪstə(r)]
-* big-screen#undefined
+* big-screen#[]
 * earthen#[ˈɜ:θn][ˈɜ:rθn]
 * wily#[ˈwaɪli][ˈwaɪli]
 * bulging#[ˈbʌldʒɪŋ][]
@@ -18919,7 +18914,7 @@
 * vertebrate#[ˈvɜ:tɪbrət][ˈvɜ:rtbrət]
 * backpack#[ˈbækpæk][ˈbækˌpæk]
 * orator#[ˈɒrətə(r)][ˈɔ:rətə(r)]
-* three-bedroom#undefined
+* three-bedroom#[]
 * emigre#[ˈemɪgreɪ]['emɪgre]
 * humbling#['həmb(ə)lɪŋ]['həmb(ə)lɪŋ]
 * pleated#[ˈpli:tɪd][ˈplitɪd]
@@ -18987,8 +18982,8 @@
 * haunch#[hɔ:ntʃ][hɔntʃ,hɑntʃ]
 * captivating#[ˈkæptɪveɪtɪŋ][]
 * windswept#[ˈwɪndswept][ˈwɪndˌswɛpt]
-* long-term-care#undefined
-* one-party#undefined
+* long-term-care#[]
+* one-party#[]
 * franchisee#[ˌfræntʃaɪˈzi:][ˌfræntʃaɪˈzi]
 * gaseous#[ˈgæsiəs][ˈɡæsiəs,ˈɡæʃəs]
 * yo-yo#['jəʊjəʊ][ˈjoˌjo]
@@ -19044,7 +19039,7 @@
 * moonlit#[ˈmu:nlɪt][ˈmunˌlɪt]
 * aphid#[ˈeɪfɪd][ˈefɪd,ˈæfɪd]
 * crypt#[krɪpt][krɪpt]
-* age-related#undefined
+* age-related#[]
 * anti-aircraft#[ˈæntiˈɛəkrɑ:ft][ˈæntaɪˈɛrˌkræft]
 * theologically#[ˌθi:ə'lɒdʒɪklɪ][ˌθi:ə'lɒdʒɪklɪ]
 * cripple#[ˈkrɪpl][ˈkrɪpəl]
@@ -19079,7 +19074,7 @@
 * quarterfinal#[kwɔ:tə'faɪnl][kwɔ:tə'faɪnl]
 * demote#[ˌdi:ˈməʊt][ˌdi:ˈmoʊt]
 * timbre#[ˈtæmbə(r)][ˈtæmbɚ,ˈtɪm-]
-* old-school#undefined
+* old-school#[]
 * capitulate#[kəˈpɪtʃuleɪt][kəˈpɪtʃəˌlet]
 * stag#[stæg][stæɡ]
 * wiretap#['waɪətæp][ˈwaɪrˌtæp]
@@ -19104,7 +19099,7 @@
 * tightness#[taɪtnəs][taɪtnəs]
 * crock#[krɒk][krɑ:k]
 * intonation#[ˌɪntəˈneɪʃn][ˌɪntəˈneʃən,-to-]
-* six-week#undefined
+* six-week#[]
 * sari#[ˈsɑ:ri][ˈsɑri]
 * harvesting#['hɑ:vɪstɪŋ]['hɑ:vɪstɪŋ]
 * departed#[dɪˈpɑ:tɪd][dɪˈpɑ:rtɪd]
@@ -19161,7 +19156,7 @@
 * runny#[ˈrʌni][ˈrʌni]
 * unfaithful#[ʌnˈfeɪθfl][ʌnˈfeθfəl]
 * unquestioned#[ʌnˈkwestʃənd][ʌnˈkwɛstʃənd]
-* video-game#undefined
+* video-game#[]
 * causation#[kɔ:ˈzeɪʃn][kɔˈzeʃən]
 * pessimist#[ˈpesɪmɪst][ˈpesɪmɪst]
 * deformation#[ˌdi:fɔ:ˈmeɪʃn][ˌdi:fɔ:rˈmeɪʃn]
@@ -19218,11 +19213,11 @@
 * parody#[ˈpærədi][ˈpærədi]
 * jubilant#[ˈdʒu:bɪlənt][ˈdʒubələnt]
 * savagely#['sævɪdʒlɪ][ˈsævɪdʒlɪ]
-* first-quarter#undefined
+* first-quarter#[]
 * fell#[fel][fɛl]
 * temperamental#[ˌtemprəˈmentl][ˌtɛmprəˈmɛntl:,ˌtɛmpərə-]
 * payable#[ˈpeɪəbl][ˈpeəbəl]
-* three-part#undefined
+* three-part#[]
 * well-designed#['weldɪz'aɪnd]['weldɪz'aɪnd]
 * mammalian#[mæ'meɪlɪən][mæˈmeljən]
 * staccato#[stəˈkɑ:təʊ][stəˈkɑ:toʊ]
@@ -19255,12 +19250,12 @@
 * searcher#[ˈsɜ:tʃə(r)][ˈsɜ:rtʃə(r)]
 * duplex#[ˈdju:pleks][ˈdu:pleks]
 * dictatorial#[ˌdɪktəˈtɔ:riəl][ˌdɪktəˈtɔriəl,-ˈtor-]
-* second-round#undefined
+* second-round#[]
 * sock#[sɒk][sɑ:k]
 * sweltering#['sweltərɪŋ][ˈswɛltərɪŋ]
 * genie#[ˈdʒi:ni][ˈdʒini]
 * idolize#[ˈaɪdəlaɪz]['aɪdəlaɪz]
-* chain-link#undefined
+* chain-link#[]
 * goon#[gu:n][ɡun]
 * headlong#[ˈhedlɒŋ][ˈhedlɔ:ŋ]
 * ostracize#[ˈɒstrəsaɪz][ˈɑ:strəsaɪz]
@@ -19321,7 +19316,7 @@
 * foolproof#[ˈfu:lpru:f]['fu:lpru:f]
 * chopping#[tʃɒpɪŋ]['tʃɒpɪŋ]
 * stubbornness#[][]
-* fifty-two#undefined
+* fifty-two#[]
 * liberator#['lɪbəreɪtə(r)][ˈlɪbəˌretɚ]
 * fluctuating#['flʌktʃʊeɪtɪŋ]['flʌktʃʊeɪtɪŋ]
 * acclaim#[əˈkleɪm][əˈklem]
@@ -19342,7 +19337,7 @@
 * malleable#[ˈmæliəbl][ˈmæliəbəl]
 * yellowish#[ˈjeləʊɪʃ][ˈjeloʊɪʃ]
 * croissant#['krwæsɒ̃][krwɑˈsɑŋ,krəˈsɑnt]
-* early-morning#undefined
+* early-morning#[]
 * jade#[dʒeɪd][dʒed]
 * defibrillator#[di:ˈfɪbrɪleɪtə(r)][diˈfɪbrəˌletɚ,-ˈfaɪbrə-]
 * pacemaker#[ˈpeɪsmeɪkə(r)][ˈpesˌmekɚ]
@@ -19352,7 +19347,7 @@
 * ice#[aɪs][aɪs]
 * apocalypse#[əˈpɒkəlɪps][əˈpɑ:kəlɪps]
 * long-lost#[lɔŋlɔ:st][lɔŋlɔst]
-* Euro-American#undefined
+* Euro-American#[]
 * scoundrel#[ˈskaʊndrəl][ˈskaʊndrəl]
 * sardonic#[sɑ:ˈdɒnɪk][sɑ:rˈdɑ:nɪk]
 * caustic#[ˈkɔ:stɪk][ˈkɔstɪk]
@@ -19391,7 +19386,7 @@
 * bye#[baɪ][baɪ]
 * seer#[sɪə(r)][sɪr]
 * interconnection#[ˌɪntəkə'nekʃn][ˌɪntəkə'nekʃn]
-* black-owned#undefined
+* black-owned#[]
 * oncology#[ɒŋˈkɒlədʒi][ɑnˈkɑ:lədʒi]
 * disassemble#[ˌdɪsəˈsembl][ˌdɪsəˈsɛmbəl]
 * multipurpose#['mʌltɪ'pɜ:pəs]['mʌltɪ'pɜ:pəs]
@@ -19419,8 +19414,8 @@
 * plotter#[ˈplɒtə(r)][ˈplɑ:tər]
 * unknowingly#[ʌn'nəʊɪŋlɪ][ʌn'noʊɪŋlɪ]
 * lark#[lɑ:k][lɑ:rk]
-* third-generation#undefined
-* forty-six#undefined
+* third-generation#[]
+* forty-six#[]
 * chainsaw#[ˈtʃeɪnsɔ:][ˈtʃeɪnsɔː]
 * superhuman#[ˌsu:pəˈhju:mən][ˌsu:pərˈhju:mən]
 * proclivity#[prəˈklɪvəti][proˈklɪvɪti]
@@ -19464,7 +19459,7 @@
 * predilection#[ˌpri:dɪˈlekʃn][ˌpredlˈekʃn]
 * ninety-five#['naɪnti:f'aɪv]['naɪnti:f'aɪv]
 * macabre#[məˈkɑ:brə][məˈkɑbrə,məˈkɑb,-ˈkɑbɚ]
-* tenured#undefined
+* tenured#[]
 * gravestone#[ˈgreɪvstəʊn][ˈgreɪvstoʊn]
 * four-star#[ˈfɔ:ˈstɑ:][ˈfɔrˈstɑr,ˈfor-]
 * stingy#[ˈstɪndʒi][ˈstɪndʒi]
@@ -19636,7 +19631,7 @@
 * pensive#[ˈpensɪv][ˈpɛnsɪv]
 * frock#[frɒk][frɑ:k]
 * languid#[ˈlæŋgwɪd][ˈlæŋɡwɪd]
-* cutthroat#undefined
+* cutthroat#[]
 * unkempt#[ˌʌnˈkempt][ʌnˈkɛmpt]
 * rinse#[rɪns][rɪns]
 * nationalize#[ˈnæʃnəlaɪz][ˈnæʃənəˌlaɪz,ˈnæʃnə-]
@@ -19681,7 +19676,7 @@
 * mammography#[mæˈmɒgrəfi][mæˈmɑ:grəfi]
 * porridge#[ˈpɒrɪdʒ][ˈpɔ:rɪdʒ]
 * cognizant#['kɒɡnɪzənt][ˈkɑɡnɪzənt]
-* no-fly#undefined
+* no-fly#[]
 * localize#[ˈləʊkəlaɪz][ˈloʊkəlaɪz]
 * winemaker#[ˈwaɪnmeɪkə(r)][]
 * keel#[ki:l][kil]
@@ -19693,14 +19688,14 @@
 * renown#[rɪˈnaʊn][rɪˈnaʊn]
 * shake-up#[][]
 * overdrive#[ˈəʊvədraɪv][ˈoʊvərdraɪv]
-* above-average#undefined
+* above-average#[]
 * whilst#[waɪlst][hwaɪlst,waɪlst]
 * endear#[ɪnˈdɪə(r)][ɪnˈdɪr]
 * apologetically#[əˌpɒlə'dʒetɪklɪ][əˌpɒlə'dʒetɪklɪ]
 * precious#[ˈpreʃəs][ˈprɛʃəs]
 * unmask#[ˌʌnˈmɑ:sk][ˌʌnˈmæsk]
 * evacuee#[ɪˌvækjuˈi:][ɪˌvækjuˈi]
-* anti-drug#undefined
+* anti-drug#[]
 * incubate#[ˈɪŋkjubeɪt][ˈɪnkjəˌbet,ˈɪŋ-]
 * dislocate#[ˈdɪsləkeɪt][ˈdɪsloʊkeɪt]
 * pilings#[][]
@@ -19708,7 +19703,7 @@
 * nation-building#['neɪʃnb'ɪldɪŋ]['neɪʃnb'ɪldɪŋ]
 * have-not#['hævnɒt]['hævˌnɒt]
 * cheetah#[ˈtʃi:tə][ˈtʃitə]
-* state-sponsored#undefined
+* state-sponsored#[]
 * preconceived#[ˌpri:kənˈsi:vd][ˌprikənˈsivd]
 * externality#[ˌekstɜ:'nælətɪ][ˌekstɜ:r'nælətɪ]
 * set#[set][sɛt]
@@ -19739,11 +19734,11 @@
 * descriptor#[dɪˈskrɪptə(r)][dɪˈskrɪptɚ]
 * salami#[səˈlɑ:mi][sə'lɑ:mɪ]
 * repute#[rɪˈpju:t][rɪˈpjut]
-* Inter-American#undefined
+* Inter-American#[]
 * buttered#[][]
 * gang#[gæŋ][ɡæŋ]
 * newness#[nju:nəs][ˈnjunɪs]
-* lightbulb#undefined
+* lightbulb#[]
 * checked#[tʃekt][tʃɛkt]
 * Hawaiian#[hɑ:ˈwaiiən][həˈwɑjən]
 * disgraceful#[dɪsˈgreɪsfl][dɪsˈɡresfəl]
@@ -19761,7 +19756,7 @@
 * wok#[wɒk][wɑ:k]
 * psychopathology#[ˌsaɪkəʊpəˈθɒlədʒi][ˌsaɪkoʊpəˈθɑ:lədʒi]
 * corkscrew#[ˈkɔ:kskru:][ˈkɔ:rkskru:]
-* songwriting#undefined
+* songwriting#[]
 * unplugged#[ˌʌn'plʌɡd][ˌʌn'plʌɡd]
 * godmother#[ˈgɒdmʌðə(r)][ˈgɑ:dmʌðə(r)]
 * apnea#['æpnɪə]['æpnɪr]
@@ -19781,7 +19776,7 @@
 * untangle#[ˌʌnˈtæŋgl][ʌnˈtæŋɡəl]
 * implantation#[ˌɪmplɑ:n'teɪʃn][ˌɪmplænˈteʃən]
 * telecast#[ˈtelikɑ:st][ˈtelikæst]
-* fourth-grade#undefined
+* fourth-grade#[]
 * repudiation#[rɪˌpju:dɪ'eɪʃn][rɪˌpjudiˈeʃən]
 * walkie-talkie#[ˌwɔ:kiˈtɔ:ki][ˈwɔkiˈtɔki]
 * docket#[ˈdɒkɪt][ˈdɑ:kɪt]
@@ -19850,9 +19845,9 @@
 * consummate#[ˈkɒnsəmeɪt][ˈkɑ:nsəmeɪt]
 * occult#[əˈkʌlt][ˈɑ:kʌlt]
 * top-rated#[][]
-* long-held#undefined
+* long-held#[]
 * ringer#[ˈrɪŋə(r)][ˈrɪŋɚ]
-* free-trade#undefined
+* free-trade#[]
 * poncho#[ˈpɒntʃəʊ][ˈpɑ:ntʃoʊ]
 * amorous#[ˈæmərəs][ˈæmərəs]
 * spender#[ˈspendə(r)][ˈspɛndɚ]
@@ -19885,7 +19880,7 @@
 * synopsis#[sɪˈnɒpsɪs][sɪˈnɑ:psɪs]
 * joystick#[ˈdʒɔɪstɪk][ˈdʒɔɪˌstɪk]
 * heft#[heft][heft]
-* public-relations#undefined
+* public-relations#[]
 * apologist#[əˈpɒlədʒɪst][əˈpɑ:lədʒɪst]
 * core#[kɔ:(r)][kɔr,kor]
 * priestess#[ˈpri:stes][ˈpristɪs]
@@ -19906,7 +19901,7 @@
 * sprinkling#[ˈsprɪŋklɪŋ][ˈsprɪŋklɪŋ]
 * glimmer#[ˈglɪmə(r)][ˈɡlɪmɚ]
 * inferno#[ɪnˈfɜ:nəʊ][ɪnˈfɜ:rnoʊ]
-* one-bedroom#undefined
+* one-bedroom#[]
 * dexterity#[dekˈsterəti][dɛkˈstɛrɪti]
 * stirrup#[ˈstɪrəp][ˈstə:rəp,ˈstɪr-]
 * war-torn#[wɔ:tɔ:n][wɔrtɔrn]
@@ -19946,7 +19941,7 @@
 * switching#[swɪtʃɪŋ][swɪtʃɪŋ]
 * fawn#[fɔ:n][fɔn]
 * unattainable#[ˌʌnəˈteɪnəbl][ˌʌnəˈtenəbəl]
-* mental-health#undefined
+* mental-health#[]
 * altercation#[ˌɔ:ltəˈkeɪʃn][ˌɔ:ltərˈkeɪʃn]
 * undersea#[ˈʌndəsi:][ˈʌndərsi:]
 * schoolmate#[ˈsku:lmeɪt][ˈskulˌmet]
@@ -19974,7 +19969,7 @@
 * bucolic#[bju:ˈkɒlɪk][bju:ˈkɑ:lɪk]
 * adulation#[ˌædjuˈleɪʃn][ˌædʒəˈleɪʃn]
 * erroneously#[ɪ'rəʊnɪəslɪ][ɪ'roʊnɪrslɪ]
-* half-million#undefined
+* half-million#[]
 * dogged#[ˈdɒgɪd][ˈdɔ:gɪd]
 * abstract#[ˈæbstrækt][ˈæbˌstrækt]
 * arthritic#[ɑ:ˈθrɪtɪk][ɑ:rˈθrɪtɪk]
@@ -20029,7 +20024,7 @@
 * self-help#[ˌselfˈhelp][ˈsɛlfˈhɛlp]
 * headliner#['hedˌlaɪnə]['hedˌlaɪnə]
 * archive#[ˈɑ:kaɪv][ˈɑ:rkaɪv]
-* minor-league#undefined
+* minor-league#[]
 * breadwinner#[ˈbredwɪnə(r)][ˈbrɛdˌwɪnɚ]
 * steppe#[step][stɛp]
 * crinkle#[ˈkrɪŋkl][ˈkrɪŋkəl]
@@ -20060,7 +20055,7 @@
 * visage#[ˈvɪzɪdʒ][ˈvɪzɪdʒ]
 * workbench#[ˈwɜ:kbentʃ][ˈwɜ:rkbentʃ]
 * quench#[kwentʃ][kwɛntʃ]
-* reflexively#undefined
+* reflexively#[]
 * abomination#[əˌbɒmɪˈneɪʃn][əˌbɑ:mɪˈneɪʃn]
 * livid#[ˈlɪvɪd][ˈlɪvɪd]
 * trusty#[ˈtrʌsti][ˈtrʌsti]
@@ -20074,7 +20069,7 @@
 * numeral#[ˈnju:mərəl][ˈnu:mərəl]
 * drumbeat#[ˈdrʌmbi:t][ˈdrʌmˌbit]
 * paragon#[ˈpærəgən][ˈpærəgɑ:n]
-* deep-water#undefined
+* deep-water#[]
 * Shakespearean#[][]
 * preen#[pri:n][prin]
 * enlistment#[ɪn'lɪstmənt][ɪn'lɪstmənt]
@@ -20105,7 +20100,7 @@
 * wintry#[ˈwɪntri][ˈwɪntri]
 * estrangement#[ɪˈstreɪndʒmənt][əˈstrendʒmənt]
 * overcome#[ˌəʊvəˈkʌm][ˌoʊvərˈkʌm]
-* first-place#undefined
+* first-place#[]
 * melee#[ˈmeleɪ][ˈmeɪleɪ]
 * liquidation#[ˌlɪkwɪˈdeɪʃn][ˌlɪkwɪˈdeɪʃn]
 * sentient#[ˈsentiənt][ˈsenʃnt]
@@ -20117,7 +20112,7 @@
 * posthumous#[ˈpɒstjʊməs][ˈpɑ:stʃəməs]
 * impregnate#[ˈɪmpregneɪt][ɪmˈpregneɪt]
 * knotted#['nɒtɪd]['nɒtɪd]
-* evidence-based#undefined
+* evidence-based#[]
 * unsubstantiated#[ˌʌnsəbˈstænʃieɪtɪd][]
 * courtier#[ˈkɔ:tiə(r)][ˈkɔ:rtiə(r)]
 * bulimia#[buˈlɪmiə][bjuˈlɪmiə,-ˈlimiə,bu-]
@@ -20155,7 +20150,7 @@
 * dentistry#[ˈdentɪstri][ˈdɛntɪstri]
 * phonological#[ˌfɒnə'lɒdʒɪkl][ˌfɒnə'lɒdʒɪkl]
 * crowning#[ˈkraʊnɪŋ][]
-* seven-day#undefined
+* seven-day#[]
 * conspiratorial#[kənˌspɪrəˈtɔ:riəl][kənˌspɪrəˈtɔriəl,-ˈtor-]
 * enjoin#[ɪnˈdʒɔɪn][ɛnˈdʒɔɪn]
 * repose#[rɪˈpəʊz][rɪˈpoʊz]
@@ -20170,7 +20165,7 @@
 * pickle#[ˈpɪkl][ˈpɪkəl]
 * splice#[splaɪs][splaɪs]
 * prong#[prɒŋ][prɔ:ŋ]
-* science-fiction#undefined
+* science-fiction#[]
 * sloth#[sləʊθ][sloʊθ]
 * blunder#[ˈblʌndə(r)][ˈblʌndɚ]
 * ordnance#[ˈɔ:dnəns][ˈɔ:rdnəns]
