@@ -1,0 +1,47 @@
+- `good` S1 W1 [ɡʊd]
+- Good morning.
+- Good.
+- Good night.
+- Good-bye.
+- Good afternoon.
+- Good morning, sir.
+- Good morning, madam.
+- Good afternoon, sir.
+- Good afternoon, madam.
+- Good morning, Mr Liu.
+- Good-bye, good afternoon.
+- I am good.
+- You are good.
+- You are not good.
+- I am not good.
+- of a high quality or standard 质量好、好酒店、好服务
+  - The train service is not good.
+  - This is a good hotel.
+- skillful. able to do something well 擅长、好作家、做得好
+  - She’s a very good player.
+  - Do you know a good builder?
+  - Alex is very good at languages.
+  - She’s good at making things.
+  - He’s very good with people
+  - Mike’s done a good job of painting the windows.
+- WHAT YOU WANT 好消息、好运
+  - That’s good news!
+  - I need a bit of good luck.
+- pleasant and enjoyable 心情好、美好/愉悦
+  - It’s good to see you again.
+  - Did you have a good vacation?
+  - That was good fun.
+- likely to be successful or correct 好主意、猜得好（对的）
+  - She’s full of good ideas.
+  - I’m not sure, but I could make a good guess
+- suitable or convenient 好时机、好地方、好天气、对我来说很好
+  - Is this a good time to talk to you?
+  - It was a good place to rest.
+  - It’s a good day for going to the beach.
+  - Ten o'clock is good for me.
+- large in amount, size, range etc 好一阵子、好多、好大
+  - I’d been waiting a good while
+  - We’ve had a good crop of apples.
+- COMPLETELY/THOROUGHLY 好好休息、好好哭一场
+  - You need a good rest.
+  - She sat down and had a good cry.

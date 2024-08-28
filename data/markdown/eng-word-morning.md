@@ -1,0 +1,5 @@
+- `morning` S1 W1 [ˈmɔːnɪŋ]
+- Good morning.
+- She took the early morning train. 早上
+- He stayed in bed late on Sunday morning.
+- It’s four o’clock in the morning. 凌晨

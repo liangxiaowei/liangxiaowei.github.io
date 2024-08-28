@@ -1,0 +1,7 @@
+- `sir` S1 W2 [sə;]
+- Yes, sir.
+- No, sir.
+- Good-bye, sir.
+- Can I help you, sir.
+- Sir! You dropped your wallet.
+- Dear sir,
