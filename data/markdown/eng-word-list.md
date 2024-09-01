@@ -15,3 +15,9 @@
 - go
 - thank
 - too
+- am
+- are
+- do
+- not
+- me
+- must
