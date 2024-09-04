@@ -1,0 +1,36 @@
+[
+    {
+        "name": "婉莹",
+        "islandList": [
+            {
+                "name": "微博",
+                "originUrl": ""
+            },
+            {
+                "name": "博物志",
+                "originUrl": ""
+            },
+            {
+                "name": "bbEdit",
+                "originUrl": ""
+            }
+        ]
+    },
+    {
+        "name": "诨名布尔",
+        "islandList": [
+            {
+                "name": "微博",
+                "originUrl": ""
+            },
+            {
+                "name": "博物志",
+                "originUrl": ""
+            },
+            {
+                "name": "bbEdit",
+                "originUrl": ""
+            }
+        ]
+    }
+]
