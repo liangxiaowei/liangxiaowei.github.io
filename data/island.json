@@ -471,6 +471,28 @@
             ]
         },
         {
+            "name": "brandon远程前端",
+            "islandList": [
+                {
+                    "name": "博客",
+                    "originUrl": "https://heybran.cn/"
+                },
+                {
+                    "name": "b站",
+                    "originUrl": "https://space.bilibili.com/386350896/"
+                }
+            ]
+        },
+        {
+            "name": "种瓜",
+            "islandList": [
+                {
+                    "name": "博客",
+                    "originUrl": "https://wwj718.github.io/"
+                }
+            ]
+        },
+        {
             "name": "小伟是也",
             "islandList": [
                 {
