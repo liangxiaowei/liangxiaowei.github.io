@@ -13,7 +13,7 @@ async function init() {
   console.log(result);
   const ui = generateIslandListUI(result);
   document.querySelector("main").innerHTML = ui;
-  await getWeiBoList();
+  await getTwitterList();
 }
 
 async function getWeiBoList() {
@@ -35,13 +35,42 @@ async function getWeiBoList() {
   console.log(result)
 }
 
+async function getTwitterList() {
+  let result = await fetch('/data/twitter.json')
+  result = await result.json();
+  // result = result.map(e => {
+  //   return {
+  //     "name": e.user.screen_name,
+  //     "islandList": [
+  //         {
+  //             "name": "微博",
+  //             "originUrl": e.scheme
+  //         }
+  //     ]
+  //   }
+  // })
+  result = Object.keys(result).map((e) => {
+    return {
+      "name": result[e].legacy.name,
+      "islandList": [
+          {
+              "name": "推特",
+              "originUrl": `https://twitter.com/${result[e].legacy.screen_name}`
+          }
+      ]
+    }
+  })
+  console.log(result)
+  console.log(Object.keys(result))
+}
+
 function generateIslandListUI(islandList) {
 
   const islandLi = islandList.map((e) => {
     const mediaList = e.islandList.map((e) => {
       return `<a href="${e.originUrl}" target="_blank">${e.name}</a>`;
     }).join("__")
-    return `<li style="margin-top:10px;">${e.name}__${mediaList}</li>`
+    return `<li style="margin-top:10px;">${e.name}${e.info ? ('（' + e.info + '）') : ''}__${mediaList}</li>`
   }).join("");
 
   return `<ul>${islandLi}</ul>`;

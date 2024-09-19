@@ -489,6 +489,165 @@
                 {
                     "name": "博客",
                     "originUrl": "https://wwj718.github.io/"
+                },
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/AlanR0718"
+                }
+            ]
+        },
+        {
+            "name": "lukexi",
+            "info": "#Dynamicland",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/lukexi"
+                }
+            ]
+        },
+        {
+            "name": "limboy",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/_limboy"
+                },
+                {
+                    "name": "博客",
+                    "originUrl": "http://limboy.me/"
+                }
+            ]
+        },
+        {
+            "name": "kepano",
+            "info": "obsidian创始人",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/kepano"
+                }
+            ]
+        },
+        {
+            "name": "邵悦",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/kwyjibo"
+                }
+            ]
+        },
+        {
+            "name": "🔎Julia Evans🔍",
+            "info": "计算机科普小册子",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/b0rk"
+                }
+            ]
+        },
+        {
+            "name": "Rei",
+            "info": "ruby开发者",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/chloerei"
+                }
+            ]
+        },
+        {
+            "name": "Jess Martin",
+            "info": "个人开发者",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/jessmartin"
+                }
+            ]
+        },
+        {
+            "name": "Adam Wiggins",
+            "info": "ink&switch",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/_adamwiggins_"
+                }
+            ]
+        },
+        {
+            "name": "Andy Matuschak",
+            "info": "#个人计算",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/andy_matuschak"
+                }
+            ]
+        },
+        {
+            "name": "jake lazaroff",
+            "info": "web开发者",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/jlazaroff"
+                },
+                {
+                    "name": "博客",
+                    "originUrl": "https://jakelazaroff.com/"
+                }
+            ]
+        },
+        {
+            "name": "TiddlyWiki",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/TiddlyWiki"
+                }
+            ]
+        },
+        {
+            "name": "Tatu Tarvainen",
+            "info": "smalltalk开发者",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/tatut"
+                }
+            ]
+        },
+        {
+            "name": "Alexander Obenauer",
+            "info": "个人计算",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/alexobenauer"
+                }
+            ]
+        },
+        {
+            "name": "Thomas Steiner",
+            "info": "chrome 开发者",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/tomayac"
+                }
+            ]
+        },
+        {
+            "name": "Tudor Girba",
+            "info": "gltoolkit 创始人",
+            "islandList": [
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/girba"
                 }
             ]
         },
