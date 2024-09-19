@@ -2,7 +2,7 @@ const pattern = /([A-Za-zÀ-ÿ-]+|[0-9._]+|.|!|\?|'|"|:|;|,|-)/i;
 var style = document.createElement("style");
 document.head.appendChild(style);
 const sheet = style.sheet;
-// const topN = 6000;
+const topN = 3000;
 let cocaList = await fetch("/data/english/wordList.aa");
 cocaList = await cocaList.text();
 cocaList = cocaList.split("*");
@@ -32,14 +32,17 @@ cocaList = cocaList
       pronunciation,
       meaning,
     };
-  });
-// .slice(0, topN);
+  })
+  .slice(0, topN);
 console.log(cocaList);
 const searchedWordCnt = cocaList.filter((e) => e.meaning).length;
 console.log("词本已查：", searchedWordCnt);
 cocaList.forEach((e) => {
   // console.log(e.pronunciation);
-  sheet.insertRule(`.vocab-${e.word}::after { content: "${e.pronunciation}"; }`, 0);
+  sheet.insertRule(
+    `.vocab-${e.word}::after { content: "${e.pronunciation}"; }`,
+    0
+  );
 });
 
 // cocaList
@@ -50,6 +53,8 @@ cocaList.forEach((e) => {
 
 let newWord = 0;
 let allWord = 0;
+
+let wordSet = new Set();
 
 const tokenize = (text) => {
   return text ? text.split(pattern).filter((s) => s !== "") : [];
@@ -82,13 +87,14 @@ function createNodes(token) {
   }
 
   const matchWordList = cocaList
-    .filter((e) => e.meaning)
+    // .filter((e) => e.meaning)
     .filter((e) => {
       const tokenLowerCase = token.toLowerCase();
       // const strWithoutLast = e.substring(0, e.length - 1);
       // const lastStr = e.substring(e.length - 1, e.length);
       return (
-        [e.word].concat(e.otherShape).filter((e) => e === tokenLowerCase).length > 0
+        [e.word].concat(e.otherShape).filter((e) => e === tokenLowerCase)
+          .length > 0
         // ||
         // `${e}s` === tokenLowerCase ||
         // `${e}es` === tokenLowerCase ||
@@ -120,6 +126,7 @@ function createNodes(token) {
     newWord++;
     span.className += ` vocab-hl-3000`;
   } else {
+    wordSet.add(matchWordList[0].word);
     span.className += ` vocab-${matchWordList[0].word}`;
   }
 
@@ -150,7 +157,10 @@ function highlightKeyword(node) {
     fragment.normalize();
     node.parentElement.replaceChild(fragment, node);
     // console.log('处理节点结束--')
-  } else if (node.nodeType === 1 && !/script|style/.test(node.tagName.toLowerCase())) {
+  } else if (
+    node.nodeType === 1 &&
+    !/script|style/.test(node.tagName.toLowerCase())
+  ) {
     const children = node.childNodes;
     const length = children.length;
     for (let i = 0; i < length; i++) {
@@ -164,4 +174,6 @@ console.log("highlightKeyword--");
 highlightKeyword(body);
 console.log(`总词汇：${allWord}，超纲词汇： ${newWord}`);
 console.log(body.firstElementChild);
-body.firstElementChild.textContent = `单词本：${searchedWordCnt}，总词汇：${allWord}，超纲词汇： ${newWord}`;
+console.log(wordSet);
+
+body.firstElementChild.textContent = `单词本：${searchedWordCnt}，总词汇：${allWord}，3000词：${wordSet.size}，超纲词汇： ${newWord}`;
