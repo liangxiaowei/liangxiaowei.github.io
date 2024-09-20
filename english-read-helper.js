@@ -33,28 +33,46 @@ cocaList = cocaList
       meaning,
     };
   })
-  .slice(0, topN);
+  // .slice(0, topN);
 console.log(cocaList);
 const searchedWordCnt = cocaList.filter((e) => e.meaning).length;
 console.log("词本已查：", searchedWordCnt);
-cocaList.forEach((e) => {
-  // console.log(e.pronunciation);
-  sheet.insertRule(
-    `.vocab-${e.word}::after { content: "${e.pronunciation}"; }`,
-    0
-  );
-});
+// cocaList.forEach((e) => {
+//   // console.log(e.pronunciation);
+//   sheet.insertRule(
+//     `.vocab-${e.word}::after { content: "${e.pronunciation}"; }`,
+//     0
+//   );
+// });
 
-// cocaList
-//   .filter((e) => e.meaning)
-//   .forEach((e) => {
-//     sheet.insertRule(`.vocab-${e.word}::after { content: "${e.meaning}"; }`, 0);
-//   });
+
+
+cocaList
+  .filter((e) => e.meaning)
+  .forEach((e) => {
+    sheet.insertRule(`.vocab-${e.word} { position:relative; }`, 0);
+    sheet.insertRule(`.vocab-${e.word}::after { content: "${e.meaning}"; }`, 0);
+  });
 
 let newWord = 0;
-let allWord = 0;
+let allWord = 0; // 本材料包含的单词总数（含重复）
+let targetWord = 0; // 本材料包含的目标单词总数（含重复）
 
-let wordSet = new Set();
+let wordSet = new Set(); // 本材料包含的单词（不重复）
+let targetWordSet = new Set(); // 学习目标包含的单词（不重复）
+let notTargetWordSet = new Set(); // 非学习目标包含的单词（不重复）
+let notSearchWordSet = new Set(); // 没有查过的单词（不重复）
+let sentenceObj = {}
+
+let targetList = await fetch("/data/english/longmanW3000.aa");
+targetList = await targetList.text();
+targetList = targetList.split("*");
+targetList = targetList
+  .map((e) => e.replace("\n", ""))
+  .map((e) => e.trim())
+  .filter((e) => e.length > 0)
+console.log('学习目标')  
+console.log(targetList)  
 
 const tokenize = (text) => {
   return text ? text.split(pattern).filter((s) => s !== "") : [];
@@ -72,19 +90,31 @@ const getMeaning = (token) => {
   }[`${token}`];
 };
 
+function isLetters( str ){
+  var re=/^[A-Za-z]+$/;
+  if (str.match(re) == null)
+      return false;
+  else
+      return true;
+}
+
 function createNodes(token) {
   if (!token.trim()) {
     return document.createTextNode(token);
   }
 
-  allWord++;
   // Create a span element
   const span = document.createElement("span");
   span.textContent = token;
   span.className = `vocab-hl`;
-  if (token.length <= 1) {
+  if (token.length <= 1 && !isLetters(token)) {
     return span;
   }
+
+  allWord++;
+  // if (token.length <= 1) {
+  //   return span;
+  // }
 
   const matchWordList = cocaList
     // .filter((e) => e.meaning)
@@ -122,13 +152,39 @@ function createNodes(token) {
       );
     });
 
-  if (matchWordList.length === 0) {
+  if (matchWordList.length === 0 || !matchWordList[0].meaning) {
     newWord++;
-    span.className += ` vocab-hl-3000`;
+    if (matchWordList.length > 0) {
+      notSearchWordSet.add(matchWordList[0].word)
+    } else {
+      notSearchWordSet.add(token.toLowerCase());
+    }
+    span.className += ` vocab-hl-no-meaning`;
   } else {
-    wordSet.add(matchWordList[0].word);
     span.className += ` vocab-${matchWordList[0].word}`;
   }
+
+  if (matchWordList.length > 0) {
+    wordSet.add(matchWordList[0].word);
+  } else {
+    wordSet.add(token.toLowerCase());
+  }
+
+  if (matchWordList.length > 0) {
+    const matchTargetWordList = targetList.filter(e => e == matchWordList[0].word)
+    if (matchTargetWordList.length > 0) {
+      targetWord++
+      targetWordSet.add(matchWordList[0].word)
+      span.className += ` vocab-hl-3000`;
+    } else {
+      span.className += ` vocab-hl-no-3000`;
+      notTargetWordSet.add(matchWordList[0].word)
+    }
+  } else {
+    span.className += ` vocab-hl-no-3000`;
+    notTargetWordSet.add(token.toLowerCase())
+  }
+  
 
   return span;
 }
@@ -172,8 +228,9 @@ function highlightKeyword(node) {
 const body = document.querySelector("body");
 console.log("highlightKeyword--");
 highlightKeyword(body);
-console.log(`总词汇：${allWord}，超纲词汇： ${newWord}`);
-console.log(body.firstElementChild);
-console.log(wordSet);
+console.log('非3000词')
+console.log(notTargetWordSet);
+console.log('生词')
+console.log(notSearchWordSet);
 
-body.firstElementChild.textContent = `单词本：${searchedWordCnt}，总词汇：${allWord}，3000词：${wordSet.size}，超纲词汇： ${newWord}`;
+body.firstElementChild.textContent = `单词本：${searchedWordCnt}，总共包含字数： ${allWord} ，3000词字数：${targetWord}，占比：${Math.round(targetWord / allWord * 100, 2)}%，其中不同单词数：${wordSet.size}，3000词：${targetWordSet.size}，超纲词汇： ${notSearchWordSet.size}`;

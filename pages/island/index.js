@@ -13,7 +13,6 @@ async function init() {
   console.log(result);
   const ui = generateIslandListUI(result);
   document.querySelector("main").innerHTML = ui;
-  await getTwitterList();
 }
 
 async function getWeiBoList() {
@@ -62,6 +61,19 @@ async function getTwitterList() {
   })
   console.log(result)
   console.log(Object.keys(result))
+}
+
+async function handleLongMan3000() {
+  let result = await fetch('/data/english/longman3000.json')
+  result = await result.json();
+  result = result.filter((e) => {
+    return e.frequencies.filter((fre) => {
+      return fre == 'W3'
+    }).length > 0
+  })
+  result = result.map(e => e.word)
+  result = result.join('+')
+  console.log(result);
 }
 
 function generateIslandListUI(islandList) {
