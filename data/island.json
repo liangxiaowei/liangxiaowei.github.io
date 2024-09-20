@@ -385,6 +385,14 @@
                 {
                     "name": "微博",
                     "originUrl": "https://m.weibo.cn/u/1758053453?"
+                },
+                {
+                    "name": "推特",
+                    "originUrl": "https://twitter.com/kevinzhow"
+                },
+                {
+                    "name": "博客",
+                    "originUrl": "https://blog.kevinzhow.com/"
                 }
             ]
         },
@@ -846,15 +854,6 @@
                 {
                     "name": "推特",
                     "originUrl": "https://twitter.com/onierstrasz"
-                }
-            ]
-        },
-        {
-            "name": "kevinzhow",
-            "islandList": [
-                {
-                    "name": "推特",
-                    "originUrl": "https://twitter.com/kevinzhow"
                 }
             ]
         },
