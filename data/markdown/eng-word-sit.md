@@ -14,6 +14,8 @@
   - She was sitting in a chair by the fire.
   - Jean sat at the table writing a letter.
   - They sat sipping their drinks.
+  - `Wherever I sat`, there I might live, and the landscape radiated from me accordingly. —— walden
+  - It was not so much within doors as behind a door `where I sat`, even in the rainiest weather.  —— walden
 - to get into a sitting position somewhere after you have been standing up 坐下来
   - He came over and sat beside her.
   - Sam sat opposite her and accepted a cigarette.

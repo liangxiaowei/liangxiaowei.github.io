@@ -19,6 +19,7 @@
   - Come and look at this!
   - I’ve come to see Philip.
   - As they came down the track, the car skidded.
+  - Well, there I might live, I said; and there I did live, for an hour, a summer and a winter life; saw how I could let the years run off, buffet the winter through, and see the spring `come in`. —— walden
 - to travel to or reach a place 旅行（走）
   - I’ve come a long way to see you.
   - Have you come far today?
@@ -28,6 +29,7 @@
 - to reach a particular level or place 水位来到了、到..位置
   - She had blonde hair which came down to her waist.
   - The water came up as far as my chest.
+  - The nearest that I `came to actual possession` was when I bought the Hollowell place, and had begun to sort my seeds, and collected materials with which to make a wheelbarrow to carry it on or off with; —— walden
 - BE PRODUCED/SOLD 出厂自带
   - This particular sofa comes in four different colours.
   - Cats come in many shapes and sizes.

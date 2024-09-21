@@ -21,6 +21,7 @@
   - She did everything she could to please him.
   - Most children are eager to please.
   - She’s hard to please. Everything has to be perfect.
+  - I think I shall not buy greedily, but go round and round it as long as I live, and be buried in it first, that it may `please me` the more at last. —— walden
 - used in some phrases to show that someone can do or have what they want 随你意、你开心就好
   - She does what she pleases.
   - You can spend the money however you please.
