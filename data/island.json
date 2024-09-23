@@ -699,6 +699,10 @@
             {
                 "name": "推特",
                 "originUrl": "https://twitter.com/girba"
+            },
+            {
+                "name": "feenk公司",
+                "originUrl": "https://twitter.com/feenkcom"
             }
         ]
     },
@@ -2107,25 +2111,21 @@
         ]
     },
     {
-        "name": "feenk",
-        "islandList": [
-            {
-                "name": "推特",
-                "originUrl": "https://twitter.com/feenkcom"
-            }
-        ]
-    },
-    {
         "name": "Hilaire Fernandes' Dr. Geo",
+        "info": "DrGeo数学软件|smalltalk开发者",
         "islandList": [
             {
                 "name": "推特",
                 "originUrl": "https://twitter.com/GNUDrGeo"
+            },
+            {
+                "name": "mastodon",
+                "originUrl": "https://mamot.fr/@drgeo"
             }
         ]
     },
     {
-        "name": "immusoul",
+        "name": "土摩托",
         "islandList": [
             {
                 "name": "推特",
@@ -2135,6 +2135,7 @@
     },
     {
         "name": "Miya Liu",
+        "info": "freecodeCamp 中国推广",
         "islandList": [
             {
                 "name": "推特",
@@ -2144,6 +2145,7 @@
     },
     {
         "name": "Vasiliy Zukanov",
+        "info": "老派安卓开发者",
         "islandList": [
             {
                 "name": "推特",
@@ -2153,6 +2155,7 @@
     },
     {
         "name": "La Tabla",
+        "info": "动态桌面",
         "islandList": [
             {
                 "name": "推特",
@@ -2162,6 +2165,7 @@
     },
     {
         "name": "shidenggui",
+        "info": "元思笔记开发者",
         "islandList": [
             {
                 "name": "推特",
@@ -2171,6 +2175,7 @@
     },
     {
         "name": "Anthony Fu",
+        "info": "开源|vue|web",
         "islandList": [
             {
                 "name": "推特",
@@ -2179,7 +2184,8 @@
         ]
     },
     {
-        "name": "Peter Mathijssen @petermathijssen@fosstodon.org",
+        "name": "Peter Mathijssen",
+        "info": "microblock",
         "islandList": [
             {
                 "name": "推特",
@@ -2189,7 +2195,7 @@
     },
     {
         "name": "Jiang",
-        "info": "UX Designer|独立开发者",
+        "info": "Scouter(英语学习软件)|UX Designer|独立开发者",
         "islandList": [
             {
                 "name": "推特",
