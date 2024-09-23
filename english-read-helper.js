@@ -2,11 +2,16 @@ const pattern = /([A-Za-zÀ-ÿ-]+|[0-9._]+|.|!|\?|'|"|:|;|,|-)/i;
 var style = document.createElement("style");
 document.head.appendChild(style);
 const sheet = style.sheet;
-const topN = 3000;
+const topN = 30000;
+const dict = {}
+
+
+
 let cocaList = await fetch("/data/english/wordList.aa");
 cocaList = await cocaList.text();
 cocaList = cocaList.split("*");
 cocaList = cocaList
+  .slice(0, topN)
   .map((e) => e.replace("\n", ""))
   .map((e) => e.trim())
   .filter((e) => e.length > 0)
@@ -26,6 +31,27 @@ cocaList = cocaList
       pronunciation = splitByLine[0].split("]")[1].slice(1);
       meaning = splitByLine.slice(1).join("|");
     }
+
+    if (!dict[word]) {
+      dict[word] = {
+        word,
+        otherShape,
+        pronunciation,
+        meaning,
+      }
+    }
+    
+    otherShape && otherShape.forEach(e => {
+      if (!dict[e]) {
+        dict[e] = {
+          word,
+          otherShape,
+          pronunciation,
+          meaning,
+        }
+      }
+      
+    })
     return {
       word,
       otherShape,
@@ -33,8 +59,16 @@ cocaList = cocaList
       meaning,
     };
   })
-  // .slice(0, topN);
-console.log(cocaList);
+
+const frequencies = {}
+let longman3000 = await fetch("/data/english/longman3000.json");
+longman3000 = await longman3000.json();
+longman3000.forEach(e => {
+  frequencies[e.word] = e.frequencies.join(' ')
+}) 
+
+console.log(frequencies)
+console.log(dict);
 const searchedWordCnt = cocaList.filter((e) => e.meaning).length;
 console.log("词本已查：", searchedWordCnt);
 // cocaList.forEach((e) => {
@@ -62,7 +96,9 @@ let wordSet = new Set(); // 本材料包含的单词（不重复）
 let targetWordSet = new Set(); // 学习目标包含的单词（不重复）
 let notTargetWordSet = new Set(); // 非学习目标包含的单词（不重复）
 let notSearchWordSet = new Set(); // 没有查过的单词（不重复）
-let sentenceObj = {}
+let targetWordSentenceObj = {}
+let notTargetWordSentenceObj = {}
+
 
 let targetList = await fetch("/data/english/longmanW3000.aa");
 targetList = await targetList.text();
@@ -98,7 +134,7 @@ function isLetters( str ){
       return true;
 }
 
-function createNodes(token) {
+function createNodes(token, sentence) {
   if (!token.trim()) {
     return document.createTextNode(token);
   }
@@ -116,71 +152,87 @@ function createNodes(token) {
   //   return span;
   // }
 
-  const matchWordList = cocaList
-    // .filter((e) => e.meaning)
-    .filter((e) => {
-      const tokenLowerCase = token.toLowerCase();
-      // const strWithoutLast = e.substring(0, e.length - 1);
-      // const lastStr = e.substring(e.length - 1, e.length);
-      return (
-        [e.word].concat(e.otherShape).filter((e) => e === tokenLowerCase)
-          .length > 0
-        // ||
-        // `${e}s` === tokenLowerCase ||
-        // `${e}es` === tokenLowerCase ||
-        // `${strWithoutLast}ies` === tokenLowerCase ||
-        // `${e}ed` === tokenLowerCase ||
-        // `${e}${lastStr}ed` === tokenLowerCase ||
-        // `${e}d` === tokenLowerCase ||
-        // `${e}ing` === tokenLowerCase ||
-        // `${strWithoutLast}ing` === tokenLowerCase ||
-        // `${strWithoutLast}ied` === tokenLowerCase ||
-        // `${e}er` === tokenLowerCase ||
-        // `${e}r` === tokenLowerCase ||
-        // `${strWithoutLast}r` === tokenLowerCase ||
-        // `${strWithoutLast}ier` === tokenLowerCase ||
-        // `${e}y` === tokenLowerCase ||
-        // `${strWithoutLast}iest` === tokenLowerCase ||
-        // `${e}est` === tokenLowerCase ||
-        // `${strWithoutLast}ily` === tokenLowerCase ||
-        // `${e}ly` === tokenLowerCase ||
-        // `${e}ily` === tokenLowerCase ||
-        // `${e}${lastStr}ing` === tokenLowerCase ||
-        // `${e}${lastStr}ly` === tokenLowerCase ||
-        // `${strWithoutLast}t` === tokenLowerCase ||
-        // `${e}n` === tokenLowerCase
-      );
-    });
-
-  if (matchWordList.length === 0 || !matchWordList[0].meaning) {
+  // const matchWordList = cocaList
+  //   // .filter((e) => e.meaning)
+  //   .filter((e) => {
+  //     const tokenLowerCase = token.toLowerCase();
+  //     // const strWithoutLast = e.substring(0, e.length - 1);
+  //     // const lastStr = e.substring(e.length - 1, e.length);
+  //     return (
+  //       [e.word].concat(e.otherShape).filter((e) => e === tokenLowerCase)
+  //         .length > 0
+  //       // ||
+  //       // `${e}s` === tokenLowerCase ||
+  //       // `${e}es` === tokenLowerCase ||
+  //       // `${strWithoutLast}ies` === tokenLowerCase ||
+  //       // `${e}ed` === tokenLowerCase ||
+  //       // `${e}${lastStr}ed` === tokenLowerCase ||
+  //       // `${e}d` === tokenLowerCase ||
+  //       // `${e}ing` === tokenLowerCase ||
+  //       // `${strWithoutLast}ing` === tokenLowerCase ||
+  //       // `${strWithoutLast}ied` === tokenLowerCase ||
+  //       // `${e}er` === tokenLowerCase ||
+  //       // `${e}r` === tokenLowerCase ||
+  //       // `${strWithoutLast}r` === tokenLowerCase ||
+  //       // `${strWithoutLast}ier` === tokenLowerCase ||
+  //       // `${e}y` === tokenLowerCase ||
+  //       // `${strWithoutLast}iest` === tokenLowerCase ||
+  //       // `${e}est` === tokenLowerCase ||
+  //       // `${strWithoutLast}ily` === tokenLowerCase ||
+  //       // `${e}ly` === tokenLowerCase ||
+  //       // `${e}ily` === tokenLowerCase ||
+  //       // `${e}${lastStr}ing` === tokenLowerCase ||
+  //       // `${e}${lastStr}ly` === tokenLowerCase ||
+  //       // `${strWithoutLast}t` === tokenLowerCase ||
+  //       // `${e}n` === tokenLowerCase
+  //     );
+  //   });
+  const matchWord = dict[token.toLowerCase()];
+  const isInDict = matchWord;
+  const hasMeaning = isInDict && matchWord.meaning;
+  
+  if (!isInDict || !hasMeaning) {
     newWord++;
-    if (matchWordList.length > 0) {
-      notSearchWordSet.add(matchWordList[0].word)
+    if (isInDict) {
+      notSearchWordSet.add(matchWord.word)
     } else {
       notSearchWordSet.add(token.toLowerCase());
     }
     span.className += ` vocab-hl-no-meaning`;
   } else {
-    span.className += ` vocab-${matchWordList[0].word}`;
+    span.className += ` vocab-${matchWord.word}`;
   }
 
-  if (matchWordList.length > 0) {
-    wordSet.add(matchWordList[0].word);
+  if (isInDict) {
+    wordSet.add(matchWord.word);
   } else {
     wordSet.add(token.toLowerCase());
   }
 
-  if (matchWordList.length > 0) {
-    const matchTargetWordList = targetList.filter(e => e == matchWordList[0].word)
+  if (isInDict) {
+    const matchTargetWordList = targetList.filter(e => e == matchWord.word)
     if (matchTargetWordList.length > 0) {
       targetWord++
-      targetWordSet.add(matchWordList[0].word)
+      if (!targetWordSentenceObj[matchWord.word]) {
+        targetWordSentenceObj[matchWord.word] =  new Set()
+      } 
+      targetWordSentenceObj[matchWord.word].add(sentence)
+      targetWordSet.add(matchWord.word)
       span.className += ` vocab-hl-3000`;
     } else {
+      if (!notTargetWordSentenceObj[matchWord.word]) {
+        notTargetWordSentenceObj[matchWord.word] = new Set()
+      }
+      notTargetWordSentenceObj[matchWord.word].add(sentence)
+
       span.className += ` vocab-hl-no-3000`;
-      notTargetWordSet.add(matchWordList[0].word)
+      notTargetWordSet.add(matchWord.word)
     }
   } else {
+    if (!notTargetWordSentenceObj[token.toLowerCase()]) {
+      notTargetWordSentenceObj[token.toLowerCase()] = new Set()
+    }
+    notTargetWordSentenceObj[token.toLowerCase()].add(sentence)
     span.className += ` vocab-hl-no-3000`;
     notTargetWordSet.add(token.toLowerCase())
   }
@@ -198,20 +250,26 @@ function highlightKeyword(node) {
     // console.log('处理节点开始--')
     // console.log(node.textContent);
     // 请求 gpt ，拿到每个单词的中文
-
-    let tokens = tokenize(node.textContent);
-    // console.log(tokens)
-
-    // const nodes = await Promise.all(
-    //     tokens.map((word) => createNodes(word, settings)),
-    // )
-    const nodes = tokens.map((word) => createNodes(word));
-    // console.log(nodes)
-
+    const sentenceArr = node.textContent.split('.');
+    // console.log(sentenceArr);
     const fragment = new DocumentFragment();
-    fragment.append(...nodes);
-    fragment.normalize();
+
+    sentenceArr.forEach((sentence) => {
+      let tokens = tokenize(sentence+'.');
+      // console.log(tokens)
+
+      // const nodes = await Promise.all(
+      //     tokens.map((word) => createNodes(word, settings)),
+      // )
+      const nodes = tokens.map((word) => createNodes(word, sentence));
+      // console.log(nodes)
+
+      fragment.append(...nodes);
+      fragment.normalize();
+      
+    })
     node.parentElement.replaceChild(fragment, node);
+    
     // console.log('处理节点结束--')
   } else if (
     node.nodeType === 1 &&
@@ -232,5 +290,20 @@ console.log('非3000词')
 console.log(notTargetWordSet);
 console.log('生词')
 console.log(notSearchWordSet);
+console.log('目标单词句子')
+// console.log(targetWordSentenceObj)
+Object.keys(targetWordSentenceObj).forEach(e => {
+  console.log('****')
+  console.log('`' + e + '`' + (frequencies[e] ? ' ' + frequencies[e] : '') + ' [' + dict[e].pronunciation + ']')
+  console.log(targetWordSentenceObj[e].size)
 
+  targetWordSentenceObj[e].forEach(sentence => {
+    // sentence = sentence.replace(e, '`'+ e +'`')
+    sentence = `- ${sentence} —— walden`
+    console.log(sentence)
+  })
+  
+})
+console.log('非目标单词句子')
+console.log(notTargetWordSentenceObj)
 body.firstElementChild.textContent = `单词本：${searchedWordCnt}，总共包含字数： ${allWord} ，3000词字数：${targetWord}，占比：${Math.round(targetWord / allWord * 100, 2)}%，其中不同单词数：${wordSet.size}，3000词：${targetWordSet.size}，超纲词汇： ${notSearchWordSet.size}`;
