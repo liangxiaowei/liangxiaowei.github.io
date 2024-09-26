@@ -1,0 +1,5 @@
+- `wish` S3 [wɪʃ]
+
+
+
+-  The nearest that I came to actual possession was when I bought the Hollowell place, and had begun to sort my seeds, and collected materials with which to make a wheelbarrow to carry it on or off with; but before the owner gave me a deed of it, his wife﻿—every man has such a wife﻿—changed her mind and `wish`ed to keep it, and he offered me ten dollars to release him —— walden

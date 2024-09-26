@@ -2,7 +2,6 @@
 - morning
 - sir
 - come
-- in
 - please
 - sit
 - down
@@ -10,7 +9,6 @@
 - madam
 - here
 - there
-- I
 - you
 - go
 - thank
@@ -21,7 +19,6 @@
 - not
 - me
 - must
-- 20240921
 - a 
 - at
 - certain
@@ -30,4 +27,10 @@
 - of
 - our
 - we
-
+- consider
+- every
+- spot
+- possible
+- site
+- house
+- thus

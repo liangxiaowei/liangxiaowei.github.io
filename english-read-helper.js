@@ -293,7 +293,7 @@ console.log(notSearchWordSet);
 console.log('目标单词句子')
 // console.log(targetWordSentenceObj)
 Object.keys(targetWordSentenceObj).forEach(e => {
-  console.log('****')
+  console.log('********************************************')
   console.log('`' + e + '`' + (frequencies[e] ? ' ' + frequencies[e] : '') + ' [' + dict[e].pronunciation + ']')
   console.log(targetWordSentenceObj[e].size)
 
@@ -307,3 +307,56 @@ Object.keys(targetWordSentenceObj).forEach(e => {
 console.log('非目标单词句子')
 console.log(notTargetWordSentenceObj)
 body.firstElementChild.textContent = `单词本：${searchedWordCnt}，总共包含字数： ${allWord} ，3000词字数：${targetWord}，占比：${Math.round(targetWord / allWord * 100, 2)}%，其中不同单词数：${wordSet.size}，3000词：${targetWordSet.size}，超纲词汇： ${notSearchWordSet.size}`;
+body.children[1].addEventListener('click', chooseDirectory)
+let directoryHandle;
+
+async function chooseDirectory() {
+  try {
+
+    const directoryHandle = await window.showDirectoryPicker();
+    // const wordListFileHandle = await directoryHandle.getFileHandle('eng-word-list.md', { create: true })
+    // let wordListFileContent = await getFileContent(wordListFileHandle)
+    // let wordList = wordListFileContent.split("-").map(e => e.replace('\n','')).map(e => e.replace(' ',''))
+    // console.log('content:', wordList);
+
+    // console.log(targetWordSentenceObj)
+    Object.keys(targetWordSentenceObj).forEach(async (word) => {
+
+      let newContent=''
+      targetWordSentenceObj[word].forEach(sentence => {
+        // sentence = sentence.replace(e, '`'+ e +'`')
+        sentence = `- ${sentence} —— walden`
+        newContent += '\n\n' + sentence
+      })
+      await addEngWordFile(directoryHandle, word, newContent)
+    })
+    // console.log('非目标单词句子')
+    // console.log(notTargetWordSentenceObj)
+
+    console.log('Selected directory:', directoryHandle);
+  } catch (error) {
+    console.error('Error selecting directory:', error);
+  }
+}
+
+async function getFileContent(fileHandle) {
+  const file = await fileHandle.getFile();
+  const content = await file.text();
+  return content
+}
+
+async function addEngWordFile(directoryHandle, word, newContent) {
+  const firstLine = '- `' + word + '`' + (frequencies[word] ? ' ' + frequencies[word] : '') + ' [' + dict[word].pronunciation + ']'
+
+  const newFileHandle = await directoryHandle.getFileHandle(`eng-word-${word}.md`, { create: true })
+  const oldContent = await getFileContent(newFileHandle)
+  
+
+  let fileContent = oldContent && oldContent.length ? `${oldContent}${newContent}` : `${firstLine}\n\n${newContent}`
+  fileContent = fileContent.replaceAll(` ${word}`, ` \`${word}\``)
+  console.log(fileContent)
+
+  const writable = await newFileHandle.createWritable();
+  await writable.write(`${fileContent}`); 
+  await writable.close();
+}
