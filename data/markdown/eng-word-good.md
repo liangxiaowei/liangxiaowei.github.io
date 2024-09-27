@@ -17,8 +17,6 @@
 - of a high quality or standard 质量好、好酒店、好服务
   - The train service is not `good`.
   - This is a `good` hotel.
-  - I have no doubt that time discriminates between `the `good`` and the bad; —— walden
-  - The oftener you go there the more it will please you, if it is `good`. —— walden
 - skillful. able to do something well 擅长、好作家、做得好
   - She’s a very `good` player.
   - Do you know a `good` builder?

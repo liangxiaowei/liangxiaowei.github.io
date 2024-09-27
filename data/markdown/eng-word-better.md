@@ -2,4 +2,4 @@
 
 
 
--  What is a house but a sedes, a seat?﻿—better if a country seat —— walden
+-  What is a house but a sedes, a seat?﻿—`better` if a country seat —— walden

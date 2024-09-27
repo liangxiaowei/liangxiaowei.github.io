@@ -14,15 +14,15 @@
 
 -  Now, to speak the truth, I had `but` ten cents in the world, and it surpassed my arithmetic to tell, if I was that man who had ten cents, or who had a farm, or ten dollars, or all together —— walden
 
--  But I retained the landscape, and I have since annually carried off what it yielded without a wheelbarrow —— walden
+-  `But` I retained the landscape, and I have since annually carried off what it yielded without a wheelbarrow —— walden
 
 - The real attractions of the Hollowell farm, to me, were: its complete retirement, being, about two miles from the village, half a mile from the nearest neighbor, and separated from the highway by a broad field; its bounding on the river, which the owner said protected it by its fogs from frosts in the spring, though that was nothing to me; the gray color and ruinous state of the house and barn, and the dilapidated fences, which put such an interval between me and the last occupant; the hollow and lichen-covered apple trees, gnawed by rabbits, showing what kind of neighbors I should have; `but` above all, the recollection I had of it from my earliest voyages up the river, when the house was concealed behind a dense grove of red maples, through which I heard the house-dog bark —— walden
 
 -  To enjoy these advantages I was ready to carry it on; like Atlas, to take the world on my shoulders﻿—I never heard what compensation he received for that﻿—and do all those things which had no other motive or excuse `but` that I might pay for it and be unmolested in my possession of it; for I knew all the while that it would yield the most abundant crop of the kind I wanted, if I could only afford to let it alone —— walden
 
--  But it turned out as I have said —— walden
+-  `But` it turned out as I have said —— walden
 
--  But I would say to my fellows, once for all, As long as possible live free and uncommitted —— walden
+-  `But` I would say to my fellows, once for all, As long as possible live free and uncommitted —— walden
 
 -  It makes `but` little difference whether you are committed to a farm or the county jail —— walden
 
@@ -48,7 +48,7 @@
 
 -  From a hilltop near by, where the wood had been recently cut off, there was a pleasing vista southward across the pond, through a wide indentation in the hills which form the shore there, where their opposite sides sloping toward each other suggested a stream flowing out in that direction through a wooded valley, `but` stream there was none —— walden
 
--  But in other directions, even from this point, I could not see over or beyond the woods which surrounded me —— walden
+-  `But` in other directions, even from this point, I could not see over or beyond the woods which surrounded me —— walden
 
 -  One value even of the smallest well is, that when you look into it you see that earth is not continent `but` insular —— walden
 

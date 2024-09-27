@@ -2,4 +2,4 @@
 
 
 
--  This experience entitled me to be regarded as a sort of real-estate broker by my `friend`s —— walden
+-  This experience entitled me to be regarded as a sort of real-estate broker by my `friends` —— walden
