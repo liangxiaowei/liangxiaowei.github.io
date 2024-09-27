@@ -6,11 +6,11 @@
 
 -  In imagination I have bought all the farms in succession, for all were `to` be bought, and I knew their price —— walden
 
--  I walked over each farmer’s premises, tasted his wild apples, discoursed on husbandry with him, `to`ok his farm at his price, at any price, mortgaging it `to` him in my mind; even put a higher price on it﻿—took everything but a deed of it﻿—took his word for his deed, for I dearly love `to` talk﻿—cultivated it, and him `to`o `to` some extent, I trust, and withdrew when I had enjoyed it long enough, leaving him `to` carry it on —— walden
+-  I walked over each farmer’s premises, tasted his wild apples, discoursed on husbandry with him, took his farm at his price, at any price, mortgaging it `to` him in my mind; even put a higher price on it﻿—took everything but a deed of it﻿—took his word for his deed, for I dearly love `to` talk﻿—cultivated it, and him too `to` some extent, I trust, and withdrew when I had enjoyed it long enough, leaving him `to` carry it on —— walden
 
 -  This experience entitled me `to` be regarded as a sort of real-estate broker by my friends —— walden
 
--  I discovered many a site for a house not likely `to` be soon improved, which some might have thought `to`o far from the village, but `to` my eyes the village was `to`o far from it —— walden
+-  I discovered many a site for a house not likely `to` be soon improved, which some might have thought too far from the village, but `to` my eyes the village was too far from it —— walden
 
 -  An afternoon sufficed `to` lay out the land into orchard, woodlot, and pasture, and `to` decide what fine oaks or pines should be left `to` stand before the door, and whence each blasted tree could be seen `to` the best advantage; and then I let it lie, fallow, perchance, for a man is rich in proportion `to` the number of things which he can afford `to` let alone —— walden
 
@@ -18,7 +18,7 @@
 
 -  Now, `to` speak the truth, I had but ten cents in the world, and it surpassed my arithmetic `to` tell, if I was that man who had ten cents, or who had a farm, or ten dollars, or all `to`gether —— walden
 
--  However, I let him keep the ten dollars and the farm `to`o, for I had carried it far enough; or rather, `to` be generous, I sold him the farm for just what I gave for it, and, as he was not a rich man, made him a present of ten dollars, and still had my ten cents, and seeds, and materials for a wheelbarrow left —— walden
+-  However, I let him keep the ten dollars and the farm too, for I had carried it far enough; or rather, `to` be generous, I sold him the farm for just what I gave for it, and, as he was not a rich man, made him a present of ten dollars, and still had my ten cents, and seeds, and materials for a wheelbarrow left —— walden
 
 -  I found thus that I had been a rich man without any damage `to` my poverty —— walden
 
@@ -46,9 +46,9 @@
 
 -  As I have said, I do not propose `to` write an ode `to` dejection, but `to` brag as lustily as chanticleer in the morning, standing on his roost, if only `to` wake my neighbors up —— walden
 
-- When first I `to`ok up my abode in the woods, that is, began `to` spend my nights as well as days there, which, by accident, was on Independence Day, or the Fourth of July, 1845, my house was not finished for winter, but was merely a defence against the rain, without plastering or chimney, the walls being of rough, weather-stained boards, with wide chinks, which made it cool at night —— walden
+- When first I took up my abode in the woods, that is, began `to` spend my nights as well as days there, which, by accident, was on Independence Day, or the Fourth of July, 1845, my house was not finished for winter, but was merely a defence against the rain, without plastering or chimney, the walls being of rough, weather-stained boards, with wide chinks, which made it cool at night —— walden
 
--  To my imagination it retained throughout the day more or less of this auroral character, reminding me of a certain house on a mountain which I had visited a year before —— walden
+-  `To` my imagination it retained throughout the day more or less of this auroral character, reminding me of a certain house on a mountain which I had visited a year before —— walden
 
 -  This was an airy and unplastered cabin, fit `to` entertain a travelling god, and where a goddess might trail her garments —— walden
 

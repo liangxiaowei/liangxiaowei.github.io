@@ -18,7 +18,7 @@
 
 -  Why, the owner does not know `it` for many years when a poet has put his farm in rhyme, the most admirable kind of invisible fence, has fairly impounded `it`, milked `it`, skimmed `it`, and got all the cream, and left the farmer only the skimmed milk —— walden
 
-- The real attractions of the Hollowell farm, to me, were: `it`s complete retirement, being, about two miles from the village, half a mile from the nearest neighbor, and separated from the highway by a broad field; `it`s bounding on the river, which the owner said protected `it` by `it`s fogs from frosts in the spring, though that was nothing to me; the gray color and ruinous state of the house and barn, and the dilapidated fences, which put such an interval between me and the last occupant; the hollow and lichen-covered apple trees, gnawed by rabbits, showing what kind of neighbors I should have; but above all, the recollection I had of `it` from my earliest voyages up the river, when the house was concealed behind a dense grove of red maples, through which I heard the house-dog bark —— walden
+- The real attractions of the Hollowell farm, to me, were: `its` complete retirement, being, about two miles from the village, half a mile from the nearest neighbor, and separated from the highway by a broad field; `its` bounding on the river, which the owner said protected `it` by `its` fogs from frosts in the spring, though that was nothing to me; the gray color and ruinous state of the house and barn, and the dilapidated fences, which put such an interval between me and the last occupant; the hollow and lichen-covered apple trees, gnawed by rabbits, showing what kind of neighbors I should have; but above all, the recollection I had of `it` from my earliest voyages up the river, when the house was concealed behind a dense grove of red maples, through which I heard the house-dog bark —— walden
 
 -  I was in haste to buy `it`, before the proprietor finished getting out some rocks, cutting down the hollow apple trees, and grubbing up some young birches which had sprung up in the pasture, or, in short, had made any more of his improvements —— walden
 
@@ -36,7 +36,7 @@
 
 - When first I took up my abode in the woods, that is, began to spend my nights as well as days there, which, by accident, was on Independence Day, or the Fourth of July, 1845, my house was not finished for winter, but was merely a defence against the rain, without plastering or chimney, the walls being of rough, weather-stained boards, with wide chinks, which made `it` cool at night —— walden
 
--  The upright white hewn studs and freshly planed door and window casings gave `it` a clean and airy look, especially in the morning, when `it`s timbers were saturated with dew, so that I fancied that by noon some sweet gum would exude from them —— walden
+-  The upright white hewn studs and freshly planed door and window casings gave `it` a clean and airy look, especially in the morning, when `its` timbers were saturated with dew, so that I fancied that by noon some sweet gum would exude from them —— walden
 
 -  To my imagination `it` retained throughout the day more or less of this auroral character, reminding me of a certain house on a mountain which I had visited a year before —— walden
 
@@ -44,17 +44,17 @@
 
 -  It was suggestive somewhat as a picture in outlines —— walden
 
--  I did not need to go outdoors to take the air, for the atmosphere within had lost none of `it`s freshness —— walden
+-  I did not need to go outdoors to take the air, for the atmosphere within had lost none of `its` freshness —— walden
 
--  It was not so much within doors as behind a door where I sat, even in the rainiest weather —— walden
+-  `It` was not so much within doors as behind a door where I sat, even in the rainiest weather —— walden
 
 - I was seated by the shore of a small pond, about a mile and a half south of the village of Concord and somewhat higher than `it`, in the midst of an extensive wood between that town and Lincoln, and about two miles south of that our only field known to fame, Concord Battle Ground; but I was so low in the woods that the opposite shore, half a mile off, like the rest, covered with wood, was my most distant horizon —— walden
 
--  For the first week, whenever I looked out on the pond `it` impressed me like a tarn high up on the side of a mountain, `it`s bottom far above the surface of other lakes, and, as the sun arose, I saw `it` throwing off `it`s nightly clothing of mist, and here and there, by degrees, `it`s soft ripples or `it`s smooth reflecting surface was revealed, while the mists, like ghosts, were stealthily withdrawing in every direction into the woods, as at the breaking up of some nocturnal conventicle —— walden
+-  For the first week, whenever I looked out on the pond `it` impressed me like a tarn high up on the side of a mountain, `its` bottom far above the surface of other lakes, and, as the sun arose, I saw `it` throwing off `its` nightly clothing of mist, and here and there, by degrees, `its` soft ripples or `its` smooth reflecting surface was revealed, while the mists, like ghosts, were stealthily withdrawing in every direction into the woods, as at the breaking up of some nocturnal conventicle —— walden
 
--  A lake like this is never smoother than at such a time; and the clear portion of the air above `it` being shallow and darkened by clouds, the water, full of light and reflections, becomes a lower heaven `it`self so much the more important —— walden
+-  A lake like this is never smoother than at such a time; and the clear portion of the air above `it` being shallow and darkened by clouds, the water, full of light and reflections, becomes a lower heaven `itself` so much the more important —— walden
 
--  It is well to have some water in your neighborhood, to give buoyancy to and float the earth —— walden
+-  `It` is well to have some water in your neighborhood, to give buoyancy to and float the earth —— walden
 
 -  One value even of the smallest well is, that when you look into `it` you see that earth is not continent but insular —— walden
 

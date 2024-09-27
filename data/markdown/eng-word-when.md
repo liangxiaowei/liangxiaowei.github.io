@@ -12,9 +12,9 @@
 
 -  I have no doubt that time discriminates between the good and the bad; and `when` at last I shall plant, I shall be less likely to be disappointed —— walden
 
-- Old Cato, whose De Re Rustica is my Cultivator , says﻿—and the only translation I have seen makes sheer nonsense of the passage﻿—“When you think of getting a farm turn it thus in your mind, not to buy greedily; nor spare your pains to look at it, and do not think it enough to go round it once —— walden
+- Old Cato, whose De Re Rustica is my Cultivator , says﻿—and the only translation I have seen makes sheer nonsense of the passage﻿—“`When` you think of getting a farm turn it thus in your mind, not to buy greedily; nor spare your pains to look at it, and do not think it enough to go round it once —— walden
 
-- When first I took up my abode in the woods, that is, began to spend my nights as well as days there, which, by accident, was on Independence Day, or the Fourth of July, 1845, my house was not finished for winter, but was merely a defence against the rain, without plastering or chimney, the walls being of rough, weather-stained boards, with wide chinks, which made it cool at night —— walden
+- `When` first I took up my abode in the woods, that is, began to spend my nights as well as days there, which, by accident, was on Independence Day, or the Fourth of July, 1845, my house was not finished for winter, but was merely a defence against the rain, without plastering or chimney, the walls being of rough, weather-stained boards, with wide chinks, which made it cool at night —— walden
 
 -  The upright white hewn studs and freshly planed door and window casings gave it a clean and airy look, especially in the morning, `when` its timbers were saturated with dew, so that I fancied that by noon some sweet gum would exude from them —— walden
 
@@ -24,4 +24,4 @@
 
 -  One value even of the smallest well is, that `when` you look into it you see that earth is not continent but insular —— walden
 
--  When I looked across the pond from this peak toward the Sudbury meadows, which in time of flood I distinguished elevated perhaps by a mirage in their seething valley, like a coin in a basin, all the earth beyond the pond appeared like a thin crust insulated and floated even by this small sheet of interverting water, and I was reminded that this on which I dwelt was but dry land —— walden
+-  `When` I looked across the pond from this peak toward the Sudbury meadows, which in time of flood I distinguished elevated perhaps by a mirage in their seething valley, like a coin in a basin, all the earth beyond the pond appeared like a thin crust insulated and floated even by this small sheet of interverting water, and I was reminded that this on which I dwelt was but dry land —— walden
