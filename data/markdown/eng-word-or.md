@@ -2,7 +2,7 @@
 
 
 
--  An afternoon sufficed to lay out the land into `or`chard, woodlot, and pasture, and to decide what fine oaks `or` pines should be left to stand before the door, and whence each blasted tree could be seen to the best advantage; and then I let it lie, fallow, perchance, for a man is rich in proportion to the number of things which he can afford to let alone —— walden
+-  An afternoon sufficed to lay out the land into orchard, woodlot, and pasture, and to decide what fine oaks `or` pines should be left to stand before the door, and whence each blasted tree could be seen to the best advantage; and then I let it lie, fallow, perchance, for a man is rich in proportion to the number of things which he can afford to let alone —— walden
 
 -  The nearest that I came to actual possession was when I bought the Hollowell place, and had begun to sort my seeds, and collected materials with which to make a wheelbarrow to carry it on `or` off with; but before the owner gave me a deed of it, his wife﻿—every man has such a wife﻿—changed her mind and wished to keep it, and he offered me ten dollars to release him —— walden
 
@@ -22,7 +22,7 @@
 
 -  The winds which passed over my dwelling were such as sweep over the ridges of mountains, bearing the broken strains, `or` celestial parts only, of terrestrial music —— walden
 
--  I was not only nearer to some of those which commonly frequent the garden and the `or`chard, but to those smaller and more thrilling songsters of the forest which never, `or` rarely, serenade a villager﻿—the wood thrush, the veery, the scarlet tanager, the field sparrow, the whip-poor-will, and many others —— walden
+-  I was not only nearer to some of those which commonly frequent the garden and the orchard, but to those smaller and more thrilling songsters of the forest which never, `or` rarely, serenade a villager﻿—the wood thrush, the veery, the scarlet tanager, the field sparrow, the whip-poor-will, and many others —— walden
 
 -  For the first week, whenever I looked out on the pond it impressed me like a tarn high up on the side of a mountain, its bottom far above the surface of other lakes, and, as the sun arose, I saw it throwing off its nightly clothing of mist, and here and there, by degrees, its soft ripples `or` its smooth reflecting surface was revealed, while the mists, like ghosts, were stealthily withdrawing in every direction into the woods, as at the breaking up of some nocturnal conventicle —— walden
 

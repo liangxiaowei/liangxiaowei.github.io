@@ -6,17 +6,17 @@
 
 -  I have thus surveyed `the` country on every side within a dozen miles of where I live —— walden
 
--  In imagination I have bought all `the` farms in succession, for all were to be bought, and I knew `the`ir price —— walden
+-  In imagination I have bought all `the` farms in succession, for all were to be bought, and I knew their price —— walden
 
--  Wherever I sat, `the`re I might live, and `the` landscape radiated from me accordingly —— walden
+-  Wherever I sat, there I might live, and `the` landscape radiated from me accordingly —— walden
 
 -  I discovered many a site for a house not likely to be soon improved, which some might have thought too far from `the` village, but to my eyes `the` village was too far from it —— walden
 
--  Well, `the`re I might live, I said; and `the`re I did live, for an hour, a summer and a winter life; saw how I could let `the` years run off, buffet `the` winter through, and see `the` spring come in —— walden
+-  Well, there I might live, I said; and there I did live, for an hour, a summer and a winter life; saw how I could let `the` years run off, buffet `the` winter through, and see `the` spring come in —— walden
 
--  The future inhabitants of this region, wherever `the`y may place `the`ir houses, may be sure that `the`y have been anticipated —— walden
+-  The future inhabitants of this region, wherever they may place their houses, may be sure that they have been anticipated —— walden
 
--  An afternoon sufficed to lay out `the` land into orchard, woodlot, and pasture, and to decide what fine oaks or pines should be left to stand before `the` door, and whence each blasted tree could be seen to `the` best advantage; and `the`n I let it lie, fallow, perchance, for a man is rich in proportion to `the` number of things which he can afford to let alone —— walden
+-  An afternoon sufficed to lay out `the` land into orchard, woodlot, and pasture, and to decide what fine oaks or pines should be left to stand before `the` door, and whence each blasted tree could be seen to `the` best advantage; and then I let it lie, fallow, perchance, for a man is rich in proportion to `the` number of things which he can afford to let alone —— walden
 
 - My imagination carried me so far that I even had `the` refusal of several farms﻿—the refusal was all I wanted﻿—but I never got my fingers burned by actual possession —— walden
 
@@ -44,7 +44,7 @@
 
 - Old Cato, whose De Re Rustica is my Cultivator , says﻿—and `the` only translation I have seen makes sheer nonsense of `the` passage﻿—“When you think of getting a farm turn it thus in your mind, not to buy greedily; nor spare your pains to look at it, and do not think it enough to go round it once —— walden
 
--  The oftener you go `the`re `the` more it will please you, if it is good —— walden
+-  The oftener you go there `the` more it will please you, if it is good —— walden
 
 - ” I think I shall not buy greedily, but go round and round it as long as I live, and be buried in it first, that it may please me `the` more at last —— walden
 
@@ -52,9 +52,9 @@
 
 -  As I have said, I do not propose to write an ode to dejection, but to brag as lustily as chanticleer in `the` morning, standing on his roost, if only to wake my neighbors up —— walden
 
-- When first I took up my abode in `the` woods, that is, began to spend my nights as well as days `the`re, which, by accident, was on Independence Day, or `the` Fourth of July, 1845, my house was not finished for winter, but was merely a defence against `the` rain, without plastering or chimney, `the` walls being of rough, weather-stained boards, with wide chinks, which made it cool at night —— walden
+- When first I took up my abode in `the` woods, that is, began to spend my nights as well as days there, which, by accident, was on Independence Day, or `the` Fourth of July, 1845, my house was not finished for winter, but was merely a defence against `the` rain, without plastering or chimney, `the` walls being of rough, weather-stained boards, with wide chinks, which made it cool at night —— walden
 
--  The upright white hewn studs and freshly planed door and window casings gave it a clean and airy look, especially in `the` morning, when its timbers were saturated with dew, so that I fancied that by noon some sweet gum would exude from `the`m —— walden
+-  The upright white hewn studs and freshly planed door and window casings gave it a clean and airy look, especially in `the` morning, when its timbers were saturated with dew, so that I fancied that by noon some sweet gum would exude from them —— walden
 
 -  To my imagination it retained throughout `the` day more or less of this auroral character, reminding me of a certain house on a mountain which I had visited a year before —— walden
 
@@ -82,7 +82,7 @@
 
 - I was seated by `the` shore of a small pond, about a mile and a half south of `the` village of Concord and somewhat higher than it, in `the` midst of an extensive wood between that town and Lincoln, and about two miles south of that our only field known to fame, Concord Battle Ground; but I was so low in `the` woods that `the` opposite shore, half a mile off, like `the` rest, covered with wood, was my most distant horizon —— walden
 
--  For `the` first week, whenever I looked out on `the` pond it impressed me like a tarn high up on `the` side of a mountain, its bottom far above `the` surface of other lakes, and, as `the` sun arose, I saw it throwing off its nightly clothing of mist, and here and `the`re, by degrees, its soft ripples or its smooth reflecting surface was revealed, while `the` mists, like ghosts, were stealthily withdrawing in every direction into `the` woods, as at `the` breaking up of some nocturnal conventicle —— walden
+-  For `the` first week, whenever I looked out on `the` pond it impressed me like a tarn high up on `the` side of a mountain, its bottom far above `the` surface of other lakes, and, as `the` sun arose, I saw it throwing off its nightly clothing of mist, and here and there, by degrees, its soft ripples or its smooth reflecting surface was revealed, while `the` mists, like ghosts, were stealthily withdrawing in every direction into `the` woods, as at `the` breaking up of some nocturnal conventicle —— walden
 
 -  The very dew seemed to hang upon `the` trees later into `the` day than usual, as on `the` sides of mountains —— walden
 
@@ -90,7 +90,7 @@
 
 -  A lake like this is never smoother than at such a time; and `the` clear portion of `the` air above it being shallow and darkened by clouds, `the` water, full of light and reflections, becomes a lower heaven itself so much `the` more important —— walden
 
--  From a hilltop near by, where `the` wood had been recently cut off, `the`re was a pleasing vista southward across `the` pond, through a wide indentation in `the` hills which form `the` shore `the`re, where `the`ir opposite sides sloping toward each other suggested a stream flowing out in that direction through a wooded valley, but stream `the`re was none —— walden
+-  From a hilltop near by, where `the` wood had been recently cut off, there was a pleasing vista southward across `the` pond, through a wide indentation in `the` hills which form `the` shore there, where their opposite sides sloping toward each other suggested a stream flowing out in that direction through a wooded valley, but stream there was none —— walden
 
 -  That way I looked between and over `the` near green hills to some distant and higher ones in `the` horizon, tinged with blue —— walden
 
@@ -102,4 +102,4 @@
 
 -  One value even of `the` smallest well is, that when you look into it you see that earth is not continent but insular —— walden
 
--  When I looked across `the` pond from this peak toward `the` Sudbury meadows, which in time of flood I distinguished elevated perhaps by a mirage in `the`ir seething valley, like a coin in a basin, all `the` earth beyond `the` pond appeared like a thin crust insulated and floated even by this small sheet of interverting water, and I was reminded that this on which I dwelt was but dry land —— walden
+-  When I looked across `the` pond from this peak toward `the` Sudbury meadows, which in time of flood I distinguished elevated perhaps by a mirage in their seething valley, like a coin in a basin, all `the` earth beyond `the` pond appeared like a thin crust insulated and floated even by this small sheet of interverting water, and I was reminded that this on which I dwelt was but dry land —— walden

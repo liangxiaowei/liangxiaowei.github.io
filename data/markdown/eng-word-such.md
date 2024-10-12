@@ -8,6 +8,6 @@
 
 -  The winds which passed over my dwelling were `such` as sweep over the ridges of mountains, bearing the broken strains, or celestial parts only, of terrestrial music —— walden
 
-- ” Such was not my abode, for I found myself suddenly neighbor to the birds; not by having imprisoned one, but having caged myself near them —— walden
+- ” `Such` was not my abode, for I found myself suddenly neighbor to the birds; not by having imprisoned one, but having caged myself near them —— walden
 
 -  A lake like this is never smoother than at `such` a time; and the clear portion of the air above it being shallow and darkened by clouds, the water, full of light and reflections, becomes a lower heaven itself so much the more important —— walden

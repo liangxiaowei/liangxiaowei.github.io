@@ -2,4 +2,4 @@
 
 
 
--  With this more substantial shelter about me, I had made some progress toward settling in the world —— walden
+-  With this more substantial shelter about me, I had made some progress toward `settling` in the world —— walden

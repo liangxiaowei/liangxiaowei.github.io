@@ -10,11 +10,11 @@
 
 - The real attractions of the Hollowell farm, to me, were: its complete retirement, being, about two miles from the village, half a mile from the nearest neighbor, and separated from the highway by a broad field; its bounding `on` the river, which the owner said protected it by its fogs from frosts in the spring, though that was nothing to me; the gray color and ruinous state of the house and barn, and the dilapidated fences, which put such an interval between me and the last occupant; the hollow and lichen-covered apple trees, gnawed by rabbits, showing what kind of neighbors I should have; but above all, the recollection I had of it from my earliest voyages up the river, when the house was concealed behind a dense grove of red maples, through which I heard the house-dog bark —— walden
 
--  To enjoy these advantages I was ready to carry it `on`; like Atlas, to take the world `on` my shoulders﻿—I never heard what compensation he received for that﻿—and do all those things which had no other motive or excuse but that I might pay for it and be unmolested in my possession of it; for I knew all the while that it would yield the most abundant crop of the kind I wanted, if I could `on`ly afford to let it alone —— walden
+-  To enjoy these advantages I was ready to carry it `on`; like Atlas, to take the world `on` my shoulders﻿—I never heard what compensation he received for that﻿—and do all those things which had no other motive or excuse but that I might pay for it and be unmolested in my possession of it; for I knew all the while that it would yield the most abundant crop of the kind I wanted, if I could only afford to let it alone —— walden
 
 - All that I could say, then, with respect to farming `on` a large scale﻿—I have always cultivated a garden﻿—was, that I had had my seeds ready —— walden
 
--  As I have said, I do not propose to write an ode to dejection, but to brag as lustily as chanticleer in the morning, standing `on` his roost, if `on`ly to wake my neighbors up —— walden
+-  As I have said, I do not propose to write an ode to dejection, but to brag as lustily as chanticleer in the morning, standing `on` his roost, if only to wake my neighbors up —— walden
 
 - When first I took up my abode in the woods, that is, began to spend my nights as well as days there, which, by accident, was `on` Independence Day, or the Fourth of July, 1845, my house was not finished for winter, but was merely a defence against the rain, without plastering or chimney, the walls being of rough, weather-stained boards, with wide chinks, which made it cool at night —— walden
 

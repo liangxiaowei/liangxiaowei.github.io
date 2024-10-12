@@ -34,7 +34,7 @@
 
 - Old Cato, whose De Re Rustica is my Cultivator , says﻿—and the only translation I have seen makes sheer nonsense of the passage﻿—“When you think of getting a farm turn it thus in your mind, not to buy greedily; nor spare your pains to look at it, `and` do not think it enough to go round it once —— walden
 
-- ” I think I shall not buy greedily, but go round `and` round it as long as I live, `and` be buried in it first, that it may please me the more at last —— walden
+- ” I think I shall not buy greedily, but `go round and round it` as long as I live, `and` be buried in it first, that it may please me the more at last —— walden
 
 -  The upright white hewn studs `and` freshly planed door `and` window casings gave it a clean `and` airy look, especially in the morning, when its timbers were saturated with dew, so that I fancied that by noon some sweet gum would exude from them —— walden
 
@@ -44,11 +44,11 @@
 
 -  This frame, so slightly clad, was a sort of crystallization around me, `and` reacted on the builder —— walden
 
--  I was not only nearer to some of those which commonly frequent the garden `and` the orchard, but to those smaller `and` more thrilling songsters of the forest which never, or rarely, serenade a villager﻿—the wood thrush, the veery, the scarlet tanager, the field sparrow, the whip-poor-will, `and` many others —— walden
+-  I was not only nearer to some of those which commonly frequent the garden `and` the orchard, but to those smaller `and` more thrilling songsters of the forest which never, or rarely, serenade a villager﻿—the wood thrush, the veery, the scarlet tanager, the field sparrow, the whip-poor-will, `and many others` —— walden
 
-- I was seated by the shore of a small pond, about a mile `and` a half south of the village of Concord `and` somewhat higher than it, in the midst of an extensive wood between that town `and` Lincoln, `and` about two miles south of that our only field known to fame, Concord Battle Ground; but I was so low in the woods that the opposite shore, half a mile off, like the rest, covered with wood, was my most distant horizon —— walden
+- I was seated by the shore of a small pond, about `a mile and a half` south of the village of Concord `and` somewhat higher than it, in the midst of an extensive wood between that town `and` Lincoln, `and` about two miles south of that our only field known to fame, Concord Battle Ground; but I was so low in the woods that the opposite shore, half a mile off, like the rest, covered with wood, was my most distant horizon —— walden
 
--  For the first week, whenever I looked out on the pond it impressed me like a tarn high up on the side of a mountain, its bottom far above the surface of other lakes, `and`, as the sun arose, I saw it throwing off its nightly clothing of mist, `and` here `and` there, by degrees, its soft ripples or its smooth reflecting surface was revealed, while the mists, like ghosts, were stealthily withdrawing in every direction into the woods, as at the breaking up of some nocturnal conventicle —— walden
+-  For the first week, whenever I looked out on the pond it impressed me like a tarn high up on the side of a mountain, its bottom far above the surface of other lakes, `and`, as the sun arose, I saw it throwing off its nightly clothing of mist, `and here and there`, by degrees, its soft ripples or its smooth reflecting surface was revealed, while the mists, like ghosts, were stealthily withdrawing in every direction into the woods, as at the breaking up of some nocturnal conventicle —— walden
 
 - This small lake was of most value as a neighbor in the intervals of a gentle rainstorm in August, when, both air `and` water being perfectly still, but the sky overcast, mid-afternoon had all the serenity of evening, `and` the wood thrush sang around, `and` was heard from shore to shore —— walden
 

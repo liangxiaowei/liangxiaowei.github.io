@@ -2,4 +2,4 @@
 
 
 
--  The `often`er you go there the more it will please you, if it is good —— walden
+-  The `oftener` you go there the more it will please you, if it is good —— walden

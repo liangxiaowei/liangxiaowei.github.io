@@ -8,4 +8,4 @@
 
 -  That way I looked between and over the near green hills to some distant and higher `one`s in the horizon, tinged with blue —— walden
 
--  One value even of the smallest well is, that when you look into it you see that earth is not continent but insular —— walden
+-  `One` value even of the smallest well is, that when you look into it you see that earth is not continent but insular —— walden
