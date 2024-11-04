@@ -1,0 +1,2 @@
+- `trouble` S1 W2 [ˈtrʌbl]
+- This kid whose mama went to the trouble of christening him Omar lsaiah Betts?
