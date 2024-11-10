@@ -138,7 +138,7 @@
 * need#[ni:d][nid]|需要 
 * too#[tu:][tu:]|也|太
 * feel<felt>#[fi:l][fil]|感觉
-* three#[θri:][θri]
+* three#[θri:][θri]|3
 * when#[wen][wɛn]
 * state#[steɪt][stet]|状况
 * never#[ˈnevə(r)][ˈnɛvɚ]|从不
@@ -187,7 +187,7 @@
 * place#[pleɪs][ples]|放置|地方
 * over#[ˈəʊvə(r)][ˈoʊvə(r)]
 * such#[sʌtʃ][sʌtʃ]|这样的
-* again#[əˈgen][əˈɡɛn]
+* again#[əˈgen][əˈɡɛn]|再次
 * few#[fju:][fju]|很少
 * case#[keɪs][kes]
 * most#[məʊst][moʊst]
@@ -213,7 +213,7 @@
 * move<moved>#[mu:v][muv]|移动
 * like#[laɪk][laɪk]
 * night<nights,nightly>#[naɪt][naɪt]|夜晚
-* live#[lɪv][lɪv]|居住、生活|活着
+* live<living>#[lɪv][lɪv]|居住、生活|活着
 * Mr#['mɪstə(r)]['mɪstər]
 * point<pointing>#[pɔɪnt][pɔɪnt]|点|指向
 * believe#[bɪˈli:v][bɪˈliv]
@@ -322,7 +322,7 @@
 * nothing#[ˈnʌθɪŋ][ˈnʌθɪŋ]|无关紧要
 * ago#[əˈgəʊ][əˈgoʊ]
 * right#[raɪt][raɪt]
-* lead#[li:d][li:d]
+* lead<led>#[li:d][li:d]|带领
 * social#[ˈsəʊʃl][ˈsoʊʃl]
 * understand#[ˌʌndəˈstænd][ˌʌndərˈstænd]
 * whether#[ˈweðə(r)][ˈhwɛðɚ, ˈwɛð-]|其中的一个
@@ -362,7 +362,7 @@
 * open#[ˈəʊpən][ˈoʊpən]
 * change#[tʃeɪndʒ][tʃendʒ]
 * morning#[ˈmɔ:nɪŋ][ˈmɔ:rnɪŋ]|早晨
-* walk#[wɔ:k][wɔk]
+* walk<walking>#[wɔ:k][wɔk]|走路
 * reason#[ˈri:zn][ˈrizən]
 * low<lower>#[ləʊ][loʊ]|低
 * win#[wɪn][wɪn]|赢
@@ -386,7 +386,7 @@
 * remember#[rɪˈmembə(r)][rɪˈmɛmbɚ]
 * foot#[fʊt][fʊt]|脚
 * second#[ˈsekənd][ˈsekənd]
-* boy#[bɔɪ][bɔɪ]|男孩
+* boy<boys>#[bɔɪ][bɔɪ]|男孩
 * maybe#[ˈmeɪbi][ˈmebi]
 * toward#[tə'wɔ:d][tɔrd, tord, təˈwɔrd]|向
 * able#[ˈeɪbl][ˈebəl]
@@ -472,7 +472,7 @@
 * voice#[vɔɪs][vɔɪs]
 * wife<wives>#[waɪf][waɪf]|老婆
 * whole#[həʊl][hoʊl]
-* police#[pəˈli:s][pəˈlis]
+* police#[pəˈli:s][pəˈlis]|警察
 * mind#[maɪnd][maɪnd]|头脑|想法
 * finally#[ˈfaɪnəli][ˈfaɪnəli]
 * pull#[pʊl][pʊl]
@@ -489,7 +489,7 @@
 * hope#[həʊp][hoʊp]
 * even#[ˈi:vn][ˈivən]
 * develop#[dɪˈveləp][dɪˈvɛləp]
-* view#[vju:][vju]|景色
+* view#[vju:][vju]|景色|视野
 * relationship#[rɪˈleɪʃnʃɪp][rɪˈleʃənˌʃɪp]
 * carry<carried>#[ˈkæri][ˈkæri]|继续|携带|输送|支撑
 * town#[taʊn][taʊn]|城镇
@@ -522,7 +522,7 @@
 * especially#[ɪˈspeʃəli][ɛˈspɛʃəli, ɪˈspɛʃ-]|尤其地
 * record#[ˈrekɔ:d][ˈrekərd]
 * pick#[pɪk][pɪk]|拿起
-* wear#[weə(r)][wer]
+* wear<wearing>#[weə(r)][wer]|穿着
 * paper#[ˈpeɪpə(r)][ˈpeɪpər]
 * special#[ˈspeʃl][ˈspɛʃəl]
 * space#[speɪs][spes]
@@ -554,7 +554,7 @@
 * half#[hɑ:f][hæf]|一半
 * situation#[ˌsɪtʃuˈeɪʃn][ˌsɪtʃuˈeʃən]
 * easy#[ˈi:zi][ˈizi]
-* cost#[kɒst][kɔ:st]
+* cost#[kɒst][kɔ:st]|花销
 * industry#[ˈɪndəstri][ˈɪndəstri]
 * figure#[ˈfɪgə(r)][ˈfɪgjər]
 * face#[feɪs][fes]
@@ -636,7 +636,7 @@
 * condition#[kənˈdɪʃn][kənˈdɪʃən]
 * choice#[tʃɔɪs][tʃɔɪs]
 * place#[pleɪs][ples]
-* single#[ˈsɪŋgl][ˈsɪŋɡəl]
+* single#[ˈsɪŋgl][ˈsɪŋɡəl]|单个
 * rule#[ru:l][ruːl]
 * daughter#[ˈdɔ:tə(r)][ˈdɔtɚ]
 * administration#[ədˌmɪnɪˈstreɪʃn][ædˌmɪnɪˈstreʃən]
@@ -674,13 +674,13 @@
 * seek#[si:k][sik]
 * per#[pə(r)][pɚ]
 * subject#[ˈsʌbdʒɪkt][ˈsʌbdʒekt]
-* officer#[ˈɒfɪsə(r)][ˈɔ:fɪsə(r)]
+* officer<officers>#[ˈɒfɪsə(r)][ˈɔ:fɪsə(r)]|长官
 * private#[ˈpraɪvət][ˈpraɪvɪt]
 * rest#[rest][rest]|剩余部分
 * behavior#[bɪ'heɪvjə][bɪˈhevjɚ]
 * deal#[di:l][dil]
 * performance#[pəˈfɔ:məns][pərˈfɔ:rməns]
-* fight#[faɪt][faɪt]
+* fight<fought>#[faɪt][faɪt]|战斗
 * throw<throwing>#[θrəʊ][θroʊ]|丢|抛
 * top#[tɒp][tɑ:p]|顶
 * quickly#[ˈkwɪkli][ˈkwɪklɪ]
@@ -802,7 +802,7 @@
 * box#[bɒks][bɑ:ks]
 * TV#[ˌti:ˈvi:][ˌti:'vi:]
 * training#[ˈtreɪnɪŋ][ˈtrenɪŋ]
-* pretty#[ˈprɪti][ˈprɪti]
+* pretty#[ˈprɪti][ˈprɪti]|好看的
 * trade#[treɪd][treid]
 * deal#[di:l][dil]
 * election#[ɪˈlekʃn][ɪˈlɛkʃən]
@@ -829,7 +829,7 @@
 * glass#[glɑ:s][glæs]
 * answer#[ˈɑ:nsə(r)][ˈænsə(r)]
 * skill#[skɪl][skɪl]
-* sister#[ˈsɪstə(r)][ˈsɪstɚ]
+* sister#[ˈsɪstə(r)][ˈsɪstɚ]|姐姐
 * PM#[ˌpi:ˈem][ˌpi:'em]
 * professor#[prəˈfesə(r)][prəˈfɛsɚ]
 * operation#[ˌɒpəˈreɪʃn][ˌɑ:pəˈreɪʃn]
@@ -847,7 +847,7 @@
 * ten#[ten][tɛn]|十
 * knowledge#[ˈnɒlɪdʒ][ˈnɑ:lɪdʒ]
 * gun#[gʌn][ɡʌn]
-* station#[ˈsteɪʃn][ˈsteʃən]
+* station#[ˈsteɪʃn][ˈsteʃən]|局
 * blue<bluer>#[blu:][blu]|蓝色
 * state#[steɪt][stet]
 * strategy#[ˈstrætədʒi][ˈstrætədʒi]
@@ -1148,7 +1148,6 @@
 * directly#[dəˈrektli][dɪˈrɛktli,daɪ-]
 * hurt#[hɜ:t][hɜ:rt]
 * species#[ˈspi:ʃi:z][ˈspiʃiz,-siz]
-* immediately#[ɪˈmi:diətli][ɪˈmidiɪtli]
 * track#[træk][træk]
 * basic#[ˈbeɪsɪk][ˈbesɪk]
 * strike#[straɪk][straɪk]
@@ -2202,7 +2201,7 @@
 * inform#[ɪnˈfɔ:m][ɪnˈfɔ:rm]
 * portion#[ˈpɔ:ʃn][ˈpɔ:rʃn]|一部分
 * territory#[ˈterətri][ˈterətɔ:ri]
-* immediate#[ɪˈmi:diət][ɪˈmidiɪt]
+* immediate<immediately>#[ɪˈmi:diət][ɪˈmidiɪt]|马上
 * opponent#[əˈpəʊnənt][əˈpoʊnənt]
 * abandon#[əˈbændən][əˈbændən]
 * link#[lɪŋk][lɪŋk]
@@ -2329,7 +2328,7 @@
 * visible#[ˈvɪzəbl][ˈvɪzəbəl]
 * kiss#[kɪs][kɪs]
 * illness#[ˈɪlnəs][ˈɪlnɪs]
-* cap#[kæp][kæp]
+* cap<caps>#[kæp][kæp]|帽子
 * habit#[ˈhæbɪt][ˈhæbɪt]
 * competitive#[kəmˈpetətɪv][kəmˈpɛtɪtɪv]
 * juice#[dʒu:s][dʒus]
@@ -3377,7 +3376,7 @@
 * exact#[ɪgˈzækt][ɪɡˈzækt]
 * uncle#[ˈʌŋkl][ˈʌŋkəl]
 * square#[skweə(r)][skwer]
-* captain#[ˈkæptɪn][ˈkæptən]
+* captain#[ˈkæptɪn][ˈkæptən]|船长
 * sigh#[saɪ][saɪ]
 * attribute#[əˈtrɪbju:t][əˈtrɪbjut]
 * dare#[deə(r)][der]
@@ -3918,7 +3917,7 @@
 * oral#[ˈɔ:rəl][ˈɔrəl]
 * clerk<clerks>#[klɑ:k][klɜ:rk]|职工
 * Israeli#[ɪz'reɪlɪ][ɪzˈreli]
-* envelope#[ˈenvələʊp][ˈenvəloʊp]
+* envelope#[ˈenvələʊp][ˈenvəloʊp]|信封
 * reporting#[rɪˈpɔ:tɪŋ][rɪˈpɔ:rtɪŋ]
 * destination#[ˌdestɪˈneɪʃn][ˌdɛstəˈneʃən]
 * fist#[fɪst][fɪst]
@@ -4157,7 +4156,7 @@
 * protective#[prəˈtektɪv][prəˈtɛktɪv]
 * tuck#[tʌk][tʌk]
 * drum#[drʌm][drʌm]
-* faint#[feɪnt][fent]
+* faint<faintly>#[feɪnt][fent]|微弱的
 * post#[pəʊst][poʊst]
 * queen#[kwi:n][kwin]
 * dilemma#[dɪˈlemə][dɪˈlɛmə]
@@ -4167,7 +4166,7 @@
 * shallow#[ˈʃæləʊ][ˈʃæloʊ]|浅的
 * liability#[ˌlaɪəˈbɪləti][ˌlaɪəˈbɪlɪti]
 * sail#[seɪl][sel]
-* merchant#[ˈmɜ:tʃənt][ˈmɜ:rtʃənt]
+* merchant#[ˈmɜ:tʃənt][ˈmɜ:rtʃənt]|高级的
 * stadium#[ˈsteɪdiəm][ˈstediəm]
 * improved#[ɪm'pru:vd][ɪm'pru:vd]
 * bloody#[ˈblʌdi][ˈblʌdi]
@@ -4696,7 +4695,7 @@
 * comparable#[ˈkɒmpərəbl][ˈkɑ:mpərəbl]
 * transport#[ˈtrænspɔ:t][ˈtrænspɔ:rt]
 * conscience#[ˈkɒnʃəns][ˈkɑ:nʃəns]
-* calculation#[ˌkælkjuˈleɪʃn][ˌkælkjəˈleʃən]
+* calculation<calculations>#[ˌkælkjuˈleɪʃn][ˌkælkjəˈleʃən]|计算
 * considerably#[kənˈsɪdərəbli][kənˈsɪdərəblɪ]
 * interval<intervals>#[ˈɪntəvl][ˈɪntərvl]|间隔、休息
 * scratch#[skrætʃ][skrætʃ]
@@ -4838,7 +4837,7 @@
 * guarantee#[ˌgærənˈti:][ˌɡærənˈti]
 * availability#[əˌveɪlə'bɪlətɪ][əˌveləˈbɪlətɪ]
 * radar#[ˈreɪdɑ:(r)][ˈredɑr]
-* frown#[fraʊn][fraʊn]
+* frown<frowned>#[fraʊn][fraʊn]|皱眉的
 * regain#[rɪˈgeɪn][riˈɡen]
 * leave#[li:v][liv]
 * permit#[pəˈmɪt][pərˈmɪt]
@@ -5711,7 +5710,7 @@
 * clan#[klæn][klæn]
 * verify#[ˈverɪfaɪ][ˈvɛrəˌfaɪ]
 * creek#[kri:k][krik,krɪk]
-* nursery#[ˈnɜ:səri][ˈnɜ:rsəri]
+* nursery#[ˈnɜ:səri][ˈnɜ:rsəri]|幼儿园
 * skillet#[ˈskɪlɪt][ˈskɪlɪt]
 * boxing#[ˈbɒksɪŋ][ˈbɑ:ksɪŋ]
 * faction#[ˈfækʃn][ˈfækʃən]
@@ -7379,7 +7378,7 @@
 * filling#[ˈfɪlɪŋ][ˈfɪlɪŋ]
 * adversary#[ˈædvəsəri][ˈædvərseri]
 * labor#['leɪbə(r)][ˈlebɚ]
-* intricate#[ˈɪntrɪkət][ˈɪntrɪkɪt]
+* intricate#[ˈɪntrɪkət][ˈɪntrɪkɪt]|复杂的
 * voucher#[ˈvaʊtʃə(r)][ˈvaʊtʃɚ]
 * explosives#[ɪk'spləʊsɪvz][ɪk'sploʊsɪvz]
 * scheduled#['ʃedju:ld]['skedʒəld]
@@ -8606,7 +8605,7 @@
 * disruptive#[dɪsˈrʌptɪv][dɪsˈrʌptɪv]
 * degrade#[dɪˈgreɪd][dɪˈɡred]
 * chilly#[ˈtʃɪli][ˈtʃɪli]
-* convoy#[ˈkɒnvɔɪ][ˈkɑ:nvɔɪ]
+* convoy#[ˈkɒnvɔɪ][ˈkɑ:nvɔɪ]|船队
 * flank#[flæŋk][flæŋk]
 * playful#[ˈpleɪfl][ˈplefəl]
 * performing#[pə'fɔ:mɪŋ][pə'fɔ:mɪŋ]
@@ -9185,7 +9184,7 @@
 * tidal#[ˈtaɪdl][ˈtaɪdl]
 * hardwood#[ˈhɑ:dwʊd][ˈhɑ:rdwʊd]
 * chronicle#[ˈkrɒnɪkl][ˈkrɑ:nɪkl]
-* swarm#[swɔ:m][swɔ:rm]
+* swarm<swarmed>#[swɔ:m][swɔ:rm]|成群
 * asbestos#[æsˈbestəs][æsˈbɛstəs,æz-]
 * mixer#[ˈmɪksə(r)][ˈmɪksɚ]
 * citrus#[ˈsɪtrəs][ˈsɪtrəs]
@@ -9224,7 +9223,7 @@
 * doubtful#[ˈdaʊtfl][ˈdaʊtfəl]
 * shutter#[ˈʃʌtə(r)][ˈʃʌtɚ]
 * symbolism#[ˈsɪmbəlɪzəm][ˈsɪmbəˌlɪzəm]
-* refrain#[rɪˈfreɪn][rɪˈfren]
+* refrain#[rɪˈfreɪn][rɪˈfren]|副歌
 * jelly#[ˈdʒeli][ˈdʒɛli]
 * checklist#[ˈtʃeklɪst][ˈtʃɛkˌlɪst]
 * pointed#[ˈpɔɪntɪd][ˈpɔɪntɪd]
@@ -10338,7 +10337,7 @@
 * numerical#[nju:ˈmerɪkl][nu:ˈmerɪkl]
 * grassy#[ˈgrɑ:si][ˈgræsi]
 * winding#[ˈwaɪndɪŋ][ˈwaɪndɪŋ]
-* triumphant#[traɪˈʌmfənt][traɪˈʌmfənt]
+* triumphant<triumphantly>#[traɪˈʌmfənt][traɪˈʌmfənt]|大获全胜地
 * shampoo#[ʃæmˈpu:][ʃæmˈpu]
 * bypass#[ˈbaɪpɑ:s][ˈbaɪˌpæs]
 * self-defense#[ˌselfdɪ'fens][ˌselfdɪ'fens]
@@ -10897,7 +10896,7 @@
 * inexperienced#[ˌɪnɪkˈspɪəriənst][ˌɪnɪkˈspɪriənst]
 * funky#[fʌŋki][ˈfʌŋki]
 * hum#[hʌm][hʌm]
-* schoolteacher#[ˈsku:lti:tʃə(r)][ˈskulˌtitʃɚ]
+* schoolteacher#[ˈsku:lti:tʃə(r)][ˈskulˌtitʃɚ]|教师
 * pronouncement#[prəˈnaʊnsmənt][prəˈnaʊnsmənt]
 * miss#[mɪs][mɪs]
 * Yugoslav#[][]
@@ -13389,7 +13388,7 @@
 * herein#[ˌhɪərˈɪn][ˌhɪrˈɪn]
 * holster#[ˈhəʊlstə(r)][ˈhoʊlstə(r)]
 * nagging#[ˈnægɪŋ][ˈnæɡɪŋ]
-* brothel#[ˈbrɒθl][ˈbrɑ:θl]
+* brothel#[ˈbrɒθl][ˈbrɑ:θl]|妓院
 * digging#[dʌɡ][dʌɡ]
 * snake#[sneɪk][snek]
 * self-contained#[selfkən'teɪnd][ˌsɛlfkənˈtend]
@@ -20232,3 +20231,6 @@
 * arouse<aroused>#[əˈraʊz]|引起性欲
 * slop<sloped>#[slɒp]|溅出|突出
 * churchward#[tʃɜːtʃ wɔːd]|朝教堂方向
+* harbour#[ˈhɑːbə]|港湾
+* quay#[kiː]|码头
+* horoscope#[ˈhɒrəskəʊp]|占星术
