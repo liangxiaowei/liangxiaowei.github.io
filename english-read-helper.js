@@ -321,16 +321,16 @@ async function chooseDirectory() {
     // console.log('content:', wordList);
 
     // // console.log(targetWordSentenceObj)
-    // Object.keys(targetWordSentenceObj).forEach(async (word) => {
+    Object.keys(targetWordSentenceObj).forEach(async (word) => {
 
-    //   let newContent=''
-    //   targetWordSentenceObj[word].forEach(sentence => {
-    //     // sentence = sentence.replace(e, '`'+ e +'`')
-    //     sentence = `- ${sentence} —— the heart of the matter`
-    //     newContent += '\n\n' + sentence
-    //   })
-    //   await addEngWordFile(directoryHandle, word, newContent)
-    // })
+      let newContent=''
+      targetWordSentenceObj[word].forEach(sentence => {
+        // sentence = sentence.replace(e, '`'+ e +'`')
+        sentence = `- ${sentence} —— the heart of the matter`
+        newContent += '\n\n' + sentence
+      })
+      await addEngWordFile(directoryHandle, word, newContent)
+    })
     // console.log('非目标单词句子')
     // console.log(notTargetWordSentenceObj)
     // console.log(targetWordSentenceObj)
