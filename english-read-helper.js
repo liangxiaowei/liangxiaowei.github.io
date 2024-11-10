@@ -28,7 +28,8 @@ cocaList = cocaList
     if (splitByHash.length > 1) {
       const splitByLine = splitByHash[1].split("|");
       pronunciation = splitByLine[0];
-      pronunciation = splitByLine[0].split("]")[1].slice(1);
+      pronunciation = splitByLine[0].split("]")[0].slice(1);
+
       meaning = splitByLine.slice(1).join("|");
     }
 
@@ -68,7 +69,7 @@ longman3000.forEach(e => {
 }) 
 
 console.log(frequencies)
-console.log(dict);
+// console.log(dict);
 const searchedWordCnt = cocaList.filter((e) => e.meaning).length;
 console.log("词本已查：", searchedWordCnt);
 // cocaList.forEach((e) => {
@@ -292,18 +293,18 @@ console.log('生词')
 console.log(notSearchWordSet);
 console.log('目标单词句子')
 // console.log(targetWordSentenceObj)
-Object.keys(targetWordSentenceObj).forEach(e => {
-  console.log('********************************************')
-  console.log('`' + e + '`' + (frequencies[e] ? ' ' + frequencies[e] : '') + ' [' + dict[e].pronunciation + ']')
-  console.log(targetWordSentenceObj[e].size)
+// Object.keys(targetWordSentenceObj).forEach(e => {
+//   console.log('********************************************')
+//   console.log('`' + e + '`' + (frequencies[e] ? ' ' + frequencies[e] : '') + ' [' + dict[e].pronunciation + ']')
+//   console.log(targetWordSentenceObj[e].size)
 
-  targetWordSentenceObj[e].forEach(sentence => {
-    // sentence = sentence.replace(e, '`'+ e +'`')
-    sentence = `- ${sentence} —— the heart of the matter`
-    console.log(sentence)
-  })
+//   targetWordSentenceObj[e].forEach(sentence => {
+//     // sentence = sentence.replace(e, '`'+ e +'`')
+//     sentence = `- ${sentence} —— the heart of the matter`
+//     console.log(sentence)
+//   })
   
-})
+// })
 console.log('非目标单词句子')
 console.log(notTargetWordSentenceObj)
 body.firstElementChild.textContent = `单词本：${searchedWordCnt}，总共包含字数： ${allWord} ，3000词字数：${targetWord}，占比：${Math.round(targetWord / allWord * 100, 2)}%，其中不同单词数：${wordSet.size}，3000词：${targetWordSet.size}，超纲词汇： ${notSearchWordSet.size}`;
