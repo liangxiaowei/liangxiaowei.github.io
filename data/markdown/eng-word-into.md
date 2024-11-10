@@ -11,3 +11,5 @@
 -  The very dew seemed to hang upon the trees later `into` the day than usual, as on the sides of mountains —— walden
 
 -  One value even of the smallest well is, that when you look `into` it you see that earth is not continent but insular —— walden
+
+-  His pallor showed how recently he had emerged from it into the port: so did his lack of interest in the schoolgirls opposite —— the heart of the matter

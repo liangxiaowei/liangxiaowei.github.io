@@ -11,3 +11,5 @@
 -  From a hilltop near by, where the wood had been recently cut off, there was a pleasing vista southward across the pond, through a wide indentation in the hills which form the shore there, where their opposite sides sloping toward each `other` suggested a stream flowing out in that direction through a wooded valley, but stream there was none —— walden
 
 -  But in `other` directions, even from this point, I could not see over or beyond the woods which surrounded me —— walden
+
+-  On the other side of Bond Street, in the windows of the High School, sat the young Negresses in dark blue gym smocks engaged on the interminable task of trying to wave their wirespring hair —— the heart of the matter

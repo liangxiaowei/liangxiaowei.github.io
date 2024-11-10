@@ -43,3 +43,9 @@
 -  Wherever I `sat`, there I might live, and the landscape radiated from me accordingly —— walden
 
 -  It was not so much within doors as behind a door where I `sat`, even in the rainiest weather —— walden
+
+-  WILSON SAT ON THE BALCONY OF THE BEDFORD Hotel with his bald pink knees thrust against the ironwork —— the heart of the matter
+
+-  On the other side of Bond Street, in the windows of the High School, sat the young Negresses in dark blue gym smocks engaged on the interminable task of trying to wave their wirespring hair —— the heart of the matter
+
+-  Sitting there, facing Bond Street, he had his face turned to the sea —— the heart of the matter

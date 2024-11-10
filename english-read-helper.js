@@ -299,7 +299,7 @@ Object.keys(targetWordSentenceObj).forEach(e => {
 
   targetWordSentenceObj[e].forEach(sentence => {
     // sentence = sentence.replace(e, '`'+ e +'`')
-    sentence = `- ${sentence} —— walden`
+    sentence = `- ${sentence} —— the heart of the matter`
     console.log(sentence)
   })
   
@@ -325,7 +325,7 @@ async function chooseDirectory() {
       let newContent=''
       targetWordSentenceObj[word].forEach(sentence => {
         // sentence = sentence.replace(e, '`'+ e +'`')
-        sentence = `- ${sentence} —— walden`
+        sentence = `- ${sentence} —— the heart of the matter`
         newContent += '\n\n' + sentence
       })
       await addEngWordFile(directoryHandle, word, newContent)
@@ -353,7 +353,7 @@ async function addEngWordFile(directoryHandle, word, newContent) {
   
 
   let fileContent = oldContent && oldContent.length ? `${oldContent}${newContent}` : `${firstLine}\n\n${newContent}`
-  fileContent = fileContent.replaceAll(` ${word}`, ` \`${word}\``)
+  // fileContent = fileContent.replaceAll(` ${word}`, ` \`${word}\``)
   console.log(fileContent)
 
   const writable = await newFileHandle.createWritable();

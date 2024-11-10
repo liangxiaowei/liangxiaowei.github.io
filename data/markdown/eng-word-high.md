@@ -9,3 +9,5 @@
 -  For the first week, whenever I looked out on the pond it impressed me like a tarn `high` up on the side of a mountain, its bottom far above the surface of other lakes, and, as the sun arose, I saw it throwing off its nightly clothing of mist, and here and there, by degrees, its soft ripples or its smooth reflecting surface was revealed, while the mists, like ghosts, were stealthily withdrawing in every direction into the woods, as at the breaking up of some nocturnal conventicle —— walden
 
 -  That way I looked between and over the near green hills to some distant and `higher` ones in the horizon, tinged with blue —— walden
+
+-  On the other side of Bond Street, in the windows of the High School, sat the young Negresses in dark blue gym smocks engaged on the interminable task of trying to wave their wirespring hair —— the heart of the matter

@@ -71,3 +71,5 @@
 -  As I have said, I `do` not propose to write an ode to dejection, but to brag as lustily as chanticleer in the morning, standing on his roost, if only to wake my neighbors up —— walden
 
 -  I `did` not need to go outdoors to take the air, for the atmosphere within had lost none of its freshness —— walden
+
+-  His pallor showed how recently he had emerged from it into the port: so did his lack of interest in the schoolgirls opposite —— the heart of the matter

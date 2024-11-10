@@ -29,3 +29,9 @@
 - ” Such was not my abode, `for` I found myself suddenly neighbor to the birds; not by having imprisoned one, but having caged myself near them —— walden
 
 -  `For` the first week, whenever I looked out on the pond it impressed me like a tarn high up on the side of a mountain, its bottom far above the surface of other lakes, and, as the sun arose, I saw it throwing off its nightly clothing of mist, and here and there, by degrees, its soft ripples or its smooth reflecting surface was revealed, while the mists, like ghosts, were stealthily withdrawing in every direction into the woods, as at the breaking up of some nocturnal conventicle —— walden
+
+-  It was Sunday and the Cathedral bell clanged for matins —— the heart of the matter
+
+-  Wilson stroked his very young moustache and dreamed, waiting for his gin-and-bitters —— the heart of the matter
+
+-  He was alone on the balcony except for one bearded Indian in a turban who had already tried to tell his fortune: this was not the hour or the day for white men — they would be at the beach five miles away, but Wilson had no car —— the heart of the matter

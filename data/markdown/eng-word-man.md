@@ -11,3 +11,5 @@
 -  However, I let him keep the ten dollars and the farm too, for I had carried it far enough; or rather, to be generous, I sold him the farm for just what I gave for it, and, as he was not a rich `man`, made him a present of ten dollars, and still had my ten cents, and seeds, and materials for a wheelbarrow left —— walden
 
 -  I found thus that I had been a rich `man` without any damage to my poverty —— walden
+
+-  He was alone on the balcony except for one bearded Indian in a turban who had already tried to tell his fortune: this was not the hour or the day for white men — they would be at the beach five miles away, but Wilson had no car —— the heart of the matter

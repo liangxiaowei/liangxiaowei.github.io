@@ -103,3 +103,21 @@
 -  One value even of `the` smallest well is, that when you look into it you see that earth is not continent but insular —— walden
 
 -  When I looked across `the` pond from this peak toward `the` Sudbury meadows, which in time of flood I distinguished elevated perhaps by a mirage in their seething valley, like a coin in a basin, all `the` earth beyond `the` pond appeared like a thin crust insulated and floated even by this small sheet of interverting water, and I was reminded that this on which I dwelt was but dry land —— walden
+
+-  WILSON SAT ON THE BALCONY OF THE BEDFORD Hotel with his bald pink knees thrust against the ironwork —— the heart of the matter
+
+-  It was Sunday and the Cathedral bell clanged for matins —— the heart of the matter
+
+-  On the other side of Bond Street, in the windows of the High School, sat the young Negresses in dark blue gym smocks engaged on the interminable task of trying to wave their wirespring hair —— the heart of the matter
+
+-  Sitting there, facing Bond Street, he had his face turned to the sea —— the heart of the matter
+
+-  His pallor showed how recently he had emerged from it into the port: so did his lack of interest in the schoolgirls opposite —— the heart of the matter
+
+-  He was like the lagging finger of the barometer, still pointing to Fair long after its companion had moved to Stormy —— the heart of the matter
+
+-  Below him the black clerks moved churchward, but their wives in brilliant afternoon dresses of blue and cerise aroused no interest in Wilson —— the heart of the matter
+
+-  He was alone on the balcony except for one bearded Indian in a turban who had already tried to tell his fortune: this was not the hour or the day for white men — they would be at the beach five miles away, but Wilson had no car —— the heart of the matter
+
+-  On either side of the school the tin roofs sloped towards the sea, and the corrugated iron above his head clanged and clattered as a vulture alighted —— the heart of the matter

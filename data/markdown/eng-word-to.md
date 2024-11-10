@@ -69,3 +69,11 @@
 -  That way I looked between and over the near green hills `to` some distant and higher ones in the horizon, tinged with blue —— walden
 
 -  It is well `to` have some water in your neighborhood, `to` give buoyancy `to` and float the earth —— walden
+
+-  On the other side of Bond Street, in the windows of the High School, sat the young Negresses in dark blue gym smocks engaged on the interminable task of trying to wave their wirespring hair —— the heart of the matter
+
+-  Sitting there, facing Bond Street, he had his face turned to the sea —— the heart of the matter
+
+-  He was like the lagging finger of the barometer, still pointing to Fair long after its companion had moved to Stormy —— the heart of the matter
+
+-  He was alone on the balcony except for one bearded Indian in a turban who had already tried to tell his fortune: this was not the hour or the day for white men — they would be at the beach five miles away, but Wilson had no car —— the heart of the matter

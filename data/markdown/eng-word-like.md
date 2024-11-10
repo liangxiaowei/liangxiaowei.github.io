@@ -13,3 +13,5 @@
 -  A lake `like` this is never smoother than at such a time; and the clear portion of the air above it being shallow and darkened by clouds, the water, full of light and reflections, becomes a lower heaven itself so much the more important —— walden
 
 -  When I looked across the pond from this peak toward the Sudbury meadows, which in time of flood I distinguished elevated perhaps by a mirage in their seething valley, `like` a coin in a basin, all the earth beyond the pond appeared `like` a thin crust insulated and floated even by this small sheet of interverting water, and I was reminded that this on which I dwelt was but dry land —— walden
+
+-  He was like the lagging finger of the barometer, still pointing to Fair long after its companion had moved to Stormy —— the heart of the matter

@@ -59,3 +59,9 @@
 -  One value even of the smallest well is, that when you look into `it` you see that earth is not continent but insular —— walden
 
 -  This is as important as that `it` keeps butter cool —— walden
+
+-  It was Sunday and the Cathedral bell clanged for matins —— the heart of the matter
+
+-  His pallor showed how recently he had emerged from it into the port: so did his lack of interest in the schoolgirls opposite —— the heart of the matter
+
+-  He was like the lagging finger of the barometer, still pointing to Fair long after its companion had moved to Stormy —— the heart of the matter

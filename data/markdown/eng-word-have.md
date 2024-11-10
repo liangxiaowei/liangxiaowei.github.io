@@ -59,3 +59,11 @@
 -  From a hilltop near by, where the wood `had` been recently cut off, there was a pleasing vista southward across the pond, through a wide indentation in the hills which form the shore there, where their opposite sides sloping toward each other suggested a stream flowing out in that direction through a wooded valley, but stream there was none —— walden
 
 -  It is well to `have` some water in your neighborhood, to give buoyancy to and float the earth —— walden
+
+-  Sitting there, facing Bond Street, he had his face turned to the sea —— the heart of the matter
+
+-  His pallor showed how recently he had emerged from it into the port: so did his lack of interest in the schoolgirls opposite —— the heart of the matter
+
+-  He was like the lagging finger of the barometer, still pointing to Fair long after its companion had moved to Stormy —— the heart of the matter
+
+-  He was alone on the balcony except for one bearded Indian in a turban who had already tried to tell his fortune: this was not the hour or the day for white men — they would be at the beach five miles away, but Wilson had no car —— the heart of the matter

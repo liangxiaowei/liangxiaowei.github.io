@@ -141,3 +141,7 @@
 -  Indeed, by standing on tiptoe I could catch a glimpse of some of the peaks of the still bluer and more distant mountain ranges in the northwest, those true-blue coins from heaven’s own mint, and also of some portion of the village —— walden
 
 -  When I looked across the pond from this peak toward the Sudbury meadows, which in time of flood I distinguished elevated perhaps by a mirage in their seething valley, like a coin in a basin, all the earth beyond the pond appeared like a thin crust insulated and floated even by this small sheet of interverting water, and I was reminded that this on which I dwelt was but dry land —— walden
+
+-  He was alone on the balcony except for one bearded Indian in a turban who had already tried to tell his fortune: this was not the hour or the day for white men — they would be at the beach five miles away, but Wilson had no car —— the heart of the matter
+
+-  On either side of the school the tin roofs sloped towards the sea, and the corrugated iron above his head clanged and clattered as a vulture alighted —— the heart of the matter

@@ -19,3 +19,16 @@
 
 -  However, I let `him` keep the ten dollars and the farm too, for I had carried it far enough; or rather, to be generous, I sold `him` the farm for just what I gave for it, and, as he was not a rich man, made `him` a present of ten dollars, and still had my ten cents, and seeds, and materials for a wheelbarrow left —— walden
 
+
+
+-  Sitting there, facing Bond Street, he had his face turned to the sea —— the heart of the matter
+
+-  His pallor showed how recently he had emerged from it into the port: so did his lack of interest in the schoolgirls opposite —— the heart of the matter
+
+-  He was like the lagging finger of the barometer, still pointing to Fair long after its companion had moved to Stormy —— the heart of the matter
+
+-  Below him the black clerks moved churchward, but their wives in brilliant afternoon dresses of blue and cerise aroused no interest in Wilson —— the heart of the matter
+
+-  He was alone on the balcony except for one bearded Indian in a turban who had already tried to tell his fortune: this was not the hour or the day for white men — they would be at the beach five miles away, but Wilson had no car —— the heart of the matter
+
+-  He felt almost intolerably lonely —— the heart of the matter

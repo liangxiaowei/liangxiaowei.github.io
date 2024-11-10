@@ -17,3 +17,5 @@
 -  A lake like this is never smoother than `at such a time`; and the clear portion of the air above it being shallow and darkened by clouds, the water, full of light and reflections, becomes a lower heaven itself so much the more important —— walden
 
 - ” I think I shall not buy greedily, but go round and round it as long as I live, and be buried in it first, that it may please me the more `at last` —— walden
+
+-  He was alone on the balcony except for one bearded Indian in a turban who had already tried to tell his fortune: this was not the hour or the day for white men — they would be at the beach five miles away, but Wilson had no car —— the heart of the matter

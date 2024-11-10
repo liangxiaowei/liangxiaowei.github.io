@@ -75,3 +75,9 @@
 -  From a hilltop near by, where the wood had `be`en recently cut off, there was a pleasing vista southward across the pond, through a wide indentation in the hills which form the shore there, where their opposite sides sloping toward each other suggested a stream flowing out in that direction through a wooded valley, but stream there was none —— walden
 
 -  When I looked across the pond from this peak toward the Sudbury meadows, which in time of flood I distinguished elevated perhaps by a mirage in their seething valley, like a coin in a basin, all the earth `be`yond the pond appeared like a thin crust insulated and floated even by this small sheet of interverting water, and I was reminded that this on which I dwelt was but dry land —— walden
+
+-  It was Sunday and the Cathedral bell clanged for matins —— the heart of the matter
+
+-  He was like the lagging finger of the barometer, still pointing to Fair long after its companion had moved to Stormy —— the heart of the matter
+
+-  He was alone on the balcony except for one bearded Indian in a turban who had already tried to tell his fortune: this was not the hour or the day for white men — they would be at the beach five miles away, but Wilson had no car —— the heart of the matter

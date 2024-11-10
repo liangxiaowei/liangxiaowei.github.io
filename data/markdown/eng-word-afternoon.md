@@ -15,3 +15,5 @@ Good `afternoon`, madam.
 
 
 -  `An afternoon` sufficed to lay out the land into orchard, woodlot, and pasture, and to decide what fine oaks or pines should be left to stand before the door, and whence each blasted tree could be seen to the best advantage; and then I let it lie, fallow, perchance, for a man is rich in proportion to the number of things which he can afford to let alone —— walden
+
+-  Below him the black clerks moved churchward, but their wives in brilliant afternoon dresses of blue and cerise aroused no interest in Wilson —— the heart of the matter

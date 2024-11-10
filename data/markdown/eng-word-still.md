@@ -9,3 +9,5 @@
 - This small lake was of most value as a neighbor in the intervals of a gentle rainstorm in August, when, both air and water being perfectly `still`, but the sky overcast, mid-afternoon had all the serenity of evening, and the wood thrush sang around, and was heard from shore to shore —— walden
 
 -  Indeed, by standing on tiptoe I could catch a glimpse of some of the peaks of the `still` bluer and more distant mountain ranges in the northwest, those true-blue coins from heaven’s own mint, and also of some portion of the village —— walden
+
+-  He was like the lagging finger of the barometer, still pointing to Fair long after its companion had moved to Stormy —— the heart of the matter

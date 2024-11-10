@@ -57,3 +57,11 @@
 -  With this more substantial shelter about me, I had made some progress toward settling `in` the world —— walden
 
 -  But `in` other directions, even from this point, I could not see over or beyond the woods which surrounded me —— walden
+
+-  On the other side of Bond Street, in the windows of the High School, sat the young Negresses in dark blue gym smocks engaged on the interminable task of trying to wave their wirespring hair —— the heart of the matter
+
+-  His pallor showed how recently he had emerged from it into the port: so did his lack of interest in the schoolgirls opposite —— the heart of the matter
+
+-  Below him the black clerks moved churchward, but their wives in brilliant afternoon dresses of blue and cerise aroused no interest in Wilson —— the heart of the matter
+
+-  He was alone on the balcony except for one bearded Indian in a turban who had already tried to tell his fortune: this was not the hour or the day for white men — they would be at the beach five miles away, but Wilson had no car —— the heart of the matter

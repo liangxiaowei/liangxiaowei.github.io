@@ -61,3 +61,11 @@
 -  It is well to have some water in your neighborhood, to give buoyancy to `and` float the earth —— walden
 
 -  When I looked across the pond from this peak toward the Sudbury meadows, which in time of flood I distinguished elevated perhaps by a mirage in their seething valley, like a coin in a basin, all the earth beyond the pond appeared like a thin crust insulated `and` floated even by this small sheet of interverting water, `and` I was reminded that this on which I dwelt was but dry land —— walden
+
+-  It was Sunday and the Cathedral bell clanged for matins —— the heart of the matter
+
+-  Wilson stroked his very young moustache and dreamed, waiting for his gin-and-bitters —— the heart of the matter
+
+-  Below him the black clerks moved churchward, but their wives in brilliant afternoon dresses of blue and cerise aroused no interest in Wilson —— the heart of the matter
+
+-  On either side of the school the tin roofs sloped towards the sea, and the corrugated iron above his head clanged and clattered as a vulture alighted —— the heart of the matter
