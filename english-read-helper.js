@@ -319,20 +319,34 @@ async function chooseDirectory() {
     // let wordList = wordListFileContent.split("-").map(e => e.replace('\n','')).map(e => e.replace(' ',''))
     // console.log('content:', wordList);
 
-    // console.log(targetWordSentenceObj)
-    Object.keys(targetWordSentenceObj).forEach(async (word) => {
+    // // console.log(targetWordSentenceObj)
+    // Object.keys(targetWordSentenceObj).forEach(async (word) => {
 
-      let newContent=''
-      targetWordSentenceObj[word].forEach(sentence => {
-        // sentence = sentence.replace(e, '`'+ e +'`')
-        sentence = `- ${sentence} —— the heart of the matter`
-        newContent += '\n\n' + sentence
-      })
-      await addEngWordFile(directoryHandle, word, newContent)
-    })
+    //   let newContent=''
+    //   targetWordSentenceObj[word].forEach(sentence => {
+    //     // sentence = sentence.replace(e, '`'+ e +'`')
+    //     sentence = `- ${sentence} —— the heart of the matter`
+    //     newContent += '\n\n' + sentence
+    //   })
+    //   await addEngWordFile(directoryHandle, word, newContent)
+    // })
     // console.log('非目标单词句子')
     // console.log(notTargetWordSentenceObj)
+    // console.log(targetWordSentenceObj)
+    Object.keys(notTargetWordSentenceObj).forEach(async (word) => {
 
+      if (!notSearchWordSet.has(word)) {
+        let newContent=''
+        notTargetWordSentenceObj[word].forEach(sentence => {
+          // sentence = sentence.replace(e, '`'+ e +'`')
+          sentence = `- ${sentence} —— the heart of the matter`
+          newContent += '\n\n' + sentence
+        })
+        await addEngWordFile(directoryHandle, word, newContent)
+      }
+
+
+    })
     console.log('Selected directory:', directoryHandle);
   } catch (error) {
     console.error('Error selecting directory:', error);
