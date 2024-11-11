@@ -5,7 +5,8 @@ const sheet = style.sheet;
 const topN = 30000;
 const dict = {}
 
-const currentBook = 'walden'
+// const currentBook = 'walden'
+const currentBook = 'the heart of the matter'
 
 let cocaList = await fetch("/data/english/wordList.aa");
 cocaList = await cocaList.text();
@@ -321,16 +322,16 @@ async function chooseDirectory() {
     // console.log('content:', wordList);
 
     // // console.log(targetWordSentenceObj)
-    // Object.keys(targetWordSentenceObj).forEach(async (word) => {
+    Object.keys(targetWordSentenceObj).forEach(async (word) => {
 
-    //   let newContent=''
-    //   targetWordSentenceObj[word].forEach(sentence => {
-    //     // sentence = sentence.replace(e, '`'+ e +'`')
-    //     sentence = `- ${sentence} —— ${currentBook}`
-    //     newContent += '\n\n' + sentence
-    //   })
-    //   await addEngWordFile(directoryHandle, word, newContent)
-    // })
+      let newContent=''
+      targetWordSentenceObj[word].forEach(sentence => {
+        // sentence = sentence.replace(e, '`'+ e +'`')
+        sentence = `- ${sentence} —— ${currentBook}`
+        newContent += '\n\n' + sentence
+      })
+      await addEngWordFile(directoryHandle, word, newContent)
+    })
     // console.log('非目标单词句子')
     // console.log(notTargetWordSentenceObj)
     // console.log(targetWordSentenceObj)
