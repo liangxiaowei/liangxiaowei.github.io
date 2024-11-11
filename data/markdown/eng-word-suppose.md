@@ -1,0 +1,5 @@
+- `suppose` S1 W1 [səˈpəʊz]
+
+
+
+- I have frequently seen a poet withdraw, having enjoyed the most valuable part of a farm, while the crusty farmer supposed that he had got a few wild apples only —— walden
