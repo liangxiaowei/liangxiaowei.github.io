@@ -13,3 +13,5 @@
 -  But in `other` directions, even from this point, I could not see over or beyond the woods which surrounded me —— walden
 
 -  On the other side of Bond Street, in the windows of the High School, sat the young Negresses in dark blue gym smocks engaged on the interminable task of trying to wave their wirespring hair —— the heart of the matter
+
+-  He wanted passionately to be indistinguishable on the surface from other men: he wore his moustache like a club tie — it was his highest common factor: but his eyes betrayed him — brown dog's eyes, a setter's eyes, pointing mournfully towards Bond Street —— the heart of the matter

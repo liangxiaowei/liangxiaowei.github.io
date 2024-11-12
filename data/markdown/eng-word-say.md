@@ -17,3 +17,5 @@
 -  As I have `said`, I do not propose to write an ode to dejection, but to brag as lustily as chanticleer in the morning, standing on his roost, if only to wake my neighbors up —— walden
 
 -  The Harivansa `says`, “An abode without birds is like a meat without seasoning —— walden
+
+-  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter

@@ -69,3 +69,7 @@
 -  Below him the black clerks moved churchward, but their wives in brilliant afternoon dresses of blue and cerise aroused no interest in Wilson —— the heart of the matter
 
 -  On either side of the school the tin roofs sloped towards the sea, and the corrugated iron above his head clanged and clattered as a vulture alighted —— the heart of the matter
+
+- " The bearded Indian frowned over intricate calculations on the back of an envelope — a horoscope, the cost of living? When Wilson looked down into the street again the officers had fought their way free, and the schoolboys had swarmed again round a single able-seaman; they led him triumphantly away towards the brothel near the police station, as though to the nursery —— the heart of the matter
+
+-  A black boy brought Wilson's gin and he sipped it very slowly because he had nothing else to do except to return to his hot and squalid room and read a novel — or a poem —— the heart of the matter

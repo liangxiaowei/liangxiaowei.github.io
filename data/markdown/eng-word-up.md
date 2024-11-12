@@ -13,3 +13,9 @@
 - The only house I had been the owner of before, if I except a boat, was a tent, which I used occasionally when making excursions in the summer, and this is still rolled `up` in my garret; but the boat, after passing from hand to hand, has gone down the stream of time —— walden
 
 -  For the first week, whenever I looked out on the pond it impressed me like a tarn high `up` on the side of a mountain, its bottom far above the surface of other lakes, and, as the sun arose, I saw it throwing off its nightly clothing of mist, and here and there, by degrees, its soft ripples or its smooth reflecting surface was revealed, while the mists, like ghosts, were stealthily withdrawing in every direction into the woods, as at the breaking `up` of some nocturnal conventicle —— walden
+
+- Three merchant officers from the convoy in the harbour came into view, walking up from the quay —— the heart of the matter
+
+-  The boys' refrain came faintly up to Wilson like a nursery rhyme: "Captain want jig jig, my sister pretty girl schoolteacher, captain want jig jig —— the heart of the matter
+
+-  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter

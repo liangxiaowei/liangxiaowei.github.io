@@ -9,3 +9,9 @@
 -  The oftener `you` go there the more it will please `you`, if it is good —— walden
 
 -  One value even of the smallest well is, that when `you` look into it `you` see that earth is not continent but insular —— walden
+
+-  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
+
+- " "May I join you? My name's Harris —— the heart of the matter
+
+- " "You're the new accountant at the U —— the heart of the matter

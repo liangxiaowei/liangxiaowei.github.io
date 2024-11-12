@@ -42,3 +42,7 @@
 -  Well, there I might live, I said; and there I did live, for an hour, a summer and a winter life; saw how I could let the years run off, buffet the winter through, and see the spring `come` in —— walden
 
 -  The nearest that I ``came`` to actual possession was when I bought the Hollowell place, and had begun to sort my seeds, and collected materials with which to make a wheelbarrow to carry it on or off with; but before the owner gave me a deed of it, his wife﻿—every man has such a wife﻿—changed her mind and wished to keep it, and he offered me ten dollars to release him —— walden
+
+- Three merchant officers from the convoy in the harbour came into view, walking up from the quay —— the heart of the matter
+
+-  The boys' refrain came faintly up to Wilson like a nursery rhyme: "Captain want jig jig, my sister pretty girl schoolteacher, captain want jig jig —— the heart of the matter

@@ -111,3 +111,5 @@ I go there, too.
 - The only house I had been the owner of before, if I except a boat, was a tent, which I used occasionally when making excursions in the summer, and this is still rolled up in my garret; but the boat, after passing from hand to hand, has `gone` down the stream of time —— walden
 
 -  I did not need to `go` outdoors to take the air, for the atmosphere within had lost none of its freshness —— walden
+
+-  The Golden Treasury accompanied him wherever he went, but it was taken at night in small doses — a finger of Longfellow, Macauiay, Mangan: Go on to tell how, with genius wasted, Betrayed in friendship, befooled in love  —— the heart of the matter

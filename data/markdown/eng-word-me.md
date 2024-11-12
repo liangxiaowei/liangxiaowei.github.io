@@ -32,3 +32,7 @@
 -  For the first week, whenever I looked out on the pond it impressed `me` like a tarn high up on the side of a mountain, its bottom far above the surface of other lakes, and, as the sun arose, I saw it throwing off its nightly clothing of mist, and here and there, by degrees, its soft ripples or its smooth reflecting surface was revealed, while the mists, like ghosts, were stealthily withdrawing in every direction into the woods, as at the breaking up of some nocturnal conventicle —— walden
 
 -  But in other directions, even from this point, I could not see over or beyond the woods which surrounded `me` —— walden
+
+-  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
+
+-  "Yes, that's me —— the heart of the matter

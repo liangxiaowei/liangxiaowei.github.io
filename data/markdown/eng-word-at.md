@@ -19,3 +19,9 @@
 - ” I think I shall not buy greedily, but go round and round it as long as I live, and be buried in it first, that it may please me the more `at last` —— walden
 
 -  He was alone on the balcony except for one bearded Indian in a turban who had already tried to tell his fortune: this was not the hour or the day for white men — they would be at the beach five miles away, but Wilson had no car —— the heart of the matter
+
+-  The Golden Treasury accompanied him wherever he went, but it was taken at night in small doses — a finger of Longfellow, Macauiay, Mangan: Go on to tell how, with genius wasted, Betrayed in friendship, befooled in love  —— the heart of the matter
+
+-  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
+
+- " "You're the new accountant at the U —— the heart of the matter

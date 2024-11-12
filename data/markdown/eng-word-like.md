@@ -15,3 +15,9 @@
 -  When I looked across the pond from this peak toward the Sudbury meadows, which in time of flood I distinguished elevated perhaps by a mirage in their seething valley, `like` a coin in a basin, all the earth beyond the pond appeared `like` a thin crust insulated and floated even by this small sheet of interverting water, and I was reminded that this on which I dwelt was but dry land —— walden
 
 -  He was like the lagging finger of the barometer, still pointing to Fair long after its companion had moved to Stormy —— the heart of the matter
+
+-  The boys' refrain came faintly up to Wilson like a nursery rhyme: "Captain want jig jig, my sister pretty girl schoolteacher, captain want jig jig —— the heart of the matter
+
+-  Wilson liked poetry, but he absorbed it secretly like a drug —— the heart of the matter
+
+-  He wanted passionately to be indistinguishable on the surface from other men: he wore his moustache like a club tie — it was his highest common factor: but his eyes betrayed him — brown dog's eyes, a setter's eyes, pointing mournfully towards Bond Street —— the heart of the matter

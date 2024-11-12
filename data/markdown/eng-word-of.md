@@ -81,3 +81,9 @@
 -  Below him the black clerks moved churchward, but their wives in brilliant afternoon dresses of blue and cerise aroused no interest in Wilson —— the heart of the matter
 
 -  On either side of the school the tin roofs sloped towards the sea, and the corrugated iron above his head clanged and clattered as a vulture alighted —— the heart of the matter
+
+- " The bearded Indian frowned over intricate calculations on the back of an envelope — a horoscope, the cost of living? When Wilson looked down into the street again the officers had fought their way free, and the schoolboys had swarmed again round a single able-seaman; they led him triumphantly away towards the brothel near the police station, as though to the nursery —— the heart of the matter
+
+-  The Golden Treasury accompanied him wherever he went, but it was taken at night in small doses — a finger of Longfellow, Macauiay, Mangan: Go on to tell how, with genius wasted, Betrayed in friendship, befooled in love  —— the heart of the matter
+
+-  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
