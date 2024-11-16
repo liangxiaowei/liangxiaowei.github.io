@@ -85,3 +85,21 @@
 -  When `I` looked across the pond from this peak toward the Sudbury meadows, which in time of flood `I` distinguished elevated perhaps by a mirage in their seething valley, like a coin in a basin, all the earth beyond the pond appeared like a thin crust insulated and floated even by this small sheet of interverting water, and `I` was reminded that this on which `I` dwelt was but dry land —— walden
 
 - " "May I join you? My name's Harris —— the heart of the matter
+
+-  Have a drink?" "I'll have a lemon squash if you don't mind —— the heart of the matter
+
+-  I'm a cable censor," Harris said —— the heart of the matter
+
+- " "I can see from here, Mr —— the heart of the matter
+
+-  I suppose it's the only private room available —— the heart of the matter
+
+-  I never thought of asking why —— the heart of the matter
+
+-  But when I do get home you'll never see me here again —— the heart of the matter
+
+- " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter
+
+-  I hate the people —— the heart of the matter
+
+-  I hate the bloody niggers —— the heart of the matter

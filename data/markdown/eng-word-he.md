@@ -46,3 +46,11 @@
 -  He wanted passionately to be indistinguishable on the surface from other men: he wore his moustache like a club tie — it was his highest common factor: but his eyes betrayed him — brown dog's eyes, a setter's eyes, pointing mournfully towards Bond Street —— the heart of the matter
 
 -  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
+
+-  Perhaps he would like to read my letters of recommendation  —— the heart of the matter
+
+-  "He always tells fortunes there —— the heart of the matter
+
+-  He said, "The ships all go the wrong way —— the heart of the matter
+
+- " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter

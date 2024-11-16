@@ -73,3 +73,7 @@
 -  A black boy brought Wilson's gin and he sipped it very slowly because he had nothing else to do except to return to his hot and squalid room and read a novel — or a poem —— the heart of the matter
 
 -  For public exhibition he had his Wallace —— the heart of the matter
+
+-  Have a drink?" "I'll have a lemon squash if you don't mind —— the heart of the matter
+
+-  Harris, that your fortune has changed considerably —— the heart of the matter

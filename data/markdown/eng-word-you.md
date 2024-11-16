@@ -15,3 +15,19 @@
 - " "May I join you? My name's Harris —— the heart of the matter
 
 - " "You're the new accountant at the U —— the heart of the matter
+
+-  Have a drink?" "I'll have a lemon squash if you don't mind —— the heart of the matter
+
+-  "You remember me, Mr —— the heart of the matter
+
+-  Perhaps you would tell your friend, Mr —— the heart of the matter
+
+-  Beat it, you old scoundrel," Harris said —— the heart of the matter
+
+-  "How did you know my name?" Wilson asked —— the heart of the matter
+
+-  If you would step with me for a moment into the bathroom  —— the heart of the matter
+
+-  But when I do get home you'll never see me here again —— the heart of the matter
+
+-  Mustn't call 'em that, you know —— the heart of the matter

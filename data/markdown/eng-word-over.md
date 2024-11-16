@@ -11,3 +11,7 @@
 -  But in other directions, even from this point, I could not see `over` or beyond the woods which surrounded me —— walden
 
 - " The bearded Indian frowned over intricate calculations on the back of an envelope — a horoscope, the cost of living? When Wilson looked down into the street again the officers had fought their way free, and the schoolboys had swarmed again round a single able-seaman; they led him triumphantly away towards the brothel near the police station, as though to the nursery —— the heart of the matter
+
+- " "Going home soon?" Harris stared over the tin roofs towards the harbour —— the heart of the matter
+
+- " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter

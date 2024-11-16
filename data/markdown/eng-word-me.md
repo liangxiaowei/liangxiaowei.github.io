@@ -36,3 +36,11 @@
 -  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
 
 -  "Yes, that's me —— the heart of the matter
+
+- "That's me —— the heart of the matter
+
+-  "You remember me, Mr —— the heart of the matter
+
+-  If you would step with me for a moment into the bathroom  —— the heart of the matter
+
+-  But when I do get home you'll never see me here again —— the heart of the matter

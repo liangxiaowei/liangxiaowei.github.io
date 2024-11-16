@@ -15,3 +15,9 @@
 -  But in other directions, even from this point, I could not `see` over or beyond the woods which surrounded me —— walden
 
 -  One value even of the smallest well is, that when you look into it you `see` that earth is not continent but insular —— walden
+
+-  "Saw it on a cable —— the heart of the matter
+
+- " "I can see from here, Mr —— the heart of the matter
+
+-  But when I do get home you'll never see me here again —— the heart of the matter

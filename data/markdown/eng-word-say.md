@@ -19,3 +19,11 @@
 -  The Harivansa `says`, “An abode without birds is like a meat without seasoning —— walden
 
 -  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
+
+-  Beat it, you old scoundrel," Harris said —— the heart of the matter
+
+-  I'm a cable censor," Harris said —— the heart of the matter
+
+-  He said, "The ships all go the wrong way —— the heart of the matter
+
+- " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter

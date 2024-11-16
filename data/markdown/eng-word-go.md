@@ -113,3 +113,9 @@ I go there, too.
 -  I did not need to `go` outdoors to take the air, for the atmosphere within had lost none of its freshness —— walden
 
 -  The Golden Treasury accompanied him wherever he went, but it was taken at night in small doses — a finger of Longfellow, Macauiay, Mangan: Go on to tell how, with genius wasted, Betrayed in friendship, befooled in love  —— the heart of the matter
+
+- " "Go off —— the heart of the matter
+
+- " "Going home soon?" Harris stared over the tin roofs towards the harbour —— the heart of the matter
+
+-  He said, "The ships all go the wrong way —— the heart of the matter

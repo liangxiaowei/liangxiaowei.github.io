@@ -161,3 +161,15 @@
 -  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
 
 - A —— the heart of the matter
+
+-  Have a drink?" "I'll have a lemon squash if you don't mind —— the heart of the matter
+
+-  "Saw it on a cable —— the heart of the matter
+
+-  I'm a cable censor," Harris said —— the heart of the matter
+
+-  "What a job —— the heart of the matter
+
+-  What a place —— the heart of the matter
+
+-  If you would step with me for a moment into the bathroom  —— the heart of the matter

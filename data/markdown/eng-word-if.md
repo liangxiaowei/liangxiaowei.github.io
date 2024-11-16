@@ -13,3 +13,7 @@
 -  As I have said, I do not propose to write an ode to dejection, but to brag as lustily as chanticleer in the morning, standing on his roost, `if` only to wake my neighbors up —— walden
 
 - The only house I had been the owner of before, `if` I except a boat, was a tent, which I used occasionally when making excursions in the summer, and this is still rolled up in my garret; but the boat, after passing from hand to hand, has gone down the stream of time —— walden
+
+-  Have a drink?" "I'll have a lemon squash if you don't mind —— the heart of the matter
+
+-  If you would step with me for a moment into the bathroom  —— the heart of the matter

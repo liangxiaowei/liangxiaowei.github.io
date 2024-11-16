@@ -27,3 +27,9 @@
 -  The Golden Treasury accompanied him wherever he went, but it was taken at night in small doses — a finger of Longfellow, Macauiay, Mangan: Go on to tell how, with genius wasted, Betrayed in friendship, befooled in love  —— the heart of the matter
 
 -  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
+
+- " The Indian rose from his table and approached with deference —— the heart of the matter
+
+-  If you would step with me for a moment into the bathroom  —— the heart of the matter
+
+- " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter

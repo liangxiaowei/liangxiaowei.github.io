@@ -75,3 +75,7 @@
 -  His pallor showed how recently he had emerged from it into the port: so did his lack of interest in the schoolgirls opposite —— the heart of the matter
 
 -  A black boy brought Wilson's gin and he sipped it very slowly because he had nothing else to do except to return to his hot and squalid room and read a novel — or a poem —— the heart of the matter
+
+-  "How did you know my name?" Wilson asked —— the heart of the matter
+
+-  But when I do get home you'll never see me here again —— the heart of the matter

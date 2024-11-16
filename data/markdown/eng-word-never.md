@@ -9,3 +9,7 @@
 -  I was not only nearer to some of those which commonly frequent the garden and the orchard, but to those smaller and more thrilling songsters of the forest which `never`, or rarely, serenade a villager﻿—the wood thrush, the veery, the scarlet tanager, the field sparrow, the whip-poor-will, and many others —— walden
 
 -  A lake like this is `never` smoother than at such a time; and the clear portion of the air above it being shallow and darkened by clouds, the water, full of light and reflections, becomes a lower heaven itself so much the more important —— walden
+
+-  I never thought of asking why —— the heart of the matter
+
+-  But when I do get home you'll never see me here again —— the heart of the matter

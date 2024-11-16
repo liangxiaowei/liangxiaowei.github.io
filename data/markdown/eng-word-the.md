@@ -135,3 +135,27 @@
 -  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
 
 - " "You're the new accountant at the U —— the heart of the matter
+
+-  Can't drink in the middle of the day —— the heart of the matter
+
+- " The Indian rose from his table and approached with deference —— the heart of the matter
+
+- " The grubby sheaf of envelopes was always in his hand —— the heart of the matter
+
+-  "The leaders of society —— the heart of the matter
+
+-  If you would step with me for a moment into the bathroom  —— the heart of the matter
+
+- " "Why the bathroom?" Wilson asked —— the heart of the matter
+
+-  I suppose it's the only private room available —— the heart of the matter
+
+- " "Going home soon?" Harris stared over the tin roofs towards the harbour —— the heart of the matter
+
+-  He said, "The ships all go the wrong way —— the heart of the matter
+
+- " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter
+
+-  I hate the people —— the heart of the matter
+
+-  I hate the bloody niggers —— the heart of the matter

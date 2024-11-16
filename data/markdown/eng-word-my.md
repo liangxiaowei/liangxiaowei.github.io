@@ -49,3 +49,9 @@
 -  The boys' refrain came faintly up to Wilson like a nursery rhyme: "Captain want jig jig, my sister pretty girl schoolteacher, captain want jig jig —— the heart of the matter
 
 - " "May I join you? My name's Harris —— the heart of the matter
+
+-  Harris, of my talents —— the heart of the matter
+
+-  Perhaps he would like to read my letters of recommendation  —— the heart of the matter
+
+-  "How did you know my name?" Wilson asked —— the heart of the matter

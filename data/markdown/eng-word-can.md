@@ -16,3 +16,7 @@
 -  Indeed, by standing on tiptoe I `could` catch a glimpse of some of the peaks of the still bluer and more distant mountain ranges in the northwest, those true-blue coins from heaven’s own mint, and also of some portion of the village —— walden
 
 -  But in other directions, even from this point, I `could` not see over or beyond the woods which surrounded me —— walden
+
+-  Can't drink in the middle of the day —— the heart of the matter
+
+- " "I can see from here, Mr —— the heart of the matter

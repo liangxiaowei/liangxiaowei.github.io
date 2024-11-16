@@ -73,3 +73,7 @@
 - " The bearded Indian frowned over intricate calculations on the back of an envelope — a horoscope, the cost of living? When Wilson looked down into the street again the officers had fought their way free, and the schoolboys had swarmed again round a single able-seaman; they led him triumphantly away towards the brothel near the police station, as though to the nursery —— the heart of the matter
 
 -  A black boy brought Wilson's gin and he sipped it very slowly because he had nothing else to do except to return to his hot and squalid room and read a novel — or a poem —— the heart of the matter
+
+- " The Indian rose from his table and approached with deference —— the heart of the matter
+
+- " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter

@@ -31,3 +31,9 @@
 -  For public exhibition he had his Wallace —— the heart of the matter
 
 -  He wanted passionately to be indistinguishable on the surface from other men: he wore his moustache like a club tie — it was his highest common factor: but his eyes betrayed him — brown dog's eyes, a setter's eyes, pointing mournfully towards Bond Street —— the heart of the matter
+
+- " The Indian rose from his table and approached with deference —— the heart of the matter
+
+- " The grubby sheaf of envelopes was always in his hand —— the heart of the matter
+
+- " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter

@@ -9,3 +9,5 @@
 - ” I think I shall not buy greedily, but go round and round it as `long` as I live, and be buried in it first, that it may please me the more at last —— walden
 
 -  He was like the lagging finger of the barometer, still pointing to Fair long after its companion had moved to Stormy —— the heart of the matter
+
+- " "Been here long?" "Eighteen bloody months —— the heart of the matter
