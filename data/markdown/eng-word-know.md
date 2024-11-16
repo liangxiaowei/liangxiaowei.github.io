@@ -13,3 +13,9 @@
 -  "How did you know my name?" Wilson asked —— the heart of the matter
 
 -  Mustn't call 'em that, you know —— the heart of the matter
+
+-  A lost thing will they never find — you know the poem —— the heart of the matter
+
+-  "Probably in the pay of the Syrians too, if the truth were known —— the heart of the matter
+
+-  You know the kind of thing — poems on exile by aircraftsmen, water-colours by stokers, poker-work from the mission schools —— the heart of the matter

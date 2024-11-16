@@ -119,3 +119,5 @@ I go there, too.
 - " "Going home soon?" Harris stared over the tin roofs towards the harbour —— the heart of the matter
 
 -  He said, "The ships all go the wrong way —— the heart of the matter
+
+-  Scobie stopped and had a word with a black man in a white panama: a black policeman passed by, saluting smartly, Scobie went on —— the heart of the matter

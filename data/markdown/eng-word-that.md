@@ -51,3 +51,15 @@
 -  Harris, that your fortune has changed considerably —— the heart of the matter
 
 -  Mustn't call 'em that, you know —— the heart of the matter
+
+-  He's a real nigger — but these, look at 'em, look at that one with a feather boa down there —— the heart of the matter
+
+-  He looked without interest in obedience to a stranger's direction, and it seemed to him that no particular interest attached to the squat grey-haired man walking alone up Bond Street —— the heart of the matter
+
+-  He couldn't tell that this was one of those occasions a man never forgets: a small cicatrice had been made on the memory, a wound that would ache whenever certain things combined — the taste of gin at midday, the smell of flowers under a balcony, the clang of corrugated iron, an ugly bird flopping from perch to perch —— the heart of the matter
+
+- " "Is that the police uniform?" "It is —— the heart of the matter
+
+- '* "I suppose there's a lot of that —— the heart of the matter
+
+-  Perhaps if I had a wife like that, I'd sleep with niggers too —— the heart of the matter

@@ -173,3 +173,29 @@
 -  What a place —— the heart of the matter
 
 -  If you would step with me for a moment into the bathroom  —— the heart of the matter
+
+- " "A man's boy's always all right —— the heart of the matter
+
+-  He's a real nigger — but these, look at 'em, look at that one with a feather boa down there —— the heart of the matter
+
+-  I haven't anything to say against a real nigger, God made our colours —— the heart of the matter
+
+- " A vulture flapped and shifted on the iron roof and Wilson looked at Scobie —— the heart of the matter
+
+-  He looked without interest in obedience to a stranger's direction, and it seemed to him that no particular interest attached to the squat grey-haired man walking alone up Bond Street —— the heart of the matter
+
+-  He couldn't tell that this was one of those occasions a man never forgets: a small cicatrice had been made on the memory, a wound that would ache whenever certain things combined — the taste of gin at midday, the smell of flowers under a balcony, the clang of corrugated iron, an ugly bird flopping from perch to perch —— the heart of the matter
+
+-  A lost thing will they never find — you know the poem —— the heart of the matter
+
+-  Scobie stopped and had a word with a black man in a white panama: a black policeman passed by, saluting smartly, Scobie went on —— the heart of the matter
+
+- '* "I suppose there's a lot of that —— the heart of the matter
+
+- " "The Germans pay a high price/' "Hasn't he got a wife here?0 "Who? Oh, Scobie —— the heart of the matter
+
+-  He's got a wife —— the heart of the matter
+
+-  Perhaps if I had a wife like that, I'd sleep with niggers too —— the heart of the matter
+
+-  Got up an exhibition of arts for the shipwrecked seamen —— the heart of the matter

@@ -7,3 +7,5 @@
 -  Perhaps you would tell your friend, Mr —— the heart of the matter
 
 -  Perhaps he would like to read my letters of recommendation  —— the heart of the matter
+
+-  Perhaps if I had a wife like that, I'd sleep with niggers too —— the heart of the matter

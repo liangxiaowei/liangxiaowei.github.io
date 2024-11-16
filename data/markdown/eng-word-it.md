@@ -81,3 +81,9 @@
 - " "Beat it, Gunga Din —— the heart of the matter
 
 -  I suppose it's the only private room available —— the heart of the matter
+
+- It's all right up in the Protectorate —— the heart of the matter
+
+-  He looked without interest in obedience to a stranger's direction, and it seemed to him that no particular interest attached to the squat grey-haired man walking alone up Bond Street —— the heart of the matter
+
+- " "Is that the police uniform?" "It is —— the heart of the matter

@@ -77,3 +77,11 @@
 -  Have a drink?" "I'll have a lemon squash if you don't mind —— the heart of the matter
 
 -  Harris, that your fortune has changed considerably —— the heart of the matter
+
+-  He couldn't tell that this was one of those occasions a man never forgets: a small cicatrice had been made on the memory, a wound that would ache whenever certain things combined — the taste of gin at midday, the smell of flowers under a balcony, the clang of corrugated iron, an ugly bird flopping from perch to perch —— the heart of the matter
+
+-  Scobie stopped and had a word with a black man in a white panama: a black policeman passed by, saluting smartly, Scobie went on —— the heart of the matter
+
+-  Perhaps if I had a wife like that, I'd sleep with niggers too —— the heart of the matter
+
+-  Have another gin?" "I think I will," said Wilson —— the heart of the matter

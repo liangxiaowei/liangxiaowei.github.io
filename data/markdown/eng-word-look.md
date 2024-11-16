@@ -17,3 +17,11 @@
 - " The bearded Indian frowned over intricate calculations on the back of an envelope — a horoscope, the cost of living? When Wilson looked down into the street again the officers had fought their way free, and the schoolboys had swarmed again round a single able-seaman; they led him triumphantly away towards the brothel near the police station, as though to the nursery —— the heart of the matter
 
 -  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
+
+-  He's a real nigger — but these, look at 'em, look at that one with a feather boa down there —— the heart of the matter
+
+-  Look down there," Harris said, 'look at Scobie —— the heart of the matter
+
+- " A vulture flapped and shifted on the iron roof and Wilson looked at Scobie —— the heart of the matter
+
+-  He looked without interest in obedience to a stranger's direction, and it seemed to him that no particular interest attached to the squat grey-haired man walking alone up Bond Street —— the heart of the matter

@@ -62,3 +62,9 @@ Go `there`, please.
 -  Sitting there, facing Bond Street, he had his face turned to the sea —— the heart of the matter
 
 -  "He always tells fortunes there —— the heart of the matter
+
+-  He's a real nigger — but these, look at 'em, look at that one with a feather boa down there —— the heart of the matter
+
+-  Look down there," Harris said, 'look at Scobie —— the heart of the matter
+
+- '* "I suppose there's a lot of that —— the heart of the matter

@@ -31,3 +31,7 @@
 - " The Indian rose from his table and approached with deference —— the heart of the matter
 
 - " "I can see from here, Mr —— the heart of the matter
+
+-  He couldn't tell that this was one of those occasions a man never forgets: a small cicatrice had been made on the memory, a wound that would ache whenever certain things combined — the taste of gin at midday, the smell of flowers under a balcony, the clang of corrugated iron, an ugly bird flopping from perch to perch —— the heart of the matter
+
+-  You know the kind of thing — poems on exile by aircraftsmen, water-colours by stokers, poker-work from the mission schools —— the heart of the matter

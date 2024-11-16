@@ -103,3 +103,13 @@
 -  I hate the people —— the heart of the matter
 
 -  I hate the bloody niggers —— the heart of the matter
+
+-  I haven't anything to say against a real nigger, God made our colours —— the heart of the matter
+
+- " "I don't read poetry," Wilson said —— the heart of the matter
+
+- '* "I suppose there's a lot of that —— the heart of the matter
+
+-  Perhaps if I had a wife like that, I'd sleep with niggers too —— the heart of the matter
+
+-  Have another gin?" "I think I will," said Wilson —— the heart of the matter

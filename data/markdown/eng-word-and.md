@@ -77,3 +77,13 @@
 - " The Indian rose from his table and approached with deference —— the heart of the matter
 
 - " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter
+
+-  Just West Indians, and they rule the coast —— the heart of the matter
+
+- " A vulture flapped and shifted on the iron roof and Wilson looked at Scobie —— the heart of the matter
+
+-  He looked without interest in obedience to a stranger's direction, and it seemed to him that no particular interest attached to the squat grey-haired man walking alone up Bond Street —— the heart of the matter
+
+-  Scobie stopped and had a word with a black man in a white panama: a black policeman passed by, saluting smartly, Scobie went on —— the heart of the matter
+
+-  They run all the stores up-country and most of the stores here —— the heart of the matter

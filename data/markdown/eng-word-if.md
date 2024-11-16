@@ -17,3 +17,7 @@
 -  Have a drink?" "I'll have a lemon squash if you don't mind —— the heart of the matter
 
 -  If you would step with me for a moment into the bathroom  —— the heart of the matter
+
+-  "Probably in the pay of the Syrians too, if the truth were known —— the heart of the matter
+
+-  Perhaps if I had a wife like that, I'd sleep with niggers too —— the heart of the matter

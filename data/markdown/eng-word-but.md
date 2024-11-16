@@ -65,3 +65,7 @@
 -  He wanted passionately to be indistinguishable on the surface from other men: he wore his moustache like a club tie — it was his highest common factor: but his eyes betrayed him — brown dog's eyes, a setter's eyes, pointing mournfully towards Bond Street —— the heart of the matter
 
 -  But when I do get home you'll never see me here again —— the heart of the matter
+
+-  He's a real nigger — but these, look at 'em, look at that one with a feather boa down there —— the heart of the matter
+
+-  But these — my God —— the heart of the matter

@@ -37,3 +37,5 @@
 - " The grubby sheaf of envelopes was always in his hand —— the heart of the matter
 
 - " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter
+
+-  His eyes followed Scobie up the sun-drowned street —— the heart of the matter

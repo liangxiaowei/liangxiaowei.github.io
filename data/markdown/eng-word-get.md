@@ -13,3 +13,9 @@
 - Old Cato, whose De Re Rustica is my Cultivator , says﻿—and the only translation I have seen makes sheer nonsense of the passage﻿—“When you think of `getting` a farm turn it thus in your mind, not to buy greedily; nor spare your pains to look at it, and do not think it enough to go round it once —— walden
 
 -  But when I do get home you'll never see me here again —— the heart of the matter
+
+- " "The Germans pay a high price/' "Hasn't he got a wife here?0 "Who? Oh, Scobie —— the heart of the matter
+
+-  He's got a wife —— the heart of the matter
+
+-  Got up an exhibition of arts for the shipwrecked seamen —— the heart of the matter

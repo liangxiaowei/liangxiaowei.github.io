@@ -15,3 +15,5 @@
 -  A lake like this is never smoother than at such a time; and the clear portion of the air above it being shallow and darkened by clouds, the water, full of light and reflections, becomes a lower heaven itself `so` much the more important —— walden
 
 -  His pallor showed how recently he had emerged from it into the port: so did his lack of interest in the schoolgirls opposite —— the heart of the matter
+
+-  "He loves 'em so much/' Harris said, "he sleeps with 'em —— the heart of the matter

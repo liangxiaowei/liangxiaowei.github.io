@@ -29,3 +29,7 @@
 -  One value even of the smallest well `is`, that when you look into it you see that earth `is` not continent but insular —— walden
 
 -  This `is` as important as that it keeps butter cool —— walden
+
+- " "Is that the police uniform?" "It is —— the heart of the matter
+
+- " "The Syrians?" "This is the original Tower of Babel," Harris said —— the heart of the matter

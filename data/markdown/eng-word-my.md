@@ -55,3 +55,9 @@
 -  Perhaps he would like to read my letters of recommendation  —— the heart of the matter
 
 -  "How did you know my name?" Wilson asked —— the heart of the matter
+
+- "My boy seems all right —— the heart of the matter
+
+-  Clerks in the stores, city council,magistrates, lawyers — my God —— the heart of the matter
+
+-  But these — my God —— the heart of the matter

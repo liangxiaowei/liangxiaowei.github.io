@@ -75,3 +75,15 @@
 -  Can't drink in the middle of the day —— the heart of the matter
 
 - " The grubby sheaf of envelopes was always in his hand —— the heart of the matter
+
+-  Clerks in the stores, city council,magistrates, lawyers — my God —— the heart of the matter
+
+- It's all right up in the Protectorate —— the heart of the matter
+
+-  He looked without interest in obedience to a stranger's direction, and it seemed to him that no particular interest attached to the squat grey-haired man walking alone up Bond Street —— the heart of the matter
+
+-  Scobie stopped and had a word with a black man in a white panama: a black policeman passed by, saluting smartly, Scobie went on —— the heart of the matter
+
+-  "Probably in the pay of the Syrians too, if the truth were known —— the heart of the matter
+
+-  "West Indians, Africans, real Indians, Syrians, Englishmen, Scotsmen in the Office of Works —— the heart of the matter

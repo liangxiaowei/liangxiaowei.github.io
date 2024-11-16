@@ -37,3 +37,9 @@ You sit down, `too`, please.
 -  I discovered many a site for a house not likely to be soon improved, which some might have thought `too` far from the village, but to my eyes the village was `too` far from it —— walden
 
 -  However, I let him keep the ten dollars and the farm `too`, for I had carried it far enough; or rather, to be generous, I sold him the farm for just what I gave for it, and, as he was not a rich man, made him a present of ten dollars, and still had my ten cents, and seeds, and materials for a wheelbarrow left —— walden
+
+-  "Probably in the pay of the Syrians too, if the truth were known —— the heart of the matter
+
+-  Run diamonds too —— the heart of the matter
+
+-  Perhaps if I had a wife like that, I'd sleep with niggers too —— the heart of the matter

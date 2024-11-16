@@ -7,3 +7,7 @@
 - " The bearded Indian frowned over intricate calculations on the back of an envelope — a horoscope, the cost of living? When Wilson looked down into the street again the officers had fought their way free, and the schoolboys had swarmed again round a single able-seaman; they led him triumphantly away towards the brothel near the police station, as though to the nursery —— the heart of the matter
 
 - " The Indian rose from his table and approached with deference —— the heart of the matter
+
+-  Just West Indians, and they rule the coast —— the heart of the matter
+
+-  "West Indians, Africans, real Indians, Syrians, Englishmen, Scotsmen in the Office of Works —— the heart of the matter

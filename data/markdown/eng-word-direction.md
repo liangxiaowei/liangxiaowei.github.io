@@ -7,3 +7,5 @@
 -  From a hilltop near by, where the wood had been recently cut off, there was a pleasing vista southward across the pond, through a wide indentation in the hills which form the shore there, where their opposite sides sloping toward each other suggested a stream flowing out in that `direction` through a wooded valley, but stream there was none —— walden
 
 -  But in other `directions`, even from this point, I could not see over or beyond the woods which surrounded me —— walden
+
+-  He looked without interest in obedience to a stranger's direction, and it seemed to him that no particular interest attached to the squat grey-haired man walking alone up Bond Street —— the heart of the matter

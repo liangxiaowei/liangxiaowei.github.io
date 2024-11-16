@@ -9,3 +9,5 @@
 -  Below him the black clerks moved churchward, but their wives in brilliant afternoon dresses of blue and cerise aroused no interest in Wilson —— the heart of the matter
 
 -  He was alone on the balcony except for one bearded Indian in a turban who had already tried to tell his fortune: this was not the hour or the day for white men — they would be at the beach five miles away, but Wilson had no car —— the heart of the matter
+
+-  He looked without interest in obedience to a stranger's direction, and it seemed to him that no particular interest attached to the squat grey-haired man walking alone up Bond Street —— the heart of the matter

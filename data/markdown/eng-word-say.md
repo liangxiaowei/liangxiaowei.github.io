@@ -27,3 +27,15 @@
 -  He said, "The ships all go the wrong way —— the heart of the matter
 
 - " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter
+
+-  I haven't anything to say against a real nigger, God made our colours —— the heart of the matter
+
+-  Look down there," Harris said, 'look at Scobie —— the heart of the matter
+
+-  "He loves 'em so much/' Harris said, "he sleeps with 'em —— the heart of the matter
+
+- " "I don't read poetry," Wilson said —— the heart of the matter
+
+- " "The Syrians?" "This is the original Tower of Babel," Harris said —— the heart of the matter
+
+-  Have another gin?" "I think I will," said Wilson —— the heart of the matter

@@ -99,3 +99,23 @@
 -  "The leaders of society —— the heart of the matter
 
 -  I never thought of asking why —— the heart of the matter
+
+-  The Government's afraid of them —— the heart of the matter
+
+-  The police are afraid of them —— the heart of the matter
+
+-  He couldn't tell that this was one of those occasions a man never forgets: a small cicatrice had been made on the memory, a wound that would ache whenever certain things combined — the taste of gin at midday, the smell of flowers under a balcony, the clang of corrugated iron, an ugly bird flopping from perch to perch —— the heart of the matter
+
+-  "Probably in the pay of the Syrians too, if the truth were known —— the heart of the matter
+
+- " "The Syrians?" "This is the original Tower of Babel," Harris said —— the heart of the matter
+
+-  "West Indians, Africans, real Indians, Syrians, Englishmen, Scotsmen in the Office of Works —— the heart of the matter
+
+-  They run all the stores up-country and most of the stores here —— the heart of the matter
+
+- '* "I suppose there's a lot of that —— the heart of the matter
+
+-  Got up an exhibition of arts for the shipwrecked seamen —— the heart of the matter
+
+-  You know the kind of thing — poems on exile by aircraftsmen, water-colours by stokers, poker-work from the mission schools —— the heart of the matter

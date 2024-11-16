@@ -27,3 +27,7 @@
 -  When I looked across the pond from this peak toward the Sudbury meadows, which in time of flood I distinguished elevated perhaps `by` a mirage in their seething valley, like a coin in a basin, all the earth beyond the pond appeared like a thin crust insulated and floated even `by` this small sheet of interverting water, and I was reminded that this on which I dwelt was but dry land —— walden
 
 -  They were surrounded immediately by small boys wearing school caps —— the heart of the matter
+
+-  Scobie stopped and had a word with a black man in a white panama: a black policeman passed by, saluting smartly, Scobie went on —— the heart of the matter
+
+-  You know the kind of thing — poems on exile by aircraftsmen, water-colours by stokers, poker-work from the mission schools —— the heart of the matter

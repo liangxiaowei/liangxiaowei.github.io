@@ -17,3 +17,9 @@
 - The only house I had been the owner of before, if I except a boat, was a tent, which I used occasionally when `making` excursions in the summer, and this is still rolled up in my garret; but the boat, after passing from hand to hand, has gone down the stream of time —— walden
 
 -  With this more substantial shelter about me, I had `made` some progress toward settling in the world —— walden
+
+-  I haven't anything to say against a real nigger, God made our colours —— the heart of the matter
+
+-  He couldn't tell that this was one of those occasions a man never forgets: a small cicatrice had been made on the memory, a wound that would ache whenever certain things combined — the taste of gin at midday, the smell of flowers under a balcony, the clang of corrugated iron, an ugly bird flopping from perch to perch —— the heart of the matter
+
+- "Make money —— the heart of the matter

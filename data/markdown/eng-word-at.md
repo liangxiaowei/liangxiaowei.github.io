@@ -25,3 +25,11 @@
 -  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
 
 - " "You're the new accountant at the U —— the heart of the matter
+
+-  He's a real nigger — but these, look at 'em, look at that one with a feather boa down there —— the heart of the matter
+
+-  Look down there," Harris said, 'look at Scobie —— the heart of the matter
+
+- " A vulture flapped and shifted on the iron roof and Wilson looked at Scobie —— the heart of the matter
+
+-  He couldn't tell that this was one of those occasions a man never forgets: a small cicatrice had been made on the memory, a wound that would ache whenever certain things combined — the taste of gin at midday, the smell of flowers under a balcony, the clang of corrugated iron, an ugly bird flopping from perch to perch —— the heart of the matter

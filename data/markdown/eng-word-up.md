@@ -19,3 +19,11 @@
 -  The boys' refrain came faintly up to Wilson like a nursery rhyme: "Captain want jig jig, my sister pretty girl schoolteacher, captain want jig jig —— the heart of the matter
 
 -  "Excuse me," a voice said, "aren't you Wilson?1' He looked up at a middle-aged man in the inevitable khaki shorts with a drawn face the colour of hay —— the heart of the matter
+
+- It's all right up in the Protectorate —— the heart of the matter
+
+-  He looked without interest in obedience to a stranger's direction, and it seemed to him that no particular interest attached to the squat grey-haired man walking alone up Bond Street —— the heart of the matter
+
+-  His eyes followed Scobie up the sun-drowned street —— the heart of the matter
+
+-  Got up an exhibition of arts for the shipwrecked seamen —— the heart of the matter

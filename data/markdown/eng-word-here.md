@@ -43,3 +43,7 @@ Sit down `here`, please.
 - " "Been here long?" "Eighteen bloody months —— the heart of the matter
 
 -  But when I do get home you'll never see me here again —— the heart of the matter
+
+-  They run all the stores up-country and most of the stores here —— the heart of the matter
+
+- " "The Germans pay a high price/' "Hasn't he got a wife here?0 "Who? Oh, Scobie —— the heart of the matter

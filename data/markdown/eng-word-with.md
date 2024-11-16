@@ -33,3 +33,11 @@
 -  If you would step with me for a moment into the bathroom  —— the heart of the matter
 
 - " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter
+
+-  He's a real nigger — but these, look at 'em, look at that one with a feather boa down there —— the heart of the matter
+
+-  "He loves 'em so much/' Harris said, "he sleeps with 'em —— the heart of the matter
+
+-  Scobie stopped and had a word with a black man in a white panama: a black policeman passed by, saluting smartly, Scobie went on —— the heart of the matter
+
+-  Perhaps if I had a wife like that, I'd sleep with niggers too —— the heart of the matter

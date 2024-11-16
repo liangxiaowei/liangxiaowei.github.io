@@ -54,3 +54,15 @@
 -  He said, "The ships all go the wrong way —— the heart of the matter
 
 - " He lowered his voice and said with venom over his lemon squash, "I hate the place —— the heart of the matter
+
+-  He's a real nigger — but these, look at 'em, look at that one with a feather boa down there —— the heart of the matter
+
+-  He looked without interest in obedience to a stranger's direction, and it seemed to him that no particular interest attached to the squat grey-haired man walking alone up Bond Street —— the heart of the matter
+
+-  He couldn't tell that this was one of those occasions a man never forgets: a small cicatrice had been made on the memory, a wound that would ache whenever certain things combined — the taste of gin at midday, the smell of flowers under a balcony, the clang of corrugated iron, an ugly bird flopping from perch to perch —— the heart of the matter
+
+-  "He loves 'em so much/' Harris said, "he sleeps with 'em —— the heart of the matter
+
+- " "The Germans pay a high price/' "Hasn't he got a wife here?0 "Who? Oh, Scobie —— the heart of the matter
+
+-  He's got a wife —— the heart of the matter

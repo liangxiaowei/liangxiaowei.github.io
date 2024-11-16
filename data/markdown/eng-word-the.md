@@ -159,3 +159,43 @@
 -  I hate the people —— the heart of the matter
 
 -  I hate the bloody niggers —— the heart of the matter
+
+-  Just West Indians, and they rule the coast —— the heart of the matter
+
+-  Clerks in the stores, city council,magistrates, lawyers — my God —— the heart of the matter
+
+- It's all right up in the Protectorate —— the heart of the matter
+
+-  The Government's afraid of them —— the heart of the matter
+
+-  The police are afraid of them —— the heart of the matter
+
+- " A vulture flapped and shifted on the iron roof and Wilson looked at Scobie —— the heart of the matter
+
+-  He looked without interest in obedience to a stranger's direction, and it seemed to him that no particular interest attached to the squat grey-haired man walking alone up Bond Street —— the heart of the matter
+
+-  He couldn't tell that this was one of those occasions a man never forgets: a small cicatrice had been made on the memory, a wound that would ache whenever certain things combined — the taste of gin at midday, the smell of flowers under a balcony, the clang of corrugated iron, an ugly bird flopping from perch to perch —— the heart of the matter
+
+- " "Is that the police uniform?" "It is —— the heart of the matter
+
+-  A lost thing will they never find — you know the poem —— the heart of the matter
+
+-  His eyes followed Scobie up the sun-drowned street —— the heart of the matter
+
+-  "Probably in the pay of the Syrians too, if the truth were known —— the heart of the matter
+
+- " "The Syrians?" "This is the original Tower of Babel," Harris said —— the heart of the matter
+
+-  "West Indians, Africans, real Indians, Syrians, Englishmen, Scotsmen in the Office of Works —— the heart of the matter
+
+- " "What do the Syrians do?" —— the heart of the matter
+
+-  They run all the stores up-country and most of the stores here —— the heart of the matter
+
+- " "The Germans pay a high price/' "Hasn't he got a wife here?0 "Who? Oh, Scobie —— the heart of the matter
+
+-  She's the city intellectual —— the heart of the matter
+
+-  Got up an exhibition of arts for the shipwrecked seamen —— the heart of the matter
+
+-  You know the kind of thing — poems on exile by aircraftsmen, water-colours by stokers, poker-work from the mission schools —— the heart of the matter

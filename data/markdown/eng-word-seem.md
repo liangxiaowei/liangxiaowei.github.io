@@ -3,3 +3,5 @@
 
 
 -  The very dew `seemed` to hang upon the trees later into the day than usual, as on the sides of mountains —— walden
+
+-  He looked without interest in obedience to a stranger's direction, and it seemed to him that no particular interest attached to the squat grey-haired man walking alone up Bond Street —— the heart of the matter

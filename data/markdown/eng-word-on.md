@@ -45,3 +45,11 @@
 -  He wanted passionately to be indistinguishable on the surface from other men: he wore his moustache like a club tie — it was his highest common factor: but his eyes betrayed him — brown dog's eyes, a setter's eyes, pointing mournfully towards Bond Street —— the heart of the matter
 
 -  "Saw it on a cable —— the heart of the matter
+
+- " A vulture flapped and shifted on the iron roof and Wilson looked at Scobie —— the heart of the matter
+
+-  He couldn't tell that this was one of those occasions a man never forgets: a small cicatrice had been made on the memory, a wound that would ache whenever certain things combined — the taste of gin at midday, the smell of flowers under a balcony, the clang of corrugated iron, an ugly bird flopping from perch to perch —— the heart of the matter
+
+-  Scobie stopped and had a word with a black man in a white panama: a black policeman passed by, saluting smartly, Scobie went on —— the heart of the matter
+
+-  You know the kind of thing — poems on exile by aircraftsmen, water-colours by stokers, poker-work from the mission schools —— the heart of the matter
