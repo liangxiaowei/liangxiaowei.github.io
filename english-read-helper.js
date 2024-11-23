@@ -8,59 +8,103 @@ const dict = {}
 // const currentBook = 'walden'
 const currentBook = 'the heart of the matter'
 
-let cocaList = await fetch("/data/english/wordList.aa");
-cocaList = await cocaList.text();
-cocaList = cocaList.split("*");
-cocaList = cocaList
-  .slice(0, topN)
-  .map((e) => e.replace("\n", ""))
-  .map((e) => e.trim())
-  .filter((e) => e.length > 0)
-  .map((e) => {
-    const splitByHash = e.split("#");
-    const splitByArrow = splitByHash[0].split("<");
-    const word = splitByArrow[0];
-    let otherShape;
-    if (splitByArrow.length > 1) {
-      otherShape = splitByArrow[1].split(">")[0].split(",");
+// let cocaList = await fetch("/data/english/wordList.aa");
+// cocaList = await cocaList.text();
+// cocaList = cocaList.split("*");
+// cocaList = cocaList
+//   .slice(0, topN)
+//   .map((e) => e.replace("\n", ""))
+//   .map((e) => e.trim())
+//   .filter((e) => e.length > 0)
+//   .map((e) => {
+//     const splitByHash = e.split("#");
+//     const splitByArrow = splitByHash[0].split("<");
+//     const word = splitByArrow[0];
+//     let otherShape;
+//     if (splitByArrow.length > 1) {
+//       otherShape = splitByArrow[1].split(">")[0].split(",");
+//     }
+
+//     let pronunciation, meaning;
+//     if (splitByHash.length > 1) {
+//       const splitByLine = splitByHash[1].split("|");
+//       pronunciation = splitByLine[0];
+//       pronunciation = splitByLine[0].split("]")[0].slice(1);
+
+//       meaning = splitByLine.slice(1).join("|");
+//     }
+
+//     if (!dict[word]) {
+//       dict[word] = {
+//         word,
+//         otherShape,
+//         pronunciation,
+//         meaning,
+//       }
+//     }
+    
+//     otherShape && otherShape.forEach(e => {
+//       if (!dict[e]) {
+//         dict[e] = {
+//           word,
+//           otherShape,
+//           pronunciation,
+//           meaning,
+//         }
+//       }
+      
+//     })
+//     return {
+//       word,
+//       otherShape,
+//       pronunciation,
+//       meaning,
+//     };
+//   })
+
+let cocaList = await fetch("/data/english/dict.json");
+cocaList = await cocaList.json();
+cocaList = cocaList.filter((e) => {
+  const bnc = parseInt(e.bnc);
+  const frq = parseInt(e.frq)
+  // return (bnc > 0 &&  bnc <= 20000) || (frq > 0 &&  frq <= 20000) 
+  return true
+}).map((e) => {
+
+  const word = e.word;
+  const pronunciation = e.phonetic;
+  const meaning = e.translation;
+  const otherShape = !e.exchange ? [] : e.exchange.split('/').map(e => e.split(':')[1])
+
+  if (!dict[word]) {
+    dict[word] = {
+      word,
+      otherShape,
+      pronunciation,
+      meaning,
     }
+  }
 
-    let pronunciation, meaning;
-    if (splitByHash.length > 1) {
-      const splitByLine = splitByHash[1].split("|");
-      pronunciation = splitByLine[0];
-      pronunciation = splitByLine[0].split("]")[0].slice(1);
-
-      meaning = splitByLine.slice(1).join("|");
-    }
-
-    if (!dict[word]) {
-      dict[word] = {
+  otherShape && otherShape.forEach(e => {
+    if (!dict[e]) {
+      dict[e] = {
         word,
         otherShape,
         pronunciation,
         meaning,
       }
     }
-    
-    otherShape && otherShape.forEach(e => {
-      if (!dict[e]) {
-        dict[e] = {
-          word,
-          otherShape,
-          pronunciation,
-          meaning,
-        }
-      }
-      
-    })
-    return {
+  })
+
+  return {
       word,
       otherShape,
       pronunciation,
       meaning,
-    };
-  })
+  };
+})
+
+console.log(cocaList)
 
 const frequencies = {}
 let longman3000 = await fetch("/data/english/longman3000.json");
@@ -83,12 +127,17 @@ console.log("词本已查：", searchedWordCnt);
 
 
 
-cocaList
-  .filter((e) => e.meaning)
-  .forEach((e) => {
-    sheet.insertRule(`.vocab-${e.word} { position:relative; }`, 0);
-    sheet.insertRule(`.vocab-${e.word}::after { content: "${e.meaning}"; }`, 0);
-  });
+// cocaList
+//   .filter((e) => e.meaning)
+//   .forEach((e) => {
+//     if (e.word.indexOf('\'') > 0 || e.word.indexOf('-') > 0) {
+      
+//     } else {
+//       sheet.insertRule(`.vocab-${e.word} { position:relative; }`, 0);
+//       sheet.insertRule(`.vocab-${e.word}::after { content: "${e.meaning}"; }`, 0);
+//     }
+
+//   });
 
 let newWord = 0;
 let allWord = 0; // 本材料包含的单词总数（含重复）
@@ -312,6 +361,20 @@ body.firstElementChild.textContent = `单词本：${searchedWordCnt}，总共包
 body.children[1].addEventListener('click', chooseDirectory)
 let directoryHandle;
 
+wordSet.forEach((e) => {
+  const matchWord = dict[e.toLowerCase()];
+  const isInDict = matchWord;
+  if (isInDict) {
+    sheet.insertRule(`.vocab-${matchWord.word} { position:relative; }`, 0);
+    let meaning = matchWord.meaning.split(';')
+                          .map((e) => {
+                            let split = e.split('.')
+                            return split.length > 1 ? split[1] : split[0]
+                           }).join('')
+    sheet.insertRule(`.vocab-${matchWord.word}::after { content: "${meaning }"; }`, 0);
+  }
+});
+
 async function chooseDirectory() {
   try {
 
@@ -376,3 +439,5 @@ async function addEngWordFile(directoryHandle, word, newContent) {
   await writable.write(`${fileContent}`); 
   await writable.close();
 }
+
+
