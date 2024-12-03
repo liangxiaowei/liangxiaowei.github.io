@@ -34,6 +34,23 @@
         ]
     },
     {
+        "name": "李如一",
+        "islandList": [
+            {
+                "name": "推特",
+                "originUrl": "https://twitter.com/yitianshijieipn"
+            },
+            {
+                "name": "博客",
+                "originUrl": "https://blog.yitianshijie.net/"
+            },
+            {
+                "name": "播客",
+                "originUrl": "https://yitianshijie.net"
+            }
+        ]
+    },
+    {
         "name": "婉莹",
         "islandList": [
             {
@@ -580,15 +597,7 @@
     
    
    
-    {
-        "name": "一天世界",
-        "islandList": [
-            {
-                "name": "推特",
-                "originUrl": "https://twitter.com/yitianshijieipn"
-            }
-        ]
-    },
+
     
    
    
