@@ -32,7 +32,11 @@
 - [奇舞周刊](https://weekly.75.team/)，始于 2013
 - [Hemanth.HM](https://h3manth.com/new/blog/archives/)，始于 2013
 - [w3ctech](https://www.w3ctech.com/topic/all?page=72)，始于 2014
+- [Adrian Holovaty](https://www.holovaty.com/)，始于2002，开发 Django
 - [尤雨溪]()，1987 出生
+- https://waxy.org/about/
+- https://jonschull.blogspot.com/
+- https://a.wholelottanothing.org/archive/page/202/
 
 # 1995~2004
 - 1994年，Navigator 浏览器0.9
@@ -66,8 +70,8 @@
 - 2008 《javascript 王者归来》
 - 2008 《Javascript 语言精髓》
 - 2008 《JavaScript语言精髓与编程实践》
-- https://johnresig.com/category/blog/page/56/
-
+- https://johnresig.com/category/blog/page/52/
+- 乔恩·乌德尔 (Jon Udell)
 # 2008~2012
 - 2009 nodejs
 - 2009 angular
