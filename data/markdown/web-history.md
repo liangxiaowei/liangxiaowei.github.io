@@ -2,22 +2,48 @@
 - [Douglas Crockford](https://www.crockford.com/about.html)，1955出生，《javascript 语言精粹》
 - [Brendan Eich](https://brendaneich.com/)，发明 js，1961 出生，始于 2004 
 - [David Flanagan](https://davidflanagan.com/)，《JavaScript权威指南》
-
-- [Jeremy Keith](https://adactio.com/articles)，1971出生，始于2003，写 《JavaScript DOM编程艺术 》
+- [Matt Haughey](https://a.wholelottanothing.org/archive/page/202/)，始于2000
+- [Andy Baio](https://waxy.org/about/)，始于 2002
+- [John Battelle](https://battellemedia.com/archives)，始于2003
+- [Jeremy Keith](https://adactio.com/articles)，1971出生，始于2003，写 《JavaScript DOM编程艺术 》，[domscripting](https://domscripting.com/)
+- [Cody Lindley](https://codylindley.com/)，出了好几本书，1976 出生
+    - 2006-2 [jquery演示](https://codylindley.com/blogstuff/js/jquery/)
 - [Dean Edwrad](https://snook.ca/archives/writing/an_interview_wi), 他是最早的近乎完美解决事件绑定的兼容性大神
 - [John Resig](https://johnresig.com/category/blog/page/66/)，1984出生，始于2003，2006 开发 jquery
     - 2005 [dModeler](https://johnresig.com/apps/dmodeler/)，[开发](https://johnresig.com/blog/javascript_libraries/)
     - 2005 [webnote](http://www.aypwip.org/webnote/)
     - 2005 [DOM Snap](https://johnresig.com/projects/domsnap/)
+    - 2005-08 [Selectors in Javascript](https://johnresig.com/blog/selectors-in-javascript/)
+    - 2005-09 [Flexible Javascript Events](https://johnresig.com/blog/flexible-javascript-events/)
+    - 2005 [Sparklines](https://johnresig.com/projects/jspark/)
+    - 2005-12 [XPath and CSS Selectors](https://johnresig.com/blog/xpath-css-selectors/)
+- [Edward Tufte](https://www.edwardtufte.com/about/)，数据展示，始于2001
+- [Jon Schull](https://jonschull.blogspot.com/2004/09/greetings.html)，始于2004
+- [jjgod](https://blog.jjgod.org/page/48/)，中文 blog，始于2004
+    - [工具癖系列之 Jjgod](https://apple4us.com/2009/jjgod-setup)，李如一采访
+- [于乐](http://yulevip0.com/javascript.shtml)，老网站，网站开发者    
+- [Michael Geary](https://mg.to/taxonomy_menu/1af4d.html?page=5)，第一个jQuery插件，始于2004
+- [Peter-Paul Koch](https://www.quirksmode.org/blog/archives/2004/03/index.html)，始于 2004，[ppk javascript](https://www.quirksmode.org/js/contents.html)
 - [Scott Andrew](https://scottandrew.com/)，始于2008，创建 [The Strange Zen Of JavaScript](https://jszen.blogspot.com/2004/07/)，始于 2004
 - [Sam Stephenson]()，创建  Prototype，2005
+- [yessan](https://www.yessan.org/page/16)，中文 blog，始于2005
 - [Thomas Fuchs](https://mir.aculo.us/page/40/)，始于2005，Scriptaculous 动画，Zepto.js
+- [Juixe Techknow](https://juixe.com/techknow/index.php/page/117/)，jQuery教程，始于2005
+- [谢益辉](https://yihui.org/cn/)，始于2005
+- [kej](http://blog.kej.tw/2005/10/)，始于2005
+    - [jQuery 1.0.2](http://blog.kej.tw/2006/10/)
 - [陈贤安](https://realazy.com/)，1983左右出生，始于2005
 - [月影](https://www.zhihu.com/people/yue-ying-2-61/posts/posts_by_votes)，1982 出生，[w3](https://www.w3ctech.com/user/465?page=2)
 - [老赵](https://www.cnblogs.com/JeffreyZhao?page=16)，始于2006
+- [Paul Irish](https://www.paulirish.com/blog/archives/)，始于2006
+    - 2008 [Javascript CSS Selector Engine Timeline](https://www.paulirish.com/page/34/)
+- [啊恒](https://www.hkpug.net/post/page/10/)，始于2006
+    - [為甚麼選擇 Dojo？- 第一部份：Dojo 整體概覽](https://www.hkpug.net/2007/07/10/%E7%82%BA%E7%94%9A%E9%BA%BC%E9%81%B8%E6%93%87-dojo-%E7%AC%AC%E4%B8%80%E9%83%A8%E4%BB%BD-dojo-%E6%95%B4%E9%AB%94%E6%A6%82%E8%A6%BD/)
 - [Zach Leatherman](https://www.zachleat.com/web/)，始于2007
 - [Scott Jehl.](https://scottjehl.com/work/)，始于2008
 - [csstricks](https://css-tricks.com/category/articles/page/476/)，始于2007
+- [Joyce Babu](https://www.joycebabu.com/page/8)，始于2007
+    - 2007 [jQuery – Fast, Light-weight Javascript Library](https://www.joycebabu.com/blog/jquery-fast-light-weight-javascript-library.html)
 - [张鑫旭](https://www.zhangxinxu.com/wordpress/page/92/)，1987出生，始于2009
 - [Dave Rupert](https://daverupert.com/)，1983左右出生，始于2009
 - [勾三股四](https://jiongks.name/)，始于2009
@@ -34,10 +60,11 @@
 - [w3ctech](https://www.w3ctech.com/topic/all?page=72)，始于 2014
 - [Adrian Holovaty](https://www.holovaty.com/)，始于2002，开发 Django
 - [尤雨溪]()，1987 出生
-- https://waxy.org/about/
-- https://jonschull.blogspot.com/
+- [耳东陈的学习笔记](http://www.wusan.site/notes/)
+    - [前端历史](http://www.wusan.site/notes/)
 - https://a.wholelottanothing.org/archive/page/202/
-
+- [Mike Alsup](https://jquery.malsup.com/)，jquery 插件
+    - [JavaScript Form Serialization Comparison:   jQuery • dojo • Prototype • YUI • MochiKit](https://malsup.com/jquery/form/comp/)
 # 1995~2004
 - 1994年，Navigator 浏览器0.9
 - 1995 Oak 语言改为java，推出
@@ -45,14 +72,23 @@
 - IE 浏览器
 
 # 2004~2008
+- 2001 [json](https://www.json.org/json-en.html) 
+    - 2005 [JSON 和 RSS](https://johnresig.com/blog/json-and-rss/)
 - 2004 facebook
 - 2004 gmail
 - 2005 youtube
 - 2005 Google Maps
 - 2005 Prototype
+    - [Prototype 兴衰启示录](https://www.oschina.net/news/36084/you-are-not-your-code)
+    - ["跟我再深入啃啃prototype.js"](https://www.cnblogs.com/dkblog/archive/2006/08/31/1980938.html)
+    - [《Prototype and script.aculo.us中文版》推荐序](https://www.iteye.com/topic/212023)
+- [Web 2.0会议](https://battellemedia.com/archives/2005/06/web_20_v_20_your_input_needed)
+- css3
+    - 2005 提到 [XPath and CSS Selectors](https://johnresig.com/blog/xpath-css-selectors/)
 - 2006 Jquery
 - 2006 twitter
 - 2008 html5
+    - 2005 [使用 Javascript 和 Canvas 制作迷你图](https://johnresig.com/blog/javascript-sparklines/)
     - 2007 [HTML 新变数](https://realazy.com/posts/2007-05-04-browsers-will-treat-all-versions-of-html-as-html5.html)
     - 2007 [HTML 5 新增的元素](https://realazy.com/posts/2007-08-10-new-elements-in-html-5.html)
     - 2010 [Build Web applications with HTML 5](https://developer.ibm.com/articles/wa-html5webapp/)
