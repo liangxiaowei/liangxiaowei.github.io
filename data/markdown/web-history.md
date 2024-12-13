@@ -19,6 +19,8 @@
     - 2005-12 [XPath and CSS Selectors](https://johnresig.com/blog/xpath-css-selectors/)
 - [Edward Tufte](https://www.edwardtufte.com/about/)，数据展示，始于2001
 - [Jon Schull](https://jonschull.blogspot.com/2004/09/greetings.html)，始于2004
+- [cognitect](https://www.cognitect.com/blog/page37/)，始于2004
+  - 2009 [Why I still prefer Prototype to jQuery](https://www.cognitect.com/blog/2009/1/12/why-i-still-prefer-prototype-to-jquery)
 - [jjgod](https://blog.jjgod.org/page/48/)，中文 blog，始于2004
     - [工具癖系列之 Jjgod](https://apple4us.com/2009/jjgod-setup)，李如一采访
 - [于乐](http://yulevip0.com/javascript.shtml)，老网站，网站开发者    
@@ -78,14 +80,20 @@
 - 2004 gmail
 - 2005 youtube
 - 2005 Google Maps
+- [Web 2.0会议](https://battellemedia.com/archives/2005/06/web_20_v_20_your_input_needed)
+- 2005 dojo
+- 2005 MochiKit
 - 2005 Prototype
-    - [Prototype 兴衰启示录](https://www.oschina.net/news/36084/you-are-not-your-code)
+    - 2012 [Prototype 兴衰启示录](https://www.oschina.net/news/36084/you-are-not-your-code)
     - ["跟我再深入啃啃prototype.js"](https://www.cnblogs.com/dkblog/archive/2006/08/31/1980938.html)
     - [《Prototype and script.aculo.us中文版》推荐序](https://www.iteye.com/topic/212023)
-- [Web 2.0会议](https://battellemedia.com/archives/2005/06/web_20_v_20_your_input_needed)
+- 2006 mootools
+- 2006 Jquery
+- 2006 YUI
+- 2007 [Evaluation of 5 Javascript Libraries: Dojo, MochiKit, YUI, Scriptaculous + Prototype and jQuery](https://www.reddit.com/r/programming/comments/61xbz/evaluation_of_5_javascript_libraries_dojo/)
+
 - css3
     - 2005 提到 [XPath and CSS Selectors](https://johnresig.com/blog/xpath-css-selectors/)
-- 2006 Jquery
 - 2006 twitter
 - 2008 html5
     - 2005 [使用 Javascript 和 Canvas 制作迷你图](https://johnresig.com/blog/javascript-sparklines/)
@@ -129,6 +137,6 @@
 - 2014 babel
 - 2015年 React Native
 - 工程化：Grunt、Gulp、webpack、 Rollup
-
+- 2018 [再见JQuery，我的老朋友](https://juejin.cn/post/6844903647852101639)
 # 2016-
 - 框架流行
