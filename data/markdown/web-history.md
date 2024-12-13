@@ -3,12 +3,18 @@
 - [Brendan Eich](https://brendaneich.com/)，发明 js，1961 出生，始于 2004 
 - [David Flanagan](https://davidflanagan.com/)，《JavaScript权威指南》
 - [Matt Haughey](https://a.wholelottanothing.org/archive/page/202/)，始于2000
+- [meyer](https://meyerweb.com/eric/thoughts/)，始于2000
+    - 2005 [S5: A Simple Standards-Based Slide Show System](https://meyerweb.com/eric/tools/s5/)
 - [Andy Baio](https://waxy.org/about/)，始于 2002
 - [John Battelle](https://battellemedia.com/archives)，始于2003
+- [Bob Ippolito,](https://bob.ippoli.to/archive/)，开发 mochikit，始于2003
+    - 2007后就很少开发 mochikit
 - [Jeremy Keith](https://adactio.com/articles)，1971出生，始于2003，写 《JavaScript DOM编程艺术 》，[domscripting](https://domscripting.com/)
 - [Cody Lindley](https://codylindley.com/)，出了好几本书，1976 出生
     - 2006-2 [jquery演示](https://codylindley.com/blogstuff/js/jquery/)
 - [Dean Edwrad](https://snook.ca/archives/writing/an_interview_wi), 他是最早的近乎完美解决事件绑定的兼容性大神
+- [Jonathan Snook](https://snook.ca/archives/)，始于2003，
+    - 来自 [Simplest Prototype & scripty Slideshow](https://mir.aculo.us/2009/12/11/simplest-prototype-scripty-slideshow/)
 - [John Resig](https://johnresig.com/category/blog/page/66/)，1984出生，始于2003，2006 开发 jquery
     - 2005 [dModeler](https://johnresig.com/apps/dmodeler/)，[开发](https://johnresig.com/blog/javascript_libraries/)
     - 2005 [webnote](http://www.aypwip.org/webnote/)
@@ -17,8 +23,11 @@
     - 2005-09 [Flexible Javascript Events](https://johnresig.com/blog/flexible-javascript-events/)
     - 2005 [Sparklines](https://johnresig.com/projects/jspark/)
     - 2005-12 [XPath and CSS Selectors](https://johnresig.com/blog/xpath-css-selectors/)
+    - 2011 年后就很少开发 jquery 了
 - [Edward Tufte](https://www.edwardtufte.com/about/)，数据展示，始于2001
 - [Jon Schull](https://jonschull.blogspot.com/2004/09/greetings.html)，始于2004
+- [olle](http://ollehost.dk/blog/page/59/)，始于2004
+    - 2005 [Prototype grows on me](http://ollehost.dk/blog/2005/12/09/prototype-grows-on-me/)
 - [cognitect](https://www.cognitect.com/blog/page37/)，始于2004
   - 2009 [Why I still prefer Prototype to jQuery](https://www.cognitect.com/blog/2009/1/12/why-i-still-prefer-prototype-to-jquery)
 - [jjgod](https://blog.jjgod.org/page/48/)，中文 blog，始于2004
@@ -27,9 +36,36 @@
 - [Michael Geary](https://mg.to/taxonomy_menu/1af4d.html?page=5)，第一个jQuery插件，始于2004
 - [Peter-Paul Koch](https://www.quirksmode.org/blog/archives/2004/03/index.html)，始于 2004，[ppk javascript](https://www.quirksmode.org/js/contents.html)
 - [Scott Andrew](https://scottandrew.com/)，始于2008，创建 [The Strange Zen Of JavaScript](https://jszen.blogspot.com/2004/07/)，始于 2004
-- [Sam Stephenson]()，创建  Prototype，2005
+- [Sam Stephenson](https://indieweb.social/@sstephenson)，创建  Prototype，2005
+    - 2007 年就很少参与 prototype 开发了
+- [Justin Palmer]()，
+    - [event:Selectors for Prototype](https://mir.aculo.us/2006/03/21/event-selectors-for-prototype/)
 - [yessan](https://www.yessan.org/page/16)，中文 blog，始于2005
+- [Andrew Dupont](https://andrewdupont.net/page/53/)，始于2005，开发 prototypejs
+- [Harald Martin Ström](https://my-domain.se/page9/)，始于2005
+    - 来自 [Prototype & script.aculo.us Textmate bundle](https://mir.aculo.us/2006/07/14/prototype-script-aculo-us-textmate-bundle/)
+- [Amy Hoy](https://www.slash7.com/t/articles/page/4/) ，始于 2005
+    - 2006 [Javascript Boot Camp Tutorial](https://www.slash7.com/2006/07/26/javascript-boot-camp-tutorial/)
 - [Thomas Fuchs](https://mir.aculo.us/page/40/)，始于2005，Scriptaculous 动画，Zepto.js
+    - [script.aculo.us release archive](http://script.aculo.us/dist/)
+    - [script.aculo.us](http://script.aculo.us/)
+    - [scriptaculous](https://madrobby.github.io/scriptaculous/)
+    - 2005 自动测试
+    - 2005 [S5 slides with script.aculo.us effects](https://mir.aculo.us/2005/10/17/s5-slides-with-script-aculo-us-effects/)
+    - 2006-6 [Solving the onload woe](https://mir.aculo.us/2006/06/15/solving-the-onload-woe/)，提到了John Resig、Dean Edwards
+    - 2009-1 [JavaScript Rocks! Performance eBook](https://mir.aculo.us/2009/1/17/javascript-rocks-performance-ebook/)，提到 jQuery
+    - 2009-12 [Simplest Prototype & scripty Slideshow](https://mir.aculo.us/2009/12/11/simplest-prototype-scripty-slideshow/) 提到了 jQuery
+    - 2011-4 [I for one welcome our new micro-framework overlords](https://mir.aculo.us/2011/04/11/i-for-one-welcome-our-new-micro-framework-overlords/)，提到了 
+    jQuery 已成霸主
+    - 看到 https://mir.aculo.us/page/24/，2006年8月
+- [kevin yank](https://kevinyank.com/blog/page/47/)，始于2006
+    - 2006 [JavaScript Libraries and Patterns: Yahoo! Does AJAX, ](http://www.360doc.com/content/06/0221/17/4910_70347.shtml)
+- [Hafeyang](https://www.cnblogs.com/Hafeyang)，[2](http://www.blogjava.net/Hafeyang/default.html?page=7)，始于2006
+    - 2007 [Script.aculo.us开发系列全集](https://www.cnblogs.com/Hafeyang/archive/2007/09/16/ScriptaculousSummary.html)
+    - 2010 [恩，一场气氛很好的技术讨论，jQuery vs YUI。](http://www.blogjava.net/Hafeyang/archive/2010/11/07/a_perfect_discussion_between_jQuery_YUI_and_for_me.html)
+- [signalvnoise](https://signalvnoise.com/)，始于2005
+- [dhh](https://dhh.dk/)，Ruby on Rails 的创始人，始于 2001
+    - [旧博客](https://dhh.dk/posts/archives)
 - [Juixe Techknow](https://juixe.com/techknow/index.php/page/117/)，jQuery教程，始于2005
 - [谢益辉](https://yihui.org/cn/)，始于2005
 - [kej](http://blog.kej.tw/2005/10/)，始于2005
@@ -80,18 +116,25 @@
 - 2004 gmail
 - 2005 youtube
 - 2005 Google Maps
+- canvas
+    - 2005 [A Richer Web: SVG And Canvas In Mozilla](https://mdn.dev/archives/media/presentations/xtech2005/svg-canvas/)
+    - 2005 [CanvasDemo](https://mdn.dev/archives/media/presentations/xtech2005/svg-canvas/CanvasDemo.html)
+    - 2005 [Sparklines](https://johnresig.com/projects/jspark/)
 - [Web 2.0会议](https://battellemedia.com/archives/2005/06/web_20_v_20_your_input_needed)
 - 2005 dojo
 - 2005 MochiKit
 - 2005 Prototype
+    - 2005-9 [prototype 1.4.0](https://mir.aculo.us/2005/09/25/prototype-leaps-forward/)
     - 2012 [Prototype 兴衰启示录](https://www.oschina.net/news/36084/you-are-not-your-code)
     - ["跟我再深入啃啃prototype.js"](https://www.cnblogs.com/dkblog/archive/2006/08/31/1980938.html)
     - [《Prototype and script.aculo.us中文版》推荐序](https://www.iteye.com/topic/212023)
 - 2006 mootools
+    - [And finally, the blog arrived](https://mootools.net/blog/2007/05/29/and-finally-the-blog-arrived)
+    - [Valerio Proietti](https://github.com/kamicane)
 - 2006 Jquery
 - 2006 YUI
 - 2007 [Evaluation of 5 Javascript Libraries: Dojo, MochiKit, YUI, Scriptaculous + Prototype and jQuery](https://www.reddit.com/r/programming/comments/61xbz/evaluation_of_5_javascript_libraries_dojo/)
-
+- 2007 iPhone，移动互联网
 - css3
     - 2005 提到 [XPath and CSS Selectors](https://johnresig.com/blog/xpath-css-selectors/)
 - 2006 twitter
@@ -119,9 +162,11 @@
 # 2008~2012
 - 2009 nodejs
 - 2009 angular
+- 2010 backbone
+- 2010 Zepto.js
 - jQuery 流行
     - 2011 [jQuery最佳实践](https://www.ruanyifeng.com/blog/2011/08/jquery_best_practices.html)
-- 2010 Zepto.js
+
 - 2009 微博
 
 # 2012-2016
