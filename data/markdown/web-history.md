@@ -2,6 +2,7 @@
 - [Douglas Crockford](https://www.crockford.com/about.html)，1955出生，《javascript 语言精粹》
 - [Brendan Eich](https://brendaneich.com/)，发明 js，1961 出生，始于 2004 
 - [David Flanagan](https://davidflanagan.com/)，《JavaScript权威指南》
+- [a list apart](https://alistapart.com/articles/page/124/)，始于 1999
 - [Matt Haughey](https://a.wholelottanothing.org/archive/page/202/)，始于2000
 - [meyer](https://meyerweb.com/eric/thoughts/)，始于2000
     - 2005 [S5: A Simple Standards-Based Slide Show System](https://meyerweb.com/eric/tools/s5/)
@@ -10,6 +11,10 @@
 - [Bob Ippolito,](https://bob.ippoli.to/archive/)，开发 mochikit，始于2003
     - 2007后就很少开发 mochikit
 - [Jeremy Keith](https://adactio.com/articles)，1971出生，始于2003，写 《JavaScript DOM编程艺术 》，[domscripting](https://domscripting.com/)
+    - 2007[bulletproofajax](https://bulletproofajax.com/)
+- [Steve Chipman](http://slayeroffice.com/)
+- Dave Shea
+    - [csszengarden](https://www.csszengarden.com/)
 - [Cody Lindley](https://codylindley.com/)，出了好几本书，1976 出生
     - 2006-2 [jquery演示](https://codylindley.com/blogstuff/js/jquery/)
 - [Dean Edwrad](https://snook.ca/archives/writing/an_interview_wi), 他是最早的近乎完美解决事件绑定的兼容性大神
@@ -37,6 +42,9 @@
 - [Peter-Paul Koch](https://www.quirksmode.org/blog/archives/2004/03/index.html)，始于 2004，[ppk javascript](https://www.quirksmode.org/js/contents.html)
 - [Scott Andrew](https://scottandrew.com/)，始于2008，创建 [The Strange Zen Of JavaScript](https://jszen.blogspot.com/2004/07/)，始于 2004
 - [Sam Stephenson](https://indieweb.social/@sstephenson)，创建  Prototype，2005
+    - [1.2.1](https://github.com/madrobby/scriptaculous/blob/5d47d9be3f894f77f28a672ff60e9e984a8ffeeb/lib/prototype.js)
+    - [prototype.js 源码解读v1.3.1版本](https://openbsd.wordpress.com/2005/12/10/prototypejs-%e6%ba%90%e7%a0%81%e8%a7%a3%e8%af%bbv131%e7%89%88%e6%9c%ac/)
+    - [1.4.0](https://www.d.umn.edu/~tcolburn/cs4531/slides/jsf/ajax/js-source/prototype.js.html)
     - 2007 年就很少参与 prototype 开发了
 - [Justin Palmer]()，
     - [event:Selectors for Prototype](https://mir.aculo.us/2006/03/21/event-selectors-for-prototype/)
@@ -50,6 +58,7 @@
     - [script.aculo.us release archive](http://script.aculo.us/dist/)
     - [script.aculo.us](http://script.aculo.us/)
     - [scriptaculous](https://madrobby.github.io/scriptaculous/)
+    - [可以从这里找到 prototype 历史](https://github.com/madrobby/scriptaculous/commits/master/?after=b0a8422f7f6f2e2e17f0d5ddfef1d9a6f5428472+480)
     - 2005 自动测试
     - 2005 [S5 slides with script.aculo.us effects](https://mir.aculo.us/2005/10/17/s5-slides-with-script-aculo-us-effects/)
     - 2006-6 [Solving the onload woe](https://mir.aculo.us/2006/06/15/solving-the-onload-woe/)，提到了John Resig、Dean Edwards
@@ -103,6 +112,9 @@
 - https://a.wholelottanothing.org/archive/page/202/
 - [Mike Alsup](https://jquery.malsup.com/)，jquery 插件
     - [JavaScript Form Serialization Comparison:   jQuery • dojo • Prototype • YUI • MochiKit](https://malsup.com/jquery/form/comp/)
+- [webstandards](https://www.webstandards.org/)
+- [cartagen](https://jywarren.github.io/cartagen/)
+    - 2009 年开始的项目
 # 1995~2004
 - 1994年，Navigator 浏览器0.9
 - 1995 Oak 语言改为java，推出
@@ -146,13 +158,15 @@
 
 - 2004 Eric Meyer谈CSS（卷1/2），中文版 2008
 - 2005《JavaScript DOM编程艺术（1）》，中文 2006
-- 2005 《JavaScript 高级程序设计（1）》，中文版 2008
+- 2005 《JavaScript 高级程序设计（1）》，中文版 2006
 - 2005 《CSS禅意花园》，中文版 2007
+- 2006 《Web Design in a Nutshell（3）》，中文版《WEB设计技术手册》2006
 - 2006 《CSS权威指南（3）》，中文版 2007
 - 2006 《JavaScript权威指南（5）》，中文版 2007
 - 2006《ppk谈JavaScript》，中文版 2008
 - 2006《网站重构 : 应用Web标准进行设计（2）》，中文版 2008
 - 2006 《精通JavaScript（1）》，中文版 2008
+- 2007 《AdvancED DOM Scripting : Dynamic Web Design Techniques》,中文版《JavaScript DOM高级程序设计》2008。Aaron Gustafson 
 - 2007《JavaScript入门经典（3）》，中文版 2009 
 - 2008 《javascript 王者归来》
 - 2008 《Javascript 语言精髓》
