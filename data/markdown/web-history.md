@@ -162,7 +162,22 @@
     - web 2.0
         - 2005-11 [Are you Web 2.0?](https://www.wired.com/2005/11/are-you-web-2dot0/)，提到 prototypejs
     - ruby on rails 兴起
+    - javascript
+        - 类的创建、继承，复用代码
+        - 自定义 bind、apply 函数
+        - 简化 document.getElementById -> $
+        - 自定义 document.getElementsByClassName
+        - 扩展 Array: push
+        - Ajax 封装，各个浏览器不同
     - 2月份，Sam Stephenson 开发出了 prototypejs 框架。
+        - 函数、类划分在不同的命名空间
+        - 简化 document.getElementById -> $
+        - 扩展 Function: 自定义 bind、apply 函数 
+        - 扩展 Array: push
+        - 扩展 String: stripTags、escapeHTML、unescapeHTML
+        - Ajax 封装，各个浏览器不同；Ajax.Request;Ajax.Updater;Ajax.PeriodicalUpdater
+        - document.getElementsByClassName
+
         - 2005-5 [1.2.1](https://github.com/madrobby/scriptaculous/blob/5d47d9be3f894f77f28a672ff60e9e984a8ffeeb/lib/prototype.js)
         - 2005-6 1.3.0
         - 2005-7 1.4.0_pre2
