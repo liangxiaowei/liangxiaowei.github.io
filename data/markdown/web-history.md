@@ -9,6 +9,7 @@
 - [Andy Baio](https://waxy.org/about/)，始于 2002
 - [John Battelle](https://battellemedia.com/archives)，始于2003
 - [Bob Ippolito,](https://bob.ippoli.to/archive/)，开发 mochikit，始于2003
+    - 2005-9 [Recent MochiKit commentary](https://bob.ippoli.to/archives/2005/09/08/recent-mochikit-commentary/)
     - 2007后就很少开发 mochikit
 - [Jeremy Keith](https://adactio.com/articles)，1971出生，始于2003，写 《JavaScript DOM编程艺术 》，[domscripting](https://domscripting.com/)
     - 2007[bulletproofajax](https://bulletproofajax.com/)
@@ -28,6 +29,7 @@
     - 2005-09 [Flexible Javascript Events](https://johnresig.com/blog/flexible-javascript-events/)
     - 2005 [Sparklines](https://johnresig.com/projects/jspark/)
     - 2005-12 [XPath and CSS Selectors](https://johnresig.com/blog/xpath-css-selectors/)
+    - 2006-4 [Event Selector Showdown](https://blog.jquery.com/2006/04/29/event-selector-showdown/)，对比 prototypejs 框架
     - 2011 年后就很少开发 jquery 了
 - [Edward Tufte](https://www.edwardtufte.com/about/)，数据展示，始于2001
 - [Jon Schull](https://jonschull.blogspot.com/2004/09/greetings.html)，始于2004
@@ -43,9 +45,28 @@
 - [Scott Andrew](https://scottandrew.com/)，始于2008，创建 [The Strange Zen Of JavaScript](https://jszen.blogspot.com/2004/07/)，始于 2004
 - [Sam Stephenson](https://indieweb.social/@sstephenson)，创建  Prototype，2005
     - [1.2.1](https://github.com/madrobby/scriptaculous/blob/5d47d9be3f894f77f28a672ff60e9e984a8ffeeb/lib/prototype.js)
-    - [prototype.js 源码解读v1.3.1版本](https://openbsd.wordpress.com/2005/12/10/prototypejs-%e6%ba%90%e7%a0%81%e8%a7%a3%e8%af%bbv131%e7%89%88%e6%9c%ac/)
     - [1.4.0](https://www.d.umn.edu/~tcolburn/cs4531/slides/jsf/ajax/js-source/prototype.js.html)
     - 2007 年就很少参与 prototype 开发了
+    - 2006-2 [Painless JavaScript Using Prototype](https://www.sitepoint.com/painless-javascript-prototype/)
+    - 2011-12 [jQuery中的编程范式](https://www.iteye.com/topic/1119283)，提到 prototypejs
+    - 2006-5 [跟我再深入啃啃prototype.js](http://www.blogjava.net/zkjbeyond/archive/2006/05/25/48069.aspx)
+    - 2006-6 [再说说prototype.js的事件注册](http://www.blogjava.net/zkjbeyond/archive/2006/06/12/52083.html)
+    - 2022-9 [prototype.js教程及prototype中文手册](https://cloud.tencent.com.cn/developer/article/2107570?from=15425)
+    - 2006-12 [Critical Look at Prototype JS](https://ma.tt/2006/12/critical-prototype/)
+    - [Prototype tutorialspoint](https://www.tutorialspoint.com/prototype/prototype_quick_guide.htm)
+    - 2005-5 1.2.1
+    - 2005-6 1.3.0
+    - 2005-7 1.4.0_pre2
+    - 2005-9 1.4.0_pre4
+    - 2005-12 1.4.0
+    - 2006-12 1.5.0_rc2
+    - 2007-1 1.5.0
+    - [非官方文档](https://www.sergiopereira.com/articles/prototype.js.html)
+        - 2005-10 [1.3.1](https://www.sergiopereira.com/articles/prototype131.js.html)
+        - 2006-5 [1.4.0](https://www.sergiopereira.com/articles/prototype140.js.html)
+        - [1.5.0](https://www.sergiopereira.com/articles/prototype.js.html)
+    - 2012 [Prototype 兴衰启示录](https://www.oschina.net/news/36084/you-are-not-your-code)
+    - 2008-7 [《Prototype and script.aculo.us中文版》推荐序](https://www.iteye.com/topic/212023)
 - [Justin Palmer]()，
     - [event:Selectors for Prototype](https://mir.aculo.us/2006/03/21/event-selectors-for-prototype/)
 - [yessan](https://www.yessan.org/page/16)，中文 blog，始于2005
@@ -124,22 +145,46 @@
 # 2004~2008
 - 2001 [json](https://www.json.org/json-en.html) 
     - 2005 [JSON 和 RSS](https://johnresig.com/blog/json-and-rss/)
-- 2004 facebook
-- 2004 gmail
-- 2005 youtube
-- 2005 Google Maps
+
 - canvas
     - 2005 [A Richer Web: SVG And Canvas In Mozilla](https://mdn.dev/archives/media/presentations/xtech2005/svg-canvas/)
     - 2005 [CanvasDemo](https://mdn.dev/archives/media/presentations/xtech2005/svg-canvas/CanvasDemo.html)
     - 2005 [Sparklines](https://johnresig.com/projects/jspark/)
 - [Web 2.0会议](https://battellemedia.com/archives/2005/06/web_20_v_20_your_input_needed)
 - 2005 dojo
-- 2005 MochiKit
-- 2005 Prototype
-    - 2005-9 [prototype 1.4.0](https://mir.aculo.us/2005/09/25/prototype-leaps-forward/)
-    - 2012 [Prototype 兴衰启示录](https://www.oschina.net/news/36084/you-are-not-your-code)
-    - ["跟我再深入啃啃prototype.js"](https://www.cnblogs.com/dkblog/archive/2006/08/31/1980938.html)
-    - [《Prototype and script.aculo.us中文版》推荐序](https://www.iteye.com/topic/212023)
+- 2005-js
+    - ajax web 应用开始兴起，gmail、Google Maps、youtube 等
+        - 2004 facebook
+        - 2004 gmail
+        - 2005 youtube
+        - 2005 Google Maps
+        - 2006 twitter
+    - web 2.0
+        - 2005-11 [Are you Web 2.0?](https://www.wired.com/2005/11/are-you-web-2dot0/)，提到 prototypejs
+    - ruby on rails 兴起
+    - 2月份，Sam Stephenson 开发出了 prototypejs 框架。
+        - 2005-5 [1.2.1](https://github.com/madrobby/scriptaculous/blob/5d47d9be3f894f77f28a672ff60e9e984a8ffeeb/lib/prototype.js)
+        - 2005-6 1.3.0
+        - 2005-7 1.4.0_pre2
+        - 2005-12 1.4.0
+        - 2005-9 [prototype 1.4.0](https://mir.aculo.us/2005/09/25/prototype-leaps-forward/)
+        - 2005-10 [1.3.1](https://www.sergiopereira.com/articles/prototype131.js.html)
+        - 2005-11 [quick-guide-to-prototype](http://particletree.com/features/quick-guide-to-prototype/)，1.3.1
+        - 2005-11 [Prototype.js and firefox](https://coderanch.com/t/116993/languages/Prototype-js-firefox)
+        - 2005-12 [prototype.js 源码解读v1.3.1版本](https://openbsd.wordpress.com/2005/12/10/prototypejs-%e6%ba%90%e7%a0%81%e8%a7%a3%e8%af%bbv131%e7%89%88%e6%9c%ac/)
+        - 2005-11 [prototype.js 1.4rc4 Part.2](https://amachang.hatenablog.com/entry/20051124/1132584232)
+        - 2005-12 [AJAX Tutorial with Prototype](https://www.petefreitag.com/blog/ajax-tutorial-with-prototype/)
+        - 2005-12 [Easy Ajax with Prototype](https://24ways.org/2005/easy-ajax-with-prototype/)
+        - 2005-12 [Useful Javascript: Prototype for your forms](http://ollehost.dk/blog/2005/12/06/microtutorial-on-prototype/)
+        - 2006-1 [Why I Don't Use The prototype.js JavaScript Library](https://blog.metawrap.com/2006/01/06/why-i-dont-use-the-prototype-js-javascript-library/)
+    - 2005 MochiKit
+        - 2005-9 [Recent MochiKit commentary](https://bob.ippoli.to/archives/2005/09/08/recent-mochikit-commentary/) ，提到 prototypejs   
+    - 2024-7 [Why the jQuery Creator Uses React and Typescript - John Resig](https://syntax.fm/show/800/why-the-jquery-creator-uses-react-and-typescript-john-resig/transcript)，提到 prototypejs   
+    - 2021 [What Front-End Development Looked Like in 2005 – Blast from the Past](https://htmlburger.com/blog/what-front-end-development-looked-like-2005/)
+    - 2021 [jQuery Saves the Day: A History](https://medium.com/@gtrz.pamela/jquery-saves-the-day-a-history-fb711f8779a9)
+    - 2005年，出版《JavaScript 高级程序设计（1）》，中文版 2006
+    - 2005年，出版《JavaScript DOM编程艺术（1）》，中文版 2006
+    - 2006 《JavaScript权威指南（5）》
 - 2006 mootools
     - [And finally, the blog arrived](https://mootools.net/blog/2007/05/29/and-finally-the-blog-arrived)
     - [Valerio Proietti](https://github.com/kamicane)
@@ -149,7 +194,7 @@
 - 2007 iPhone，移动互联网
 - css3
     - 2005 提到 [XPath and CSS Selectors](https://johnresig.com/blog/xpath-css-selectors/)
-- 2006 twitter
+
 - 2008 html5
     - 2005 [使用 Javascript 和 Canvas 制作迷你图](https://johnresig.com/blog/javascript-sparklines/)
     - 2007 [HTML 新变数](https://realazy.com/posts/2007-05-04-browsers-will-treat-all-versions-of-html-as-html5.html)
@@ -158,19 +203,19 @@
 
 - 2004 Eric Meyer谈CSS（卷1/2），中文版 2008
 - 2005《JavaScript DOM编程艺术（1）》，中文 2006
-- 2005 《JavaScript 高级程序设计（1）》，中文版 2006
-- 2005 《CSS禅意花园》，中文版 2007
-- 2006 《Web Design in a Nutshell（3）》，中文版《WEB设计技术手册》2006
-- 2006 《CSS权威指南（3）》，中文版 2007
-- 2006 《JavaScript权威指南（5）》，中文版 2007
+- 2005《JavaScript 高级程序设计（1）》，中文版 2006
+- 2005《CSS禅意花园》，中文版 2007
+- 2006《Web Design in a Nutshell（3）》，中文版《WEB设计技术手册》2006
+- 2006《CSS权威指南（3）》，中文版 2007
+- 2006《JavaScript权威指南（5）》，中文版 2007
 - 2006《ppk谈JavaScript》，中文版 2008
 - 2006《网站重构 : 应用Web标准进行设计（2）》，中文版 2008
-- 2006 《精通JavaScript（1）》，中文版 2008
-- 2007 《AdvancED DOM Scripting : Dynamic Web Design Techniques》,中文版《JavaScript DOM高级程序设计》2008。Aaron Gustafson 
+- 2006《精通JavaScript（1）》，中文版 2008
+- 2007《AdvancED DOM Scripting : Dynamic Web Design Techniques》,中文版《JavaScript DOM高级程序设计》2008。Aaron Gustafson 
 - 2007《JavaScript入门经典（3）》，中文版 2009 
-- 2008 《javascript 王者归来》
-- 2008 《Javascript 语言精髓》
-- 2008 《JavaScript语言精髓与编程实践》
+- 2008《javascript 王者归来》
+- 2008《Javascript 语言精髓》
+- 2008《JavaScript语言精髓与编程实践》
 - https://johnresig.com/category/blog/page/52/
 - 乔恩·乌德尔 (Jon Udell)
 # 2008~2012
