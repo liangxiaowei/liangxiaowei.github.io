@@ -167,7 +167,7 @@
         - 2005-6 1.3.0
         - 2005-7 1.4.0_pre2
         - 2005-12 1.4.0
-        - 2005-9 [prototype 1.4.0](https://mir.aculo.us/2005/09/25/prototype-leaps-forward/)
+        - 2005-9 [prototype-leaps-forward](https://mir.aculo.us/2005/09/25/prototype-leaps-forward/)
         - 2005-10 [1.3.1](https://www.sergiopereira.com/articles/prototype131.js.html)
         - 2005-11 [quick-guide-to-prototype](http://particletree.com/features/quick-guide-to-prototype/)，1.3.1
         - 2005-11 [Prototype.js and firefox](https://coderanch.com/t/116993/languages/Prototype-js-firefox)
