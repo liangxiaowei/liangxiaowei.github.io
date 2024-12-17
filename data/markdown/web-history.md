@@ -44,6 +44,11 @@
 - [Peter-Paul Koch](https://www.quirksmode.org/blog/archives/2004/03/index.html)，始于 2004，[ppk javascript](https://www.quirksmode.org/js/contents.html)
 - [Scott Andrew](https://scottandrew.com/)，始于2008，创建 [The Strange Zen Of JavaScript](https://jszen.blogspot.com/2004/07/)，始于 2004
 - [Sam Stephenson](https://indieweb.social/@sstephenson)，创建  Prototype，2005
+    - [官方文档](http://prototypejs.org/)
+    - [非官方文档](https://www.sergiopereira.com/articles/prototype.js.html)
+        - 2005-10 [1.3.1](https://www.sergiopereira.com/articles/prototype131.js.html)
+        - 2006-5 [1.4.0](https://www.sergiopereira.com/articles/prototype140.js.html)
+        - [1.5.0](https://www.sergiopereira.com/articles/prototype.js.html)
     - [1.2.1](https://github.com/madrobby/scriptaculous/blob/5d47d9be3f894f77f28a672ff60e9e984a8ffeeb/lib/prototype.js)
     - [1.4.0](https://www.d.umn.edu/~tcolburn/cs4531/slides/jsf/ajax/js-source/prototype.js.html)
     - 2007 年就很少参与 prototype 开发了
@@ -61,10 +66,7 @@
     - 2005-12 1.4.0
     - 2006-12 1.5.0_rc2
     - 2007-1 1.5.0
-    - [非官方文档](https://www.sergiopereira.com/articles/prototype.js.html)
-        - 2005-10 [1.3.1](https://www.sergiopereira.com/articles/prototype131.js.html)
-        - 2006-5 [1.4.0](https://www.sergiopereira.com/articles/prototype140.js.html)
-        - [1.5.0](https://www.sergiopereira.com/articles/prototype.js.html)
+    
     - 2012 [Prototype 兴衰启示录](https://www.oschina.net/news/36084/you-are-not-your-code)
     - 2008-7 [《Prototype and script.aculo.us中文版》推荐序](https://www.iteye.com/topic/212023)
 - [Justin Palmer]()，
@@ -110,6 +112,7 @@
 - [Zach Leatherman](https://www.zachleat.com/web/)，始于2007
 - [Scott Jehl.](https://scottjehl.com/work/)，始于2008
 - [csstricks](https://css-tricks.com/category/articles/page/476/)，始于2007
+- [Alex Arnell](https://typicalnoise.com/7)，始于2007，prototypejs 的继承实现
 - [Joyce Babu](https://www.joycebabu.com/page/8)，始于2007
     - 2007 [jQuery – Fast, Light-weight Javascript Library](https://www.joycebabu.com/blog/jquery-fast-light-weight-javascript-library.html)
 - [张鑫旭](https://www.zhangxinxu.com/wordpress/page/92/)，1987出生，始于2009

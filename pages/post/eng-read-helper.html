@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="no-referrer" />
+    <title>我的文章</title>
+    <script src="/blogApp.js" type="module"></script>
+    <script src="./index.js" type="module"></script>
+    <link rel="stylesheet" href="/styles.css" />
+    <script src="./marked.min.js"></script>
+    <link rel="stylesheet" href="./github-markdown.css">
+    <link rel="stylesheet" href="./index.css" />
+    <link rel="stylesheet" href="//unpkg.com/heti/umd/heti.min.css" />
+    <style>
+      .vocab-hl {
+        /* background-color: aquamarine; */
+        position: relative;
+        padding: 0 4px;
+        margin: 0 4px;
+
+        /* text-decoration: underline; */
+      }
+
+      .vocab-hl::after {
+        position: absolute;
+        width: 110%;
+        text-align: center;
+        position: absolute;
+        /* left: 0; */
+        left: 50%;
+        transform: translateX(-50%);
+        top: 16px;
+        font-size: 10px;
+        line-height: 14px;
+        /* color: white; */
+        color: red;
+        opacity: 1;
+        max-height: 40px;
+        word-break: break-all;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2; /* 这里是超出几行省略 */
+        overflow: hidden;
+        /* display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3; */
+        /* overflow: hidden; */
+      }
+
+      .heti {
+        line-height: 3;
+      }
+
+      .vocab-hl-3000 {
+
+      }
+
+      .vocab-hl-no-meaning {
+        background-color: aquamarine;
+      }
+
+      .vocab-hl-no-3000 {
+        color: #00000088;
+      }
+    </style>
+  </head>
+  <body class="heti" style="margin: 0 auto">
+    <blog-header currentname="文章"></blog-header>
+    <main>
+      <div id="content" class="markdown-body"></div>
+    </main>
+  </body>
+  <script src="/english-read-helper.js" type="module"></script>
+</html>

@@ -1,3 +1,9 @@
+- 阅读《JavaScript 高级程序设计》，关于对象的章节
+    - 2005 第一版(中文 2006)，
+    - 2009 第二版(中文 2010)，第二版这块写的比较详细，介绍了好几种对象创建的方法，画了原型链的图。
+    - 2012 第三版，第三版增加了对象属性的几种属性
+    - 2020 第四版，第四版增加 es2015 的新语法
+- 阅读 `prototypejs` 框架源码
 - javascript 里对象就是一个无序集合，属性名和对应的 value，value 可以是基本对象、引用对象、函数。
 - 创建对象 new 机制：new + 普通函数。普通函数里接收参数，编写 this.xxx = xxx。当用 new 调用函数，函数开始前会自动创建一个对象，然后复制给函数里的 this，执行函数，默认返回这个函数。new 出来的对象，有一个内部属性 __proto__ 指向函数对象的 prototype 对象。
 - 函数对象的 prototype 对象：声明函数后，函数对象自动有个 prototype 对象，prototype 对象有个 constructor 属性指回函数对象 ，可以在这个 prototype 对象挂载属性、方法。如果对prototype 对象整个进行重写，注意 constructor 属性。
@@ -5,4 +11,5 @@
 - 问题：对象类型的识别。相关：`person1 instanceof Person`、`person1.constructor == Person`、`Person.prototype.isPrototyeof(person1)`
 - 问题：属性、方法的重用、封装。共用方法挂载到函数对象的 prototype 对象
 - 问题：属性是在当前对象上还是原型链上。`person1.hasOwnProperty(name)`，`'name' in person1`
-- Object.extend 与 Object.prototype.extend 区别
+- 问题：Object.extend 与 Object.prototype.extend 区别
+- 原型与继承：使用原型链实现继承，sub.prototype = Object.extend(new parent(), {})；如果 parent 函数需要初始化函数就会遇到问题；例如在 prototype.js_1.2.1 中 Ajax.Updater 直接继承了 Ajax.Base: `Ajax.Updater.prototype = (new Ajax.Base()).extend({})`，在 prototype.js_1.3.0 至 prototype.js_1.5.0 中 Ajax.Updater 继承 Ajax.Request，Ajax.Request 继承 Ajax.Base，由于 Ajax.Request 的初始化函数需要参数，所以不能 `new Ajax.Request()`，只能用 `Object.extend(Object.extend(Ajax.Updater.prototype, Ajax.Request.prototype), {})`，但是这样就把原型链破坏了，Ajax.Updater 的原型与 Ajax.Request 无关了。在 prototype.js_1.6.0 中，对象继承的实现就发生了变化，使用了 Alex Arnell 的实现，[Updated OO Library](https://typicalnoise.com/post/updated-oo-library)，这时候原型链就是对的。
