@@ -1,0 +1,20 @@
+- 1996 squeak，迪士尼 project
+- 1996 Etoys
+- 1997 [The Computer Revolution Hasn't Happened Yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
+- 1989 dan ingall [Object-Oriented Programming](https://www.youtube.com/watch?v=Ao9W93OxQ7U)
+- 2001 [From Smalltalk to Squeak](https://www.youtube.com/watch?v=4ki2AQvneD8)
+- 2001 阿伦·凯离开迪斯尼，创办Viewpoints Research Institute
+- 2002 阿伦·凯加盟惠普，2005，惠普解散了Advanced Software Research Team
+- 2002 seaside web服务开发
+    - 2007 [Chatting with Avi Bryant - Part 1](https://www.akitaonrails.com/2007/12/15/chatting-with-avi-bryant-part-1)
+- 2005~2014 OLPC，2007 正式推出
+- 2005 [bluishcoder](https://bluishcoder.co.nz/2005/index.html)
+    - 2006 [Free hosting for Seaside web applications](https://bluishcoder.co.nz/2006/02/22/free-hosting-for-seaside-web.html)
+- 2006 scratch 1.0，基于 squeak
+- 2006~2010 [On smalltalk](http://onsmalltalk.com/?_k=Hne0DzvR) 博客
+- 2006 [squeak news](https://news.squeak.org/?query-9-page=104)
+- [The European Smalltalk User Group (ESUG)](https://esug.org/conferences.html) 1993，开始；2014 开始有视频
+- 2007 youtube 有教程视频
+- 2008 Julian Fitzell 开发 seaside，[blog](http://blog.fitzell.ca/search?updated-max=2008-05-12T05:14:00%2B01:00&max-results=7)，始于2008
+- 2008 [The Lively Kernel](https://www.youtube.com/watch?v=gGw09RZjQf8)
+- 2013 [The Live Web. Drag 'n drop in the cloud](https://www.youtube.com/watch?v=QTJRwKOFddc)
