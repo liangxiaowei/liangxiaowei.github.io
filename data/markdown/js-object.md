@@ -21,3 +21,4 @@
 - 2008 [Simple JavaScript Inheritance](https://johnresig.com/blog/simple-javascript-inheritance/)
 - [Using Prototypical Objects to Implement Shared Behavior in Object Oriented Systems](https://web.media.mit.edu/~lieber/Lieberary/OOP/Delegation/Delegation.html)
 - [Object-Oriented javascript](https://unidel.edu.ng/focelibrary/books/Object-Oriented%20JavaScript%202nd%20Ed.pdf)
+- 2018 Eric Elliott [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
