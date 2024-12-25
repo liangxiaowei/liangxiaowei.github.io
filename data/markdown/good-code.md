@@ -1,0 +1,7 @@
+- corckfold 《how javascript work》 提到了 myers
+- 2019 corckfold 《Concerning Modules – how the lost wisdom of the ‘70s helps us today》
+    - [article](https://www.codemotion.com/magazine/frontend/javascript/concerning-modules-how-the-lost-wisdom-of-the-70s-helps-us-today/)
+    - [vodeo](https://talks.codemotion.com/concerning-modules)
+- 1975 myers 《Reliable Software through Composite Design》
+- 1978 myers 《Composite/Structured Design》
+- 1979 Larry L. Constantine《Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design 》
