@@ -62,7 +62,7 @@ const currentBook = 'the heart of the matter'
 //     };
 //   })
 
-let cocaList = await fetch("/data/english/dict.json");
+let cocaList = await fetch("/data/english/dict20000.json");
 cocaList = await cocaList.json();
 cocaList = cocaList.filter((e) => {
   const bnc = parseInt(e.bnc);
