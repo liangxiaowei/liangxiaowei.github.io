@@ -1,4 +1,5 @@
 - 1989 dan ingall [Object-Oriented Programming](https://www.youtube.com/watch?v=Ao9W93OxQ7U)
+- 1993 [The Early History Of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 - 1996 squeak，迪士尼 project
 - 1996 Etoys
 - 1997 [The Computer Revolution Hasn't Happened Yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
@@ -32,3 +33,5 @@
 - 2008 Julian Fitzell 开发 seaside，[blog](http://blog.fitzell.ca/search?updated-max=2008-05-12T05:14:00%2B01:00&max-results=7)，始于2008
 - 2008 [The Lively Kernel](https://www.youtube.com/watch?v=gGw09RZjQf8)
 - 2013 [The Live Web. Drag 'n drop in the cloud](https://www.youtube.com/watch?v=QTJRwKOFddc)
+- 2016 [A World of Active Objects for Work and Play](https://www.hpi.uni-potsdam.de/hirschfeld/publications/media/IngallsFelgentreffHirschfeldKrahnLinckeRoederTaivalsaariMikkonen_2016_AWorldOfActiveObjectsForWorkAndPlayTheFirstTenYearsOfLively_AuthorsVersion.pdf)
+- 2022 [Programmable Ink](https://www.inkandswitch.com/inkbase/)
