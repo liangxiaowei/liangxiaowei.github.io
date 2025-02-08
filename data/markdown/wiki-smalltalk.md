@@ -1,4 +1,5 @@
 - 1972 Xerox PARC: The first real Smalltalk
+- 1986~1996 alan kay 在苹果公司，[Vivarium](https://hyperphor.com/ammdi/Vivarium-Project) 项目
 - 1989 dan ingall [Object-Oriented Programming](https://www.youtube.com/watch?v=Ao9W93OxQ7U)
 - 1993 Alan Kay [The Early History Of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 - 1996 squeak 1.0，apple 公司、迪士尼公司，基于 smalltalk-80; 
@@ -13,6 +14,7 @@
 - 2001 [From Smalltalk to Squeak](https://www.youtube.com/watch?v=4ki2AQvneD8)
 - 2001 阿伦·凯离开迪斯尼，创办 [Viewpoints Research Institute](http://vpri.org/)
 - 2001 Etoys
+    - 2001 and 2012 [AlanKaySqueaklandPosts](https://worrydream.com/AlanKaySqueaklandPosts/)
     - 2002 [A Programming System for Children that is Designed for Usability](https://john.pane.net/pdf/PaneThesis.pdf)
 - 2001 squeak 3.0
     - 2002~2008 3.1~3.10
@@ -57,7 +59,17 @@
     - [Alan Knight's blog](https://alanknightsblog.blogspot.com/2011/05/new-blog-address.html)，博客始于2011
         - [wiki](https://wiki.c2.com/?AlanKnight) 
     - [Yoshiki Ohshima](https://tinlizzie.org/)，参与过 squeak、etoys、STEPS、croquet
-        
+    - [Jeffrey Massung](https://learningtotalk.blogspot.com/search?updated-max=2007-06-22T08:34:00-05:00) 
+        - 2006 [Introduction to Talking](https://learningtotalk.blogspot.com/2006/09/introduction-to-talking.html)
+    - zenchess 使用 Dolphin Smalltalk 开发 Zenchess 一款棋类游戏 
+        - [Smalltalk bindings for Raylib game library](https://github.com/Zenchess/pharoRaylib)
+        - 2024-7 [Dolphin Smalltalk, the programming environment you couldn't dream about.](https://www.youtube.com/watch?v=d8H3_RgdWi0) 
+    - Joe Betz 使用 dolphin smalltalk
+        - [twitter](https://x.com/joe_betz)    
+    - David Buck，写了一个手机游戏
+        - 2017 [Mobile Smalltalk](http://simberon.blogspot.com/2017/11/mobile-smalltalk.html)
+- 程序
+    -  David Buck used Cincom Smalltalk to develop [HexSolve](https://www.simberon.com/HexSolve/)
 - 会议/组织
     - OOPSLA，从 1986 开始，[可以找到 1986 开始的会议论文](https://dblp.org/db/conf/oopsla/oopsla87.html) 
     - [The European Smalltalk User Group (ESUG)](https://esug.org/conferences.html) 1993 开始；2014 开始有视频
@@ -66,3 +78,27 @@
     - [UK Smalltalk User Group](https://www.uksmalltalk.org/)，2008 开始；2020开始有[视频](https://www.youtube.com/@UKSTUG)
     - [Intelligent_Archive](https://tinlizzie.org/IA/index.php/Intelligent_Archive) alan kay 演讲集合
     - [Viewpoints Research Institute](http://vpri.org/)
+- [Vivarium](https://hyperphor.com/ammdi/Vivarium-Project)
+    - [history](https://worrydream.com/refs/Yaeger_2006_-_Vivarium_History.html)
+- 分支
+    - 80年代～90年代，ParcPlace 公司商业化 smalltalk，产品是 Objectworks，还有一个 Digitalk 公司，1995年 两个公司合并，后来都卖给了 Cincom
+    - 1994 [VisualWorks](https://wiki.c2.com/?VisualWorksSmalltalk) 商业化 后来卖给了 Cincom，原 Objectworks
+        - [Cincom 官网 article](https://www.cincomsmalltalk.com/main/blog/page/124/)，最早 2008
+        - [官方 youtube 视频](https://www.youtube.com/@CincomSmalltalk/videos)，最早 2012
+        - [Cincom Smalltalk™ Mobile App: HexSolve](https://www.cincomsmalltalk.com/main/successes/mobile-app-development-companies/hexsolve/)
+    - 1997 squeak
+    - 1997 [Dolphin Smalltalk](https://object-arts.com/gettingstarted.html)， 只支持 windows 系统
+        - Andy Bower MVP 早期
+            - Andy Bower Warning Smalltalk is dangerous. It is a. drug. My advice to you would be don't try it; it could ruin your life
+            - 2006 [Smalltalk UK meetings, 20-21 Oct](https://leastfixedpoint.com/tonyg/kcbbs/lshift_archive/smalltalk-uk-meetings-20-21-oct-20061024.html)
+            - 1994 开始开发 Dolphin Smalltalk
+            - [Twisting the Triad](https://mvc.givan.se/papers/Twisting_the_Triad.pdf)，[ppt](https://www.slideshare.net/slideshow/twisting-thetriad/4863815)
+        - [官方 youtube 视频](https://www.youtube.com/@objectarts/videos)，最早 2010
+        - 2006 宣布不再开发更新 dolphin 6，2015 开源 dolphin 7
+        
+    - pharo
+    - 2001年，Vassili Bykov实现了Hobbes，这是一种在VisualWorks内部运行SmallTalk-80的虚拟机。（ Dan Ingalls后来将Hobbes移植到吱吱声中。）
+- 历史回顾
+    - 1995 Dave Thomas [TravelsWithSmalltalk](https://web.archive.org/web/20010406134948/http://www.mojowire.com/TravelsWithSmalltalk/DaveThomas-TravelsWithSmalltalk.htm)
+    - 2020 Wirfs-Brock [The Rise and Fall of Commercial Smalltalk](http://wirfs-brock.com/allen/posts/914)
+    - 2020 Gilad Bracha [Bits of History, Words of Advice](https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html)
