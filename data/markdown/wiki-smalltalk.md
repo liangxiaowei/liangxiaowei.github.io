@@ -72,9 +72,10 @@
     -  David Buck used Cincom Smalltalk to develop [HexSolve](https://www.simberon.com/HexSolve/)
 - 会议/组织
     - OOPSLA，从 1986 开始，[可以找到 1986 开始的会议论文](https://dblp.org/db/conf/oopsla/oopsla87.html) 
-    - [The European Smalltalk User Group (ESUG)](https://esug.org/conferences.html) 1993 开始；2014 开始有视频
+    - [The European Smalltalk User Group (ESUG)](https://esug.org/conferences.html) 1993 开始；2008 开始有视频
     - 2006 [squeak news](https://news.squeak.org/?query-9-page=104)
-    - [fast](https://www.fast.org.ar/events/conferences)；2007 开始；2011 开始有[视频](https://www.youtube.com/@FASTFoundation/videos)
+    - [fast](https://www.fast.org.ar/events/conferences)；2007 开始；2009 开始有[视频](https://www.youtube.com/@FASTFoundation/videos)
+        - 喜剧扮演 oop vs fp 2011 [Hernan Wilkinson, Pablo Lopez - Sketch OO programming and functional programming](https://www.youtube.com/watch?v=dqYZYcSU97w&list=PLE90823AFF9C8177B&index=17)
     - [UK Smalltalk User Group](https://www.uksmalltalk.org/)，2008 开始；2020开始有[视频](https://www.youtube.com/@UKSTUG)
     - [Intelligent_Archive](https://tinlizzie.org/IA/index.php/Intelligent_Archive) alan kay 演讲集合
     - [Viewpoints Research Institute](http://vpri.org/)
@@ -95,10 +96,41 @@
             - [Twisting the Triad](https://mvc.givan.se/papers/Twisting_the_Triad.pdf)，[ppt](https://www.slideshare.net/slideshow/twisting-thetriad/4863815)
         - [官方 youtube 视频](https://www.youtube.com/@objectarts/videos)，最早 2010
         - 2006 宣布不再开发更新 dolphin 6，2015 开源 dolphin 7
-        
-    - pharo
+    - Cuis  
+        - 2009 [Juan Vuletich - Cuis And Morphic 3](https://www.youtube.com/watch?v=G8HniJhVxlA&t=2562s)
+        - 2011 [StyledTextEditor - Rich Text Editing with Styles](https://www.youtube.com/watch?v=pUoVbvwspi8&list=PL813665D04A2E4C0A&index=7)
+    - 2008 pharo
+        - 2008 [Stephane Ducasse - I Have A Dream, Let's Make It True](https://www.youtube.com/watch?v=oS_M8Q-kNsM&t=3091s)
+        - 2009 [Notes for the Pharo Developer](https://www.youtube.com/watch?v=XIg3kvT0MoA&list=PL74E35D8EC7E756AE&index=33)
+        - 2010 [Pharo](https://www.youtube.com/watch?v=pu-w9wX6RwQ&list=PL431285A978F581BB&index=14)
+        - 2011 [Coral: Integrating Pharo with the Shell](https://www.youtube.com/watch?v=hlo-x_eBWMA&list=PL813665D04A2E4C0A)
+        - 2011 [Humane Assessment with Moose](https://www.youtube.com/watch?v=JxBXxb2IrPs&list=PL813665D04A2E4C0A&index=17)
+        - 2011 [Pharo Roadmap](https://www.youtube.com/watch?v=cJfiNQ8zhIE&list=PL813665D04A2E4C0A&index=18)
+        - 2011 [Marcus Denker - Pharo, a year later](https://www.youtube.com/watch?v=sgh4h_kz7us&list=PLE90823AFF9C8177B&index=5)
+
     - 2001年，Vassili Bykov实现了Hobbes，这是一种在VisualWorks内部运行SmallTalk-80的虚拟机。（ Dan Ingalls后来将Hobbes移植到吱吱声中。）
 - 历史回顾
     - 1995 Dave Thomas [TravelsWithSmalltalk](https://web.archive.org/web/20010406134948/http://www.mojowire.com/TravelsWithSmalltalk/DaveThomas-TravelsWithSmalltalk.htm)
     - 2020 Wirfs-Brock [The Rise and Fall of Commercial Smalltalk](http://wirfs-brock.com/allen/posts/914)
     - 2020 Gilad Bracha [Bits of History, Words of Advice](https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html)
+- 大学
+    - 2010 [Teaching Adventures with Smalltalk](https://www.youtube.com/watch?v=BGHMsU6YXbI&list=PL431285A978F581BB&index=33)
+- people
+    - dan ingall
+        - [Dan Ingalls - A Fireside Chat With Dan Ingalls](https://www.youtube.com/watch?v=CY6-wHMWk3I&t=1578s) dan 喜欢物理，跟儿子一起做实验，发明一些东西，演示了一些 dan 业余生活写的程序
+        - [Dan Ingalls - 40 Years Of Fun With Computers](https://www.youtube.com/watch?v=LWxZQXi_Clk)
+    - Juan Vuletich
+        - 2009 [Juan Vuletich - Cuis And Morphic 3](https://www.youtube.com/watch?v=G8HniJhVxlA&t=2562s)
+    - Esteban Lorenzano
+        - 2010 [Mars - Just Another World](https://www.youtube.com/watch?v=POWL5rvvOlQ&t=888s)
+        - 2011 [Reef: an Update](https://www.youtube.com/watch?v=z18WM39WrrI&t=20s)
+        - [Reef - A component framework for Ajax/Javacript](https://www.youtube.com/watch?v=HQ6pR7ZU_jk&pp=ygUhUmVlZjogYW4gVXBkYXRlIEVzdGViYW4gTG9yZW56YW5v)
+    - Bert Freudenberg
+        - 2010 [Squeak and Etoys Community Update (2010)](https://www.youtube.com/watch?v=pd4By9TYoZQ&list=PL431285A978F581BB&index=7)
+        - 2011 [Gezira - Fast Graphics in OMeta/Squeak](https://www.youtube.com/watch?v=P97O8osukZ0&list=PL813665D04A2E4C0A&index=33)
+    - drGeo    
+        -  2008 [Demo: DrGeo (ESUG 2008)](https://www.youtube.com/watch?v=d06Q7vHQHh4&list=PL4A297B9019B3884D&index=26)
+    - Gilad Bracha，编程语言专家
+        - 2008 [Newspeak: Evolving Smalltalk for the Age of the Net](https://www.youtube.com/watch?v=gGJ2y0BNkpc&list=PL4A297B9019B3884D&index=3)   
+    - Tudor Girba，Glamour
+        - 2009 [Build your own browser in 15 min with Glamour](https://www.youtube.com/watch?v=qRGjDDZN99g&list=PL74E35D8EC7E756AE&index=3)    
