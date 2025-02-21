@@ -1,0 +1,12 @@
+- yjs
+    - 202111 [对可多人协同编辑的在线编辑器，如何设计其 undo/redo 的逻辑](https://www.zhihu.com/question/367915946/answer/2240528814)
+    - 202201 [探秘前端 CRDT 实时协作库 Yjs 工程实现](https://zhuanlan.zhihu.com/p/452980520)
+- blocksuite
+    - 使用 quill、yjs 来做协同编辑器，用 lit 来做 web component
+    - 20220911 第一次提交
+    - 20221027 左右公开[开源](https://x.com/ewind_dev/status/1587072584050364416)
+    - 20221214 [视频演示](https://x.com/ewind_dev/status/1602963591027601408) collaboration across multiple sub-documents with a user-wise undo stack. Cursor synchronization and rich-text binding also work
+    - 20221230 0.3
+    - 202304 0.5 将富文本编辑器从 quill 替换为了自研的 virgo（即现在的 @blocksuite/inline 富文本编辑器）
+    - 2023 年底，框架层已经差不多稳定，[创业第二年：风浪中前进的 2023](https://zhuanlan.zhihu.com/p/678400477)
+    - 
