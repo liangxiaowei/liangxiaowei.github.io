@@ -1,0 +1,25 @@
+
+- Anaconda 预先集成很多包，包括 conda
+- 系统 python 环境，mac 自带一个 pythone 环境，但是版本很旧，例如 python2.7
+- 
+- Python environment manager：同一个库不同版本共存，不同项目一个虚拟环境
+    - (pyenv-)virtualenv
+    - pyvenv(venv)：Python 从3.3 版本开始，自带了一个虚拟环境 venv
+- Python package manager，包管理
+    - pdm、uv、poetry
+    - pip 包管理工具，只能管 python 包
+    - conda 包管理工具，不止管 python
+- Python version manager，用来管理一台机器上的多个 Python 版本
+    - pyenv
+- 以上工具还会有交集，具有多种功能,参考[文章](https://alpopkes.com/posts/python/packaging_tools/)
+- [你的 Python 包都装到哪了？](https://frostming.com/2019/03-13/where-do-your-packages-go/)
+- 安装 pyenv，参考 [Python版本管理工具pyenv](https://zhuanlan.zhihu.com/p/664786383)
+    - brew install pyenv
+    - 根据自身环境，将环境变量加到对应文件中： .bashrc / .zshrc
+- 安装 python
+    - pyenv install -v 3.13.2
+    - 指定版本：pyenv global 3.13.2
+    - pyenv local 3.7.7
+    - pyenv shell 3.7.7
+    - 指定版本：pyenv global system
+    - pyenv 下载后 python 版本不见了，.zshrc 文件配置有问题，之前复制 [Mac上pyenv的安装与使用](https://juejin.cn/post/7056800493753860103) 里面的配置，有问题，后面用的 [Python版本管理工具pyenv](https://zhuanlan.zhihu.com/p/664786383)，也可参考 [[Python 教學] 如何切換 Python 版本，讓 Pyenv 幫你輕鬆管理版本](https://www.maxlist.xyz/2022/05/06/python-pyenv/)
