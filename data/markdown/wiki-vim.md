@@ -1,0 +1,32 @@
+- mac 自带 vim
+- 在命令行运行 vimTutor，会有一个基础教程
+- 2008《A Byte of Vim》Swaroop C H
+- 2010至今 vimgolf 用 vim 做题
+- 2015《Practical Vim》 Neil, Drew。2012第一版。
+- 2012 至今 vim adventures
+- 2018《Modern Vim》Neil, Drew。
+- [missing-semester_vim](https://missing-semester-cn.github.io/2020/editors/)
+- [Just Vim It](https://vim.nauxscript.com/)
+- 模式
+  - NORMAL: esc
+  - INSERT: i
+  - VISUAL: v
+  - COMMAND: `:`
+- 移动：
+  - h(左)、j(下)、k(上)、l(右)、
+  - ^(行首第一个非空字符)->H、g_(行尾第一个非空字符) -> L
+  - G(文件末尾)、gg(文件首行)
+  - 下一个：w(单词首字母)、e(单词末尾)、W、E
+  - 上一个：b(单词首字母)、B
+- 插入
+  - i(光标插入)、I(行首插入)、a(光标后插入)、A(行尾插入)、o(光标下插入)、O(光标上插入)
+- 删除
+  - dd: 删除一行
+  - dw: 删除单词
+  - c: 删除并进入编辑模式
+- 复制
+  - yy 复制一行
+  - 先 v + hjkl 选中，再 y
+- 粘贴：p
+- 撤销: u
+- 重做: Ctrl+r
