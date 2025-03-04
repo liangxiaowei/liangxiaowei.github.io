@@ -1,27 +1,37 @@
 [
-    {
-        "path": "js-object",
-        "name": "note on js object",
-        "date": "2024-12-15"
-    },
-    {
-        "path": "web-history",
-        "name": "web 开发历史长河",
-        "date": "2024-12-12"
-    },
-    {
-        "path": "读《我有关声誉、财富、权势的简单思索》",
-        "name": "读《我有关声誉、财富、权势的简单思索》",
-        "date": "2023-04-16"
-    },
-    {
-        "path": "archlinux-install",
-        "name": "从零开始使用 archlinux — dwm + st 打开 chrome 愉快上网",
-        "date": "2021-01-14"
-    },
-    {
-        "path": "比较编程学",
-        "name": "比较编程学",
-        "date": "2020-07-20"
-    }
+  {
+    "path": "road-vim",
+    "name": "vim 练习之路",
+    "date": "2025-03-01~"
+  },
+  {
+    "path": "road-understand-ai",
+    "name": "理解 AI 之路",
+    "date": "2025-02-26~"
+  },
+  {
+    "path": "js-object",
+    "name": "note on js object",
+    "date": "2024-12-15"
+  },
+  {
+    "path": "web-history",
+    "name": "web 开发历史长河",
+    "date": "2024-12-12"
+  },
+  {
+    "path": "读《我有关声誉、财富、权势的简单思索》",
+    "name": "读《我有关声誉、财富、权势的简单思索》",
+    "date": "2023-04-16"
+  },
+  {
+    "path": "archlinux-install",
+    "name": "从零开始使用 archlinux — dwm + st 打开 chrome 愉快上网",
+    "date": "2021-01-14"
+  },
+  {
+    "path": "比较编程学",
+    "name": "比较编程学",
+    "date": "2020-07-20"
+  }
 ]
