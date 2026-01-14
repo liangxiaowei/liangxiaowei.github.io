@@ -1,54 +1,53 @@
-
 - Anaconda 预先集成很多包，包括 conda
 - 系统 python 环境，mac 自带一个 pythone 环境，但是版本很旧，例如 python2.7
-- 
+-
 - Python environment manager：同一个库不同版本共存，不同项目一个虚拟环境
-    - (pyenv-)virtualenv
-    - pyvenv(venv)：Python 从3.3 版本开始，自带了一个虚拟环境 venv
+  - (pyenv-)virtualenv
+  - pyvenv(venv)：Python 从 3.3 版本开始，自带了一个虚拟环境 venv
 - Python package manager，包管理
-    - pdm、uv、poetry
-    - pip 包管理工具，只能管 python 包
-    - conda 包管理工具，不止管 python
+  - pdm、uv、poetry
+  - pip 包管理工具，只能管 python 包
+  - conda 包管理工具，不止管 python
 - Python version manager，用来管理一台机器上的多个 Python 版本
-    - pyenv
+  - pyenv
 - 以上工具还会有交集，具有多种功能,参考[文章](https://alpopkes.com/posts/python/packaging_tools/)
 - [你的 Python 包都装到哪了？](https://frostming.com/2019/03-13/where-do-your-packages-go/)
-- 安装 pyenv，参考 [Python版本管理工具pyenv](https://zhuanlan.zhihu.com/p/664786383)
-    - brew install pyenv
-    - 根据自身环境，将环境变量加到对应文件中： .bashrc / .zshrc
+- 安装 pyenv，参考 [Python 版本管理工具 pyenv](https://zhuanlan.zhihu.com/p/664786383)
+  - brew install pyenv
+  - 根据自身环境，将环境变量加到对应文件中： .bashrc / .zshrc
 - 安装 python
-    - pyenv install -v 3.13.2
-    - 指定版本：pyenv global 3.13.2
-    - pyenv local 3.7.7
-    - pyenv shell 3.7.7
-    - 指定版本：pyenv global system
-    - pyenv 下载后 python 版本不见了，.zshrc 文件配置有问题，之前复制 [Mac上pyenv的安装与使用](https://juejin.cn/post/7056800493753860103) 里面的配置，有问题，后面用的 [Python版本管理工具pyenv](https://zhuanlan.zhihu.com/p/664786383)，也可参考 [[Python 教學] 如何切換 Python 版本，讓 Pyenv 幫你輕鬆管理版本](https://www.maxlist.xyz/2022/05/06/python-pyenv/)
+  - pyenv install -v 3.13.2
+  - 指定版本：pyenv global 3.13.2
+  - pyenv local 3.7.7
+  - pyenv shell 3.7.7
+  - 指定版本：pyenv global system
+  - pyenv 下载后 python 版本不见了，.zshrc 文件配置有问题，之前复制 [Mac 上 pyenv 的安装与使用](https://juejin.cn/post/7056800493753860103) 里面的配置，有问题，后面用的 [Python 版本管理工具 pyenv](https://zhuanlan.zhihu.com/p/664786383)，也可参考 [[Python 教學] 如何切換 Python 版本，讓 Pyenv 幫你輕鬆管理版本](https://www.maxlist.xyz/2022/05/06/python-pyenv/)
 - python venv
-    - 一开始直接在项目文件夹下面创建了虚拟环境，项目文件夹下面会多出几个文件夹，然后新建了一个文件夹，把这些文件夹弄到一起，结果把 pip 安装的包不在虚拟环境里。其实整个虚拟环境失效了。
-    - 建议创建环境的时候，就单独起一个文件夹：python -m venv venv
-    - source ./venv/bin/activate
-    - which python 查看是否是虚拟环境
+  - 一开始直接在项目文件夹下面创建了虚拟环境，项目文件夹下面会多出几个文件夹，然后新建了一个文件夹，把这些文件夹弄到一起，结果把 pip 安装的包不在虚拟环境里。其实整个虚拟环境失效了。
+  - 建议创建环境的时候，就单独起一个文件夹：python -m venv venv
+  - source ./venv/bin/activate
+  - which python 查看是否是虚拟环境
 - jupyterlab 是下一代的 jupyterlab notebook，所以装 jupyterlab 就行，不需要安装 jupyterlab notebook。
-    - 安装 jupyterlab：pip install jupyterlab
-    - 启动：jupyter lab
-    - jupyter lab 找不到虚拟环境的库：[Setting up JupyterLab and a virtual environment](https://medium.com/@royce963/setting-up-jupyterlab-and-a-virtual-environment-c79002e0e5f7)
-        - pip install ipykernel
-        - python -m ipykernel install --user --name=venv // venv 是之前创建的虚拟环境的名字
-        - jupyter lab 就可以看到虚拟环境
+  - 安装 jupyterlab：pip install jupyterlab
+  - 启动：jupyter lab
+  - jupyter lab 找不到虚拟环境的库：[Setting up JupyterLab and a virtual environment](https://medium.com/@royce963/setting-up-jupyterlab-and-a-virtual-environment-c79002e0e5f7)
+    - pip install ipykernel
+    - python -m ipykernel install --user --name=venv // venv 是之前创建的虚拟环境的名字
+    - jupyter lab 就可以看到虚拟环境
 - 安装 numpy，用于科学计算和数值操作，例如多维数组
 - 安装 scipy，用于科学计算和数据分析
 - 安装 matplotlib，用于创建各种类型的图形和可视化
 - 安装 pandas，用于数据分析和数据操作的高性能库。Pandas 提供了两种主要数据结构：Series 和 DataFrame，用于处理和操作各种类型的数据，包括表格数据、时
-间序列数据等等
+  间序列数据等等
 - 安装 statsmodels，用于执行统计分析和建立统计模型，包括线性回归、时间序列分析、假设检验和许多其他统计方法。
 - 安装 Scikit-Learn，也称 sklearn，是一个强大的开源机器学习库，提供了用于各种机器学习任务的工具和算法。它包括分类、回归、聚类、降维、模型选择、模型评估等各种机器学习任务的实现。Scikit-Learn 还包括用于数据预处理和特征工程的功能
 - 安装 plotly，一款交互式的数据可视化工具，可用于创建丰富的图形和可视化应用程序
-- 安装 seaborn，数据可视化库，它集成了matplotlib
-    - sns.load_dataset("iris") 加载数据集可能没反应
-        - [seaborn从入门到精通-seaborn在load_dataset(“tips“)出现超时的错误](https://cloud.tencent.com/developer/article/2343610)
-        - 可以通过 sns.utils.get_data_home() 查看数据存放的位置
-        - 可以把数据集下载到本地，放到上面的位置
+- 安装 seaborn，数据可视化库，它集成了 matplotlib
+  - sns.load_dataset("iris") 加载数据集可能没反应
+    - [seaborn 从入门到精通-seaborn 在 load_dataset(“tips“)出现超时的错误](https://cloud.tencent.com/developer/article/2343610)
+    - 可以通过 sns.utils.get_data_home() 查看数据存放的位置
+    - 可以把数据集下载到本地，放到上面的位置
 - 不懂的地方
-    - 取出列向量：[row[0] for row in A]
-    - 过滤后加总：count = sum(i % 2 == 0 for i in numbers)
-    - 生成等差数列数组：x_array = [x_start + i * step for i in range(num)]
+  - 取出列向量：[row[0] for row in A]
+  - 过滤后加总：count = sum(i % 2 == 0 for i in numbers)
+  - 生成等差数列数组：x_array = [x_start + i * step for i in range(num)]

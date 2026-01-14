@@ -1,77 +1,90 @@
 - 基本概念
-    - reasoning 能力，推理？
-    - long context window
-    - finetune
-    - agent
-    - Token
-    - indexer
+  - reasoning 能力，推理？
+  - long context window
+  - finetune
+  - agent
+  - Token
+  - indexer
 - 技术
-    - 2017 年，发布了《Attention Is All You Need》论文，为后续发展奠定基础。
-    - 2017 transformer
-    - 2018 年，Google 提出 BERT（Bidirectional Encoder Representations from Transformers），其创新性地采用双向预训练并行获取上下文语义信息，以及掩码语言建模（MLM）以更好地推断语义信息，参数规模在 110M 到 340M 之间。
-    - 2018 年，OpenAI 提出 GPT（Generative Pre-trained Transformer），开创了仅使用自回归语言建模作为预训练目标而无需额外监督信号的方式，展示了强大的语言生成能力，参数规模达 1750 亿。
-    - RAG，通过向模型提供外部数据源来减少幻觉问题。
-        - Meta 2020年发表的关于RAG的论文Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
-    - 2021 年，Meta 提出 Large LAnguage Model Approach（LLAMA），这是首个开源模型，为构建更大规模、更通用的语言模型提供了方法与工具，参数规模在十亿到千亿之间。
-    - 大语言模型，百千亿参数
-    
-    - 多模态
+
+  - 2017 年，发布了《Attention Is All You Need》论文，为后续发展奠定基础。
+  - 2017 transformer
+  - 2018 年，Google 提出 BERT（Bidirectional Encoder Representations from Transformers），其创新性地采用双向预训练并行获取上下文语义信息，以及掩码语言建模（MLM）以更好地推断语义信息，参数规模在 110M 到 340M 之间。
+  - 2018 年，OpenAI 提出 GPT（Generative Pre-trained Transformer），开创了仅使用自回归语言建模作为预训练目标而无需额外监督信号的方式，展示了强大的语言生成能力，参数规模达 1750 亿。
+  - RAG，通过向模型提供外部数据源来减少幻觉问题。
+    - Meta 2020 年发表的关于 RAG 的论文 Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  - 2021 年，Meta 提出 Large LAnguage Model Approach（LLAMA），这是首个开源模型，为构建更大规模、更通用的语言模型提供了方法与工具，参数规模在十亿到千亿之间。
+  - 大语言模型，百千亿参数
+
+  - 多模态
 
 - 大语言模型
-    - 2020 OpenAI GPT-3
-    - 2023-2 Llama-1 开源，可以自己找硬件部署
-    - 2023-3 有 claude 了
-    - 2023-3 GPT-3.5 turbo
-    - 2023-3 [OpenAI GPT-4](https://x.com/tisoga/status/1635696124324630529)
-    - 2023-12 google Gemini
-    - 2024-3 Claude 3 Opus、Sonnet、Haiku
-    - 2024-5 GPT-4o
-    - 2024-7 GPT-4o mini 多模态小模型 
-    - 2024-6 claude 3.5 Sonnet
-    - 2024-12 OpenAI GPT-o1
-    - 2024-12 deepSeek V3
-    - 2025-1 deepSeek R1
-    - 通义 阿里
-    - LLama系列（Meta）
+  - 2020 OpenAI GPT-3
+  - 2023-2 Llama-1 开源，可以自己找硬件部署
+  - 2023-3 有 claude 了
+  - 2023-3 GPT-3.5 turbo
+  - 2023-3 [OpenAI GPT-4](https://x.com/tisoga/status/1635696124324630529)
+  - 2023-12 google Gemini
+  - 2024-3 Claude 3 Opus、Sonnet、Haiku
+  - 2024-5 GPT-4o
+  - 2024-7 GPT-4o mini 多模态小模型
+  - 2024-6 claude 3.5 Sonnet
+  - 2024-12 OpenAI GPT-o1
+  - 2024-12 deepSeek V3
+  - 2025-1 deepSeek R1
+  - 2025-05 claude sonnet 4、claude opus4
+  - 2025-08 gpt5
+  - 2025-09 gpt5-codex
+  - claude sonnet 4.5
+  - 2025-11 claude opus4.5
+  - 2025-12 GPT‑5.2-Codex
+  - 通义 阿里
+  - LLama 系列（Meta）
 - AI 搜索
-    - 2022 [Perplexity](https://x.com/forrestzh_/status/1723632250137481246/photo/1)
+  - 2022 [Perplexity](https://x.com/forrestzh_/status/1723632250137481246/photo/1)
 - AI 笔记
-    - 2024-8 google 发布 notebooklm
+  - 2024-8 google 发布 notebooklm
 - AI 编程应用
-    - 2021 copilot
-    - 2023-3 vercel v0 前端生成
-    - 2023-3 zed 编辑器
-    - 2024-1 cursor 编辑器，第一条推特，2023 开始开发
-    - 2024-1 loable 前端生成
-    - 2023-11 devv_ai 针对编程的搜索
-    - 2024-2 devv 发布 Agent 模式
-    - 2024-3 发布 Devin AI 编程助手
-    - 2024-4 devv_ai 集成 github，可以快速了解一个 github 项目，提问等
-    - 2024-6 claude 3.5 + Artifact，用户可以在对话窗口旁查看、编辑和构建Claude 生成的内容，如代码片段、文本文件和网站设计
-    - 2024-7 devv 发布 vscode 插件
-    - 2024-8 devv 支持图片
-    - 2024-8 cursor composer
-    - 2024-9 Devv.AI 已经发布了新的 AI Profile 功能，现在可以设定个人背景信息 & 指定 Devv 回答的风格。
-    - 2024-10 Devv.AI playground 功能、context 功能
-    - 2024-10 Bolt.new 前端生成  
-    - 2024-11 Devv.AI 发布国内版本 代悟
-    - 2024-11 windsurf AI 编辑器
-    - 2025-1 devv builder，backend 版本的 v0/bolt.new。
+  - 2021 copilot
+  - 2023-3 vercel v0 前端生成
+  - 2023-3 zed 编辑器
+  - 2024-1 cursor 编辑器，第一条推特，2023 开始开发
+  - 2024-1 loable 前端生成
+  - 2023-11 devv_ai 针对编程的搜索
+  - 2024-2 devv 发布 Agent 模式
+  - 2024-3 发布 Devin AI 编程助手
+  - 2024-4 devv_ai 集成 github，可以快速了解一个 github 项目，提问等
+  - 2024-6 claude 3.5 + Artifact，用户可以在对话窗口旁查看、编辑和构建 Claude 生成的内容，如代码片段、文本文件和网站设计
+  - 2024-7 devv 发布 vscode 插件
+  - 2024-8 devv 支持图片
+  - 2024-8 cursor composer
+  - 2024-9 Devv.AI 已经发布了新的 AI Profile 功能，现在可以设定个人背景信息 & 指定 Devv 回答的风格。
+  - 2024-10 Devv.AI playground 功能、context 功能
+  - 2024-10 Bolt.new 前端生成
+  - 2024-11 Devv.AI 发布国内版本 代悟
+  - 2024-11 windsurf AI 编辑器
+  - 2025-1 devv builder，backend 版本的 v0/bolt.new。
+  - 2025-2 claude code
+  - 2025-5 codex(IDE)
+  - 2025-6 opencode、Gemini CLI
+  - 2025-11 antigravity(IDE)
+  - 2026-01-03 oh my opencode
+  - claude cowork 模式
 - 文生图
-    - 2022-年中 DALLE·2
-    - 2022-7  Stable Diffusion
+  - 2022-年中 DALLE·2
+  - 2022-7 Stable Diffusion
 - devv
-    - 2023-12 [devv.ai 是如何构建高效的 RAG 系统的](https://x.com/tisoga/status/1731478506465636749)
-    - 2023-12 [devv.ai 是如何构建高效的 RAG 系统的 Part 2](https://x.com/tisoga/status/1736544319199478175)
-    - Devv做的事情是先推断出现在用的框架是LangChain，会根据问题的语义在Github上的code base中找到代码片段，基于代码片段和互联网的数据做Source的整合，再生成最后的答案，相对来说准确性更高。
-    - 一个基本的RAG系统通常由三部分构成：底层模型、外部知识的索引和每次用户查询时获取的一小部分外部资源。下面这张图把Devv的RAG System分成了6个步骤，首先是外部知识，包括搜索引擎数据、开发文档和代码仓库数据。对于这些不同类型的数据，需要采用不同的编码方式来提取有效信息并减少噪音，进而构建专有的索引，编码方式不同，构建索引的方式可能也不同。有了这些index之后，每次用户提出的问题都会在索引中解码并检索最相关的资源。然后，根据当前的场景，对这些资源进行排序，最后由底层模型使用这些资源来生成答案。这就是整个RAG System核心的工作方式，每一步都有很多可以优化的点。
+  - 2023-12 [devv.ai 是如何构建高效的 RAG 系统的](https://x.com/tisoga/status/1731478506465636749)
+  - 2023-12 [devv.ai 是如何构建高效的 RAG 系统的 Part 2](https://x.com/tisoga/status/1736544319199478175)
+  - Devv 做的事情是先推断出现在用的框架是 LangChain，会根据问题的语义在 Github 上的 code base 中找到代码片段，基于代码片段和互联网的数据做 Source 的整合，再生成最后的答案，相对来说准确性更高。
+  - 一个基本的 RAG 系统通常由三部分构成：底层模型、外部知识的索引和每次用户查询时获取的一小部分外部资源。下面这张图把 Devv 的 RAG System 分成了 6 个步骤，首先是外部知识，包括搜索引擎数据、开发文档和代码仓库数据。对于这些不同类型的数据，需要采用不同的编码方式来提取有效信息并减少噪音，进而构建专有的索引，编码方式不同，构建索引的方式可能也不同。有了这些 index 之后，每次用户提出的问题都会在索引中解码并检索最相关的资源。然后，根据当前的场景，对这些资源进行排序，最后由底层模型使用这些资源来生成答案。这就是整个 RAG System 核心的工作方式，每一步都有很多可以优化的点。
 - 资源
-    - Andrej Karpathy youtube 解释 gpt [Let’s reproduce GPT-2 (124M)](https://x.com/karpathy/status/1799949853289804266)
-    - sebastian raschka 《build a large language model》
-    - [推荐 Paul Liu 老师的这个科普视频：如何微调大语言模型](https://www.youtube.com/watch?v=YhZJNKhRCx4)
-    - [推荐一下台大 Vivian Chen 的应用深度学习课程](https://x.com/forrestzh_/status/1865972779323195601)，基本上是跟着最新的行业进展来讲的，例如最近的 Multi Agent 的最新架构也有讲到
+  - Andrej Karpathy youtube 解释 gpt [Let’s reproduce GPT-2 (124M)](https://x.com/karpathy/status/1799949853289804266)
+  - sebastian raschka 《build a large language model》
+  - [推荐 Paul Liu 老师的这个科普视频：如何微调大语言模型](https://www.youtube.com/watch?v=YhZJNKhRCx4)
+  - [推荐一下台大 Vivian Chen 的应用深度学习课程](https://x.com/forrestzh_/status/1865972779323195601)，基本上是跟着最新的行业进展来讲的，例如最近的 Multi Agent 的最新架构也有讲到
 - cursor
-    - 2024-9 [最近深入使用 Cursor 的一些感受](https://x.com/forrestzh_/status/1833049144203890957)
-    - 2024-9 [Cursor入门教程0 - 为什么放弃Github Copilot?](https://sunnyd.top/blog/learn-cursor-0-why-use-cursor)
+  - 2024-9 [最近深入使用 Cursor 的一些感受](https://x.com/forrestzh_/status/1833049144203890957)
+  - 2024-9 [Cursor 入门教程 0 - 为什么放弃 Github Copilot?](https://sunnyd.top/blog/learn-cursor-0-why-use-cursor)
 - AI idea
-    - AI 获取一个人的所有 twitter 
+  - AI 获取一个人的所有 twitter
