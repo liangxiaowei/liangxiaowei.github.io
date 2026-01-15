@@ -1,5 +1,10 @@
 [
   {
+    "path": "road-fp",
+    "name": "函数式编程之路",
+    "date": "2026-01-13~"
+  },
+  {
     "path": "road-vim",
     "name": "vim 练习之路",
     "date": "2025-03-01~"
