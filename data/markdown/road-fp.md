@@ -1,3 +1,5 @@
+> day4: 继续看《Grokking Simplicity》第 8 章。这一章开始讲怎么设计程序里的函数，介绍的第一种方法是 Stratified design（分层设计）。作者说这个方法最值得注意的贡献者是 Harold Abelson and Gerald Sussman。搜了一下竟然是大名鼎鼎的 SCIP 的作者，他们有一篇论文是《LISP: a language for stratified design》。SCIP 这本书看了几次都没看完，有生之年一定要看完，下次一定（狗头。这里的分层设计指的是函数里面的代码细节需要是一个层次的，其中一个维度是粗粒度的代码不能和细粒度的混在一起，这个观念我好像之前在推上刷到过。  | 2026.01.16
+
 > day3: 继续看《Grokking Simplicity》第 7 章。竟然在 b 站找到了上次提到的视频， 是 Rafal Dittwald 的 [Solving Problems the Clojure Way](https://b23.tv/kYbX27R)，有兴趣的可以看一下。针对 cljs 进入了一堆兔子洞，差点出不来。cljs 社区基本上都是 react 生态，有很多个 react wrapper，penpot 用的 rumext，logseq 用的 rum，nubank 用的 uix，与 uix 类似的有 helix，老牌的还有 reagent。还发现一些比较简单轻量的库，让你可以摆脱 cljs 复杂的工具链，例如 scittle 可以直接在浏览器实时解析 cljs 代码，还有 squint 使用的原生 js 数据，这俩都是同一个大神出品。 | 2026.01.15
 
 > day2: 继续看《Grokking Simplicity》第 6 章。| 2026.01.14
